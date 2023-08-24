@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Ando"
+  given-names: "Aki"
+- family-names: "Yutaka"
+  given-names: "Uno"
+- family-names: "Kawabata"
+  given-names: "Kyoko"
+- family-names: "Fujimaki"
+  given-names: "Takako"
+- family-names: "Yada"
+  given-names: "Shuntaro"
+- family-names: "Wakamiya"
+  given-names: "Shoko"
+- family-names: "Aramaki"
+  given-names: "Eiji"
+title: "NursingRecord_dataset"
+version: 1.0
+date-released: 2023-3-22
+url: "https://github.com/sociocom/NursingRecord_NERdataset"

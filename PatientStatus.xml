@@ -1,0 +1,5035 @@
+<root>
+<DOCUMENT num=０００１>	
+<DATE>１１月１日　１９：００</DATE><TITLE>便秘時指示</TITLE>
+<S>「<body>お腹</body><cc1>苦しくない</cc1>よ。<t-key>ガス</t-key>はたまに<t-val>出る</t-val>ね　」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００２>	
+<DATE>１１月２日　２２：００</DATE><TITLE>転倒</TITLE>
+<S>「<body>右腕</body>が<cc1>痛い</cc1>。転んだ時に<incident>ぶつけた</incident>　」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００３>	
+<DATE>１１月３日　１３：００</DATE><TITLE>点滴施行</TITLE>
+<S>「<cc1>気持ちが悪い</cc1>。<nutrition>食べたくない</nutrition>。<cc1>ふらふら</cc1>する　」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００４>	
+<DATE>１１月４日　２１：３０</DATE><TITLE>不眠訴え</TITLE>
+<S>「<cc1>眠れません</cc1>。<m-key>薬</m-key><medicine>ください</medicine>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００５>	
+<DATE>１１月５日　１１：００</DATE><TITLE>ｂｔ４０℃</TITLE>
+<S>「うー、うー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００６>	
+<DATE>１１月６日　１５：００</DATE><TITLE>病状説明</TITLE>
+<S>「本人の望むようにしてやってください」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００７>	
+<DATE>１１月７日　９：００</DATE><TITLE>カンファレンス</TITLE>
+<S>「<cc1>苦しい</cc1>んです。<t-key>痰</t-key>も<t-val>出る</t-val>し」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００８>	
+<DATE>１１月８日　８：４０</DATE><TITLE>吐血</TITLE>
+<S>声をかけるが反応なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０００９>	
+<DATE>１１月９日　９：３０</DATE><TITLE>無断離院</TITLE>
+<S>「いつになったら退院できるんですか。もう<ps_other>家に帰りたい</ps_other>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１０>	
+<DATE>１１月１０日　１６：００</DATE><TITLE>暴力</TITLE>
+<S>「洗面所使ってたらあいつがバカって言ったから<incident>殴った</incident>ったんだわ！私は悪くない」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１１>	
+<DATE>１月２９日　１０：０７</DATE>
+<S><body>お腹</body>が<cc1>痛い</cc1>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１２>	
+<DATE>１１月８日</DATE>
+<S><incident>転んじゃった</incident>、ご飯はまだですか？<incident>尻もちをつい</incident>たと思う。。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１３>	
+<DATE>８月１６日　１３：３０</DATE>
+<S><ps_other>家でゆっくり過ごしたい</ps_other>。家の事は夫がやるので大丈夫です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１４>	
+<DATE>６月２０日　１８：２０</DATE>
+<S><cc1>けいれん</cc1>がつづいている。<nutrition>ご飯は食べたい</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１５>	
+<DATE>１０月１０日　１４：００</DATE>
+<S>うっうっ・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１６>	
+<DATE>５月５日　１０：００</DATE>
+<S><cc1>気持ちが悪い</cc1>・・・<cc1>目が回る</cc1>感じがする</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１７>	
+<DATE>１１月２１日　１１：３０</DATE>
+<S><cc1>ねむい・・・ねむい・・・</cc1><body>頭</body><cc1>痛い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１８>	
+<DATE>７月７日　１３：００</DATE>
+<S>なんか<body>腰</body>が<cc1>痛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００１９>	
+<DATE>１２月１０日　２３：００</DATE>
+<S>なかなか<cc1>眠れません</cc1>、<disease>癌</disease>だったら<ps_other>どうしよう</ps_other></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２０>	
+<DATE>２月１６日　１０：００</DATE>
+<S><cc1>息苦しい</cc1>・・・<t-key>痰</t-key>が<t-val>ゴロゴロ</t-val>してる</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２１>	
+<DATE>１１／８／２１　１０：００</DATE>
+<S><position>寝たら</position><cc1>しんどい</cc1>けど<position>座ってたら</position><cc1>楽</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２２>	
+<DATE>１１／８／２１　１０：００</DATE>
+<S><t-key>痰</t-key>が<t-val>絡んで</t-val><cc1>息がしずらい</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２３>	
+<DATE>１１／８／２１　１０：００</DATE>
+<S><body>右手</body>の<cc1>動かしにくさ</cc1>残ってます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２４>	
+<DATE>１１／８／２１　１６：００</DATE>
+<S><t-test>検査（ＣＡＧ・下肢造影）</t-test>は無事に終わったけど、<feature>急に</feature>この辺が<cc1>痛く</cc1>なってきて</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２５>	
+<DATE>１１／８／２１　１５：００</DATE>
+<S>家では<ps_LH>コンビニ弁当よく買ってきて食べてました</ps_LH>。あと<ps_LH>甘いものも好き</ps_LH>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２６>	
+<DATE>１１／９／２１　１４：００</DATE>
+<S><body>お尻</body><cc1>痛い</cc1>な。<request>横向けて欲しい</request></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２７>	
+<DATE>１１／９／２１　１５：００</DATE>
+<S>放射線治療から帰ってきた。当ててるところ<cc1>なんともない</cc1>で</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２８>	
+<DATE>１１／９／２１　１６：００</DATE>
+<S><cc1>疲れました</cc1>。<cc1>痛くない</cc1>ですよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００２９>	
+<DATE>１１／１０／２１　１０：００</DATE>
+<S>ここ数日<t-key>便</t-key>が<t-val>出てなくて</t-val><feature>少し</feature><cc1>張ってる</cc1>気がします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３０>	
+<DATE>１１／１０／２１　１４：００</DATE>
+<S><cc1>息が急にしんどく</cc1>なってきた</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３１>	
+<DATE>１１月９日１５：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>（<feature>ちょっと</feature><cc1>息苦しい</cc1>です。<t-key>痰</t-key>が<t-val>ゴロゴロ</t-val>してます。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３２>	
+<DATE>１１月９日２２：００</DATE><TITLE>不安</TITLE>
+<S>（<ps_other>話せなくてつらい</ps_other>です。一時的なものであると分かっているけど結構<ps_other>ストレス</ps_other>ですね。夜もあまり<cc1>眠れなそう</cc1>です。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３３>	
+<DATE>１１月１０日８：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>わかってるわよ。<adherence>一人で立っちゃいけない</adherence>のよね。<ps_pending>トイレに行きたかった</ps_pending>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３４>	
+<DATE>１１月１０日１０：００</DATE><TITLE>急性混乱</TITLE>
+<S>いまは<ps_pending>夜なの？ここは家？</ps_pending></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３５>	
+<DATE>１１月１０日１４：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>おしり</body>のとこ<cc1>痛い</cc1>です。前からそうです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３６>	
+<DATE>１１月１１日１４：００</DATE><TITLE>出血リスク状態</TITLE>
+<S>（唾を出したら<feature>少し</feature><cc1>血が混じった</cc1>けど、たくさん出ている感じはない。<body>喉</body>が<feature>少し</feature><cc1>痛い</cc1>けど<feature>我慢できる</feature>。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３７>	
+<DATE>１１月１１日１５：００</DATE><TITLE>嚥下障害</TITLE>
+<S>とろみがついてて<nutrition>食べやすい</nutrition>よ。たまに<cc1>むせちゃう</cc1>から<nutrition>ゆっくり食べる</nutrition>ようにしているよ。<adherence>練習も頑張ってやってい</adherence>るよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３８>	
+<DATE>１１月１２日１０：００</DATE><TITLE>便秘</TITLE>
+<S>もう３日<t-val>出ていない</t-val>です。入院するまで<cc1>便秘はない</cc1>し<m-key>下剤</m-key>は<medicine>使ったことない</medicine>です。普段は１日１回<t-val>でます</t-val>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００３９>	
+<DATE>１１月１２日１５：００</DATE><TITLE>病状説明同席記録</TITLE> 　
+<S>そうですか。<disease>癌</disease>ですか。まさか自分が<disease>癌</disease>になるとは思っていなかったので<cc2>信じられない</cc2>気持ちです。でも８０歳まで元気に生きてきたし<cc2>受け入れるしかない</cc2>ですね。手術は家族とよく相談してみます。手術をして治る可能性はどれくらいですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４０>	
+<DATE>１１月１２日１６：００</DATE><TITLE>病状説明同席記録</TITLE> 　
+<S><ps_other>家に帰りたい</ps_other>けど、息子にも家族があるし、俺の面倒は見られないと思う。<ps_other>転院で良い</ps_other>です。最期は家で過ごしたいという強い思いはないから。（以下、息子）そうですね。もちろんみてあげたいんですが、自宅ではなかなか・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４１>	
+<DATE>１１月５日９：００</DATE><TITLE>低血糖</TITLE>
+<S>何だか<cc1>気分が悪い</cc1>です・・・。朝ごはんも<nutrition>そんなに食べれなかった</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４２>	
+<DATE>８月２０日１６：００</DATE><TITLE>転倒・起立性低血圧</TITLE>
+<S><ps_pending>トイレに行こうとしました</ps_pending>。何で<incident>こけてしまった</incident>のか、自分では全然覚えてないです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４３>	
+<DATE>１０月２５日２３；００</DATE><TITLE>腎生検前の不安</TITLE>
+<S>明日<t-key>検査</t-key>なんですよね・・・。先生は背中に太い針を刺すと言ってましたが、<ps_pending>痛いんでしょうか</ps_pending>。正直<cc2>怖い</cc2>です。どうしてもしないといけないんでしょうか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４４>	
+<DATE>４月２０日９：３０</DATE><TITLE>発熱</TITLE>
+<S>身体が<cc1>だるい</cc1>・・・。<feature>ちょっと</feature><cc1>息苦しい</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４５>	
+<DATE>５月１５日</DATE><TITLE>褥瘡</TITLE>
+<S><body>お尻</body>が<cc1>痛い</cc1>。ちょっと見て。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４６>	
+<DATE>６月３０日１３：３０</DATE><TITLE>人工呼吸器アラーム</TITLE>
+<S><request>たんとって</request>（文字盤を指で指される）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４７>	
+<DATE>７月２日１９：４５</DATE><TITLE>不穏</TITLE>
+<S>もう家に帰らないと・・・。帰らせて下さい。ここはどこなんですか。何で私を閉じ込めるんですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４８>	
+<DATE>３月２９日</DATE><TITLE>疼痛コントロール</TITLE>
+<S><body>腰</body>が<cc1>痛くて</cc1>・・・<cc1>眠れない</cc1>んです。<adherence>動くのも嫌</adherence>になってしまいます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００４９>	
+<DATE>１月１０日１５：００</DATE><TITLE>血圧高値</TITLE>
+<S>全然自覚は無いんですけど。あー、ちょっと下がりましたね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５０>	
+<DATE>１２月１０日</DATE><TITLE>Ｄｒ．からの病状説明</TITLE>
+<S>自分は<ps_pending>今どんな状態なんですか</ps_pending>？<ps_pending>これからどんな流れで治療していくんでしょうか</ps_pending>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５１>	
+<DATE>９月１３日１１：３０</DATE>
+<S><cc1>大丈夫、痛くない</cc1>です。<feature>少し</feature><cc1>疲れた</cc1>だけです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５２>	
+<DATE>９月１７日　２２：００</DATE>
+<S>いや、<cc1>大丈夫。大丈夫</cc1>。<feature>ちょっと</feature><incident>滑った</incident>だけだから。大げさにしないでよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５３>	
+<DATE>９月１７日　１５：００</DATE>
+<S><body>おなか</body>？<cc1>痛くない</cc1>よ。なんか、<feature>少し</feature><cc1>変な感じ</cc1>あるかな。<cc1>ふわふわ</cc1>する気がする。<cc1>気持ちは悪くない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５４>	
+<DATE>９月２０日　１０：００</DATE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５５>	
+<DATE>９月２６日　１５：００</DATE>
+<S>え？なんのことですか？<cc1>平気</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５６>	
+<DATE>９月３０日　１３：００</DATE>
+<S><feature>ちょっと</feature><cc1>動きずらい</cc1>ですね。動かさなければ<cc1>痛くない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５７>	
+<DATE>１０月２日　１１：００</DATE>
+<S>これつけなくちゃだめなの？<cc1>いやだな</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５８>	
+<DATE>１０月２日　１３：３０</DATE>
+<S>私ね、そろそろお暇させていただきますから</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００５９>	
+<DATE>１０月７日　１３：３０</DATE>
+<S>これ、なんだ！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６０>	
+<DATE>１０月１０日　１７：３０</DATE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６１>	
+<DATE>１０月１日　１４：４０</DATE>
+<S>我慢できなくて、ほんのちょこっと、お饅頭をほんの一口だけ<adherence>食べちゃった</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６２>	
+<DATE>１０月２日　２：５４</DATE>
+<S><feature>急に</feature><cc1>めまい</cc1>がしちゃって、<cc1>フラフラ</cc1>って。　トイレで<t-key>お通じ</t-key>が<t-val>あって</t-val>、そのあと手を洗ってたら<cc1>目の前が真っ暗</cc1>になっちゃって。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６３>	
+<DATE>１０月３日　９：３０</DATE>
+<S>よろしくお願いします。入院は初めてなので、<feature>ちょっと</feature><cc1>緊張</cc1>してます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６４>	
+<DATE>１０月４日　１０：３０</DATE>
+<S>はい、わかりました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６５>	
+<DATE>１０月５日 １０：５０</DATE>
+<S>もう<cc1>痛みもない</cc1>よ。夜も<cc1>ぐっすり</cc1>だよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６６>	
+<DATE>１０月６日　１０：００</DATE>
+<S><cc1>元気</cc1>です。ありがとうございました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６７>	
+<DATE>１０月７日　１４：３２</DATE>
+<S>はい、わかりました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６８>	
+<DATE>１０月８日　９：００</DATE>
+<S>早く<ps_other>歩きたい</ps_other>よ。<body>腰</body>が<cc1>痛くて</cc1>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００６９>	
+<DATE>１０月９日　８：３０</DATE>
+<S><cc1>頭痛</cc1>があるので、<m-key>痛み止め</m-key>が<medicine>欲しい</medicine>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７０>	
+<DATE>１０月１０日　１０：２１</DATE>
+<S>前は<ps_LH>早食いだった</ps_LH>けど、今はゆっくり食べるように気を付けてるからね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７１>	
+<DATE>１１月９日　０９：３０</DATE>
+<S>もっと<cc1>痛い</cc1>と思っていたので、意外と<cc1>大丈夫</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７２>	
+<DATE>１１月９日　０９：３０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><cc1>痛くて</cc1><cc1>咳き込めない</cc1>。<cc1>痰が出そう</cc1>な気がする。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７３>	
+<DATE>１１月９日　１１：３０</DATE><TITLE>転倒転落リスク</TITLE>
+<S><body>おなか</body>が<cc1>痛い</cc1>です。<cc1>熱</cc1>があるせいか<cc1>フラフラ</cc1>します。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７４>	
+<DATE>１１月９日　１６：００</DATE>
+<S>急に<cc1>冷や汗</cc1>がでてきて、<cc1>震える</cc1>感じがある。体が<cc1>だるい</cc1>。お昼ご飯はあんまり<nutrition>食べれなかった</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７５>	
+<DATE>１１月１０日　１４：３５</DATE>
+<S>だんだん<cc1>かゆく</cc1>なってきた。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７６>	
+<DATE>１１月１０日　２１：００</DATE><TITLE>便秘</TITLE>
+<S>３日も<t-val>出てない</t-val>。もともと<cc1>便秘</cc1>だった。入院してから<nutrition>水分をとれてない</nutrition>かも。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７７>	
+<DATE>１１月１１日　０６：００</DATE>
+<S><body>針が入っているところ</body>が<feature>ちょっと</feature><cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７８>	
+<DATE>１１月１１日　１０：３０</DATE><TITLE>疼痛コントロール不良</TITLE>
+<S><cc1>痛い</cc1>。<cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００７９>	
+<DATE>１１月１１日　１１：００</DATE><TITLE>下痢</TITLE>
+<S><t-key>下痢</t-key>で何度もトイレに行くから<cc1>しんどい</cc1>です。朝は少し<cc1>漏らして</cc1>しまいました。<t-key>下痢</t-key>は止めたらだめだと思って、<m-key>下痢止め</m-key>は<medicine>飲んでません</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８０>	
+<DATE>１１月１２日　１１：３０</DATE><TITLE>自己血糖測定指導</TITLE> 　
+<S>①この針は<body>こっち</body>につけるんだったね。朝は<body>人差し指</body>でしたから、次は<body>中指</body>でします。消毒をして・・・。　②あれ、このチップはどうやって外すんだっけ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８１>	
+<DATE>１１月１２日　１０：３０</DATE>
+<S>（発語なし）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８２>	
+<DATE>９月２２日　１６：００</DATE>
+<S><cc1>あつい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８３>	
+<DATE>１０月１４日　９：００</DATE>
+<S>（発語なし）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８４>	
+<DATE>１１月１日　１１：３０</DATE>
+<S><cc1>息が切れる</cc1>し<cc1>疲れやすい</cc1>感じがします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８５>	
+<DATE>１２月１８日　１２：４５</DATE>
+<S>退院したら<ps_other>働きたい</ps_other></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８６>	
+<DATE>１２月２３日　１０：１０</DATE>
+<S><cc1>げほっげほっ</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８７>	
+<DATE>２月２８日　１４：１５</DATE>
+<S><body>胸</body>が<cc1>痛い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８８>	
+<DATE>３月３日　１０：３０</DATE>
+<S>発語なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００８９>	
+<DATE>５月５日　１５：４０</DATE>
+<S>少し動くだけで<cc1>疲れる</cc1>、<position>前に体が出ちゃう</position>から止まれなくて<cc2>怖い</cc2>ことがあります</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９０>	
+<DATE>６月１６日　８：００</DATE>
+<S>発語なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９１>	
+<DATE>１１月１１日　４時</DATE><TITLE>死亡退院</TITLE>
+<S>反応なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９２>	
+<DATE>１１月１２日　１２時</DATE><TITLE>昼食詰まらせる</TITLE>
+<S>「うー、うー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９３>	
+<DATE>１１月１３日　１０時</DATE><TITLE>入浴介助</TITLE>
+<S><adherence>嫌だ、嫌だ</adherence>。<adherence>入りたくない</adherence></S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９４>	
+<DATE>１１月１３日　１４時</DATE><TITLE>入浴拒否の理由</TITLE>
+<S>「お風呂にあいつがいる。銃を持ったあいつがいる。お風呂に入るといつもあいつが銃を向けてくる。<cc2>怖い</cc2>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９５>	
+<DATE>１１月１４日　１２時</DATE><TITLE>ヒューマログ６単位２回投与</TITLE>
+<S>「<cc1>なんともないよ</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９６>	
+<DATE>１１月１４日　１３時　１３時</DATE><TITLE>ｂｓ６５ｍｇ／ｄｌ</TITLE>
+<S>「<cc1>気持ちが悪い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９７>	
+<DATE>１１月１５日　４時</DATE><TITLE>失禁</TITLE>
+<S>「ごめんね。<cc1>間に合わなかった</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９８>	
+<DATE>１１月１５日　２２時</DATE><TITLE>不眠時</TITLE>
+<S>「<feature>全然</feature><adherence>眠れない</adherence>んです。明日起きられるかな」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=００９９>	
+<DATE>１１月１６日　１５時３０分</DATE><TITLE>家族面談</TITLE>
+<S>「<ps_other>家で見るのは難しい</ps_other>です。自分のことを自分でやれるくらいにならないと。ここにいられないなら<ps_other>施設に入れて</ps_other>ください」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１００>	
+<DATE>１１月１６日　１１時</DATE><TITLE>上顎歯痛</TITLE>
+<S>「最近ご飯食べる時に<body>上の歯</body>が<cc1>痛む</cc1>んだわ。うがいすると<cc1>血が出る</cc1>ときもある」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０１>	
+<DATE>１１月１７日　９時３０分</DATE><TITLE>アナフィラキシーショック</TITLE>
+<S>「<cc1>息が苦しい</cc1>です」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０２>	
+<DATE>１１月１７日　１０時４０分</DATE><TITLE>疼痛時</TITLE>
+<S>「<body>頭</body>が<cc1>痛い</cc1>。前の方。<m-key>薬</m-key><medicine>もらえんかね</medicine>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０３>	
+<DATE>１１月１７日　１２時３０分</DATE><TITLE>疼痛時評価</TITLE>
+<S>「もう<cc1>なんともない</cc1>よ。ありがとう」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０４>	
+<DATE>１１月１８日　９時</DATE><TITLE>ｃｖ自己抜去</TITLE>
+<S>「あー、あー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０５>	
+<DATE>１１月１９日　２２時</DATE><TITLE>転落</TITLE>
+<S>「<incident>落ちちゃった</incident>。<body>頭</body>が<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０６>	
+<DATE>１１月２０日　９時</DATE><TITLE>ショートカンファレンス</TITLE>
+<S>「<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０７>	
+<DATE>１１月２０日　８時３０分</DATE><TITLE>朝食摂取について</TITLE>
+<S>「家では<ps_LH>いつも朝ごはんに梅干しを食べてた</ps_LH>の。ご飯と一緒に<ps_LH>梅干しを食べるのが習慣だった</ps_LH>から、なんか味気なくて」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０８>	
+<DATE>１１月２１日　１０時</DATE><TITLE>病棟レク</TITLE>
+<S>「本当に懐かしいね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１０９>	
+<DATE>１１月２１日　１０時</DATE><TITLE>嘔吐</TITLE>
+<S>「<cc1>気持ち悪い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１０>	
+<DATE>１１月２２日　１３時</DATE><TITLE>反応便</TITLE>
+<S>「いっぱい<t-val>出た</t-val>。<cc1>すっきり</cc1>したよ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１１>	
+<DATE>１１月２２日　１１時</DATE><TITLE>バルーンカテーテル交換</TITLE>
+<S>「<body>お腹</body>が<cc1>苦しい</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１２>	
+<DATE>１１月２３日　１０時</DATE><TITLE>幻聴体験</TITLE>
+<S>「お姉ちゃんが死ねって言ってくる。でもお姉ちゃん優しいはずなのに、そんなこと言うはずないよね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１３>	
+<DATE>１１月２４日　１４時３０分</DATE><TITLE>吸引</TITLE>
+<S>「うー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１４>	
+<DATE>１１月２４日　１５時</DATE><TITLE>自傷行為</TITLE>
+<S>「会えないなら死んだ方がまし」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１５>	
+<DATE>１１月２４日　１７時</DATE><TITLE>静穏経過</TITLE>
+<S>「さっきはごめんなさい」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１６>	
+<DATE>１１月２４日　１８時３０分</DATE><TITLE>大声・自傷行為</TITLE>
+<S>「あああああああ！！嫌だあああ！！やめて！もう知らない！！」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１７>	
+<DATE>１１月２９日　１４時</DATE><TITLE>仙骨部褥瘡形成</TITLE>
+<S>「<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１８>	
+<DATE>１１月３０日　９時</DATE><TITLE>入院</TITLE>
+<S>「<nutrition>喉が乾く</nutrition>し、<t-key>おしっこ</t-key>がよう<t-val>出る</t-val>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１１９>	
+<DATE>１１月３０日　１０時</DATE><TITLE>インシュリン注射指示</TITLE>
+<S>「ちゃんと<m-key>薬</m-key><adherence>飲んでたよ</adherence>。<adherence>お菓子はたまに食べてた</adherence>けど」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２０>	
+<DATE>１２月１日　１３時３０分</DATE><TITLE>ｂｓ５５ｍｇ／ｄｌ</TITLE>
+<S>「<cc1>気持ち悪い</cc1>です」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２１>	
+<DATE>１２月２日　４時３０分</DATE><TITLE>ｈｒ４０台</TITLE>
+<S>反応なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２２>	
+<DATE>１２月３日　１１時</DATE><TITLE>肺炎診断</TITLE>
+<S>「<cc1>苦しい</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２３>	
+<DATE>１２月４日　１０時１０分</DATE><TITLE>下痢</TITLE>
+<S>「<body>お腹</body>は<cc1>痛くない</cc1>よ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２４>	
+<DATE>１２月５日　１１時３０分</DATE><TITLE>インシュリン中止</TITLE>
+<S>「注射しなくても大丈夫なの？」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２５>	
+<DATE>１２月６日　２時１０分</DATE><TITLE>被害妄想</TITLE>
+<S>「あんた夜中に私の部屋に入ってチュック触っただろ！人がいい気持ちで寝てるのをいいことに！！それでも看護師か。鍵なんてプロだからうまくやって開けたんだろ。寝る前にちゃんと整えたのに、中がぐしゃぐしゃになってるんだわ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２６>	
+<DATE>１２月６日　２時３０分</DATE><TITLE>不穏時薬内服</TITLE>
+<S>「さっきは怒鳴って御免なさい。薬飲みます。でもあんたが触ったって思ってるから。許さないから。次やったらどうなるかわかってるんだろうな」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２７>	
+<DATE>１２月７日　１３時</DATE><TITLE>昼食拒否</TITLE>
+<S>「いいから<ps_other>放っておいて</ps_other>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２８>	
+<DATE>１２月８日　２３時</DATE><TITLE>便失禁</TITLE>
+<S>「触ってないよ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１２９>	
+<DATE>１２月９日　２時２０分</DATE><TITLE>水浴び</TITLE>
+<S>「水をかけなさい。修行しなさいって聞こえるから、あと３０杯浴びたらやめるから」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３０>	
+<DATE>１２月１０日　１０時</DATE><TITLE>退院</TITLE>
+<S>「本当にお世話になりました。ありがとうございました」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３１>	
+<DATE>１１／１８／２１　１１：００</DATE>
+<S>異常ありません</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３２>	
+<DATE>１１／１８／２１　１４：００</DATE>
+<S><cc1>熱ありそう</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３３>	
+<DATE>１１／１８／２１　１４：００</DATE>
+<S>あー</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３４>	
+<DATE>１１／１８／２１　１４：００</DATE>
+<S>今日家に手すりとかつけにきてくれはる</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３５>	
+<DATE>１１／１８／２１　１５：００</DATE>
+<S>早く<nutrition>ご飯食べたい</nutrition></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３６>	
+<DATE>１１／１８／２１　１６：００</DATE>
+<S><cc1>しんどい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３７>	
+<DATE>１１／１８／２１　１６：００</DATE>
+<S><cc1>息がしんどく</cc1>なってきて<cc1>意識ももうろう</cc1>としてきました</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３８>	
+<DATE>１１／１９／２１　１０：００</DATE>
+<S><cc1>息がしんどい</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１３９>	
+<DATE>１１／１９／２１　１０：００</DATE>
+<S><body>胸</body>が<cc1>痛く</cc1>なってきた</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４０>	
+<DATE>１１／１９／２１　１１：００</DATE>
+<S><cc1>なんともない</cc1>で</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４１>	
+<DATE>１１／１９／２１　１０：００</DATE>
+<S><cc1>痛み</cc1><change>治ってる</change></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４２>	
+<DATE>１９－１１月</DATE>
+<S><cc1>トイレ行きたい</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４３>	
+<DATE>１１／１９／２１　１４：００</DATE>
+<S><position>座ってる</position>と<cc1>楽</cc1>です　夜も<position>寝転ぶ</position>と<cc1>息が苦しく</cc1>なります</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４４>	
+<DATE>１１／１９／２１　１４：００</DATE>
+<S><position>歩く</position>と<cc1>息が苦しく</cc1>なります</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４５>	
+<DATE>１１／１９／２１　１５：００</DATE>
+<S><t-key>お通じ</t-key>に<t-val>血</t-val>が混じってました</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４６>	
+<DATE>１１／２０　１０：：００</DATE>
+<S><cc1>なんともない</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４７>	
+<DATE>１１／２０／２１　１０：００</DATE>
+<S>ここはどこですか</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４８>	
+<DATE>１１／２０／２１　１０：００</DATE>
+<S><body>腰</body>が<cc1>痛い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１４９>	
+<DATE>１１／２０／２１　１３：００</DATE>
+<S>今日先生と退院の話がある</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５０>	
+<DATE>１１／２０／２１　１４：００</DATE>
+<S><t-key>おしっこ</t-key><t-val>でない</t-val>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５１>	
+<DATE>１１／２０／２１　１４：００</DATE>
+<S><body>お尻</body>が<cc1>痛い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５２>	
+<DATE>１１／２０／２１　１４：００</DATE>
+<S><cc1>寒気</cc1>してきた</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５３>	
+<DATE>１１／２０／２１　１４：００</DATE>
+<S><cc1>熱出てる</cc1>と思います</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５４>	
+<DATE>１１／２０／２１　１４：００</DATE>
+<S><body>体</body>が<cc1>しんどい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５５>	
+<DATE>１１／２０／２１　１５：００</DATE>
+<S><body>口</body>が<cc1>乾き</cc1>ます</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５６>	
+<DATE>１１／２０／２１　１５：００</DATE>
+<S><t-key>痰</t-key>が<feature>多くて</feature><request>とってください</request></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５７>	
+<DATE>１１／２０／２１　１６：００</DATE>
+<S>さっきから<cc1>あくびが出ます</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５８>	
+<DATE>１１／２０／２１　１６：００</DATE>
+<S><cc1>息がしんどい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１５９>	
+<DATE>１１／２０／２１　１６：００</DATE>
+<S><body>左足</body>が<cc1>動かしにくい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６０>	
+<DATE>１１／２１／２１　１０：００</DATE>
+<S>昨日<incident>こけた</incident>から<body>腰</body>が<cc1>痛い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６１>	
+<DATE>１１／２１／２１　１０：００</DATE>
+<S><feature>急に</feature><body>胸</body>が<cc1>痛く</cc1>なりました</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６２>	
+<DATE>１１／２１／２１　１１：００</DATE>
+<S>お願いします</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６３>	
+<DATE>１１／２１／２１　１１：００</DATE>
+<S><t-key>血糖値</t-key><t-val>落ち着いてきました</t-val></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６４>	
+<DATE>１１／２２／２１　１０：００</DATE>
+<S>夜<cc1>寝れてない</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６５>	
+<DATE>１１／２２／２１　１４：００</DATE>
+<S><body>足</body>が<cc1>痺れ</cc1>ます</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６６>	
+<DATE>１１／２４／２１　１１：００</DATE>
+<S>さすがに<cc2>ショック</cc2>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６７>	
+<DATE>１１／２４／２１　１４：００</DATE>
+<S><cc1>ふらふら</cc1>します</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６８>	
+<DATE>１１／２４／２１　１５：００</DATE>
+<S><cc1>どうもない</cc1>ですよ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１６９>	
+<DATE>１１／２４／２１　１４：００</DATE>
+<S><body>お腹</body><cc1>痛い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７０>	
+<DATE>１１／２５／２１　１０：００</DATE>
+<S><cc1>息しんどくて</cc1><feature>話すのもやっと</feature>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７１>	
+<DATE>１１月１１日１４：００</DATE><TITLE>健康管理促進準備状態（放射線療法）</TITLE> 　
+<S>わかりました。いろいろやることが多くて<cc1>大変</cc1>だね。最近<cc1>忘れっぽい</cc1>ので<adherence>忘れないように頑張らないと</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７２>	
+<DATE>１１月２５日１０：００</DATE><TITLE>皮膚統合性障害</TITLE> 　
+<S><body>首の皮</body>が<feature>ちょっと</feature><cc1>めくれて</cc1>きちゃったね。<m-key>ローション</m-key>はほとんど<adherence>やってる</adherence>けど、たまに<adherence>塗り忘れちゃう</adherence>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７３>	
+<DATE>１２月９日１０：００</DATE><TITLE>急性疼痛</TITLE> 　
+<S><body>のど</body>はまだ<cc1>痛い</cc1>けど、<m-key>痛み止め</m-key>増やして<feature>多少</feature>は<cc1>いい</cc1>かな。ご飯はなんとか<nutrition>食べられている</nutrition>。夜は<cc1>眠れている</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７４>	
+<DATE>１１月１１日１０：００</DATE><TITLE>感染リスク状態</TITLE> 　
+<S>自分ではわからないけど、<t-key>血球数</t-key>が普通の人より<feature>少し</feature><t-val>少なく</t-val>なっているんですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７５>	
+<DATE>１１月１４日１０：００</DATE><TITLE>感染リスク状態</TITLE> 　
+<S>いつもより<feature>ちょっと</feature><cc1>だるい</cc1>感じはします。今日は<adherence>シャワーしない</adherence>で<adherence>体を拭こう</adherence>と思います。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７６>	
+<DATE>１１月１７日１０：００</DATE><TITLE>便秘</TITLE> 　
+<S>今までは毎日<t-val>出ていた</t-val>んですけど、この頃は<t-val>２～３日に１回</t-val>くらいの頻度ですね。今日は<ps_other>様子見たい</ps_other>けど、毎日出るように何か<m-key>薬</m-key><medicine>あったらいい</medicine>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７７>	
+<DATE>１１月２０日１０：００</DATE><TITLE>慢性疼痛</TITLE> 　
+<S>日中より夜の方が<cc1>痛くて</cc1>あまり<cc1>眠れなく</cc1>なってきました。<cc1>眠れない</cc1>と<cc1>苦しい</cc1>ですね。<m-key>トラマール</m-key>ってやつは<medicine>効いている気がします</medicine>。<cc1>ふらついたりしない</cc1>ですよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７８>	
+<DATE>１１月３０日１０：００</DATE><TITLE>慢性疼痛</TITLE> 　
+<S><cc1>痛くて</cc1><nutrition>食事も食べたくない</nutrition>し、<cc1>休めている感じもしなくなってきました</cc1>。でも麻薬って聞くとどうしても<cc2>怖い</cc2>感じしますよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１７９>	
+<DATE>１２月３日１１：００</DATE><TITLE>慢性疼痛</TITLE> 　
+<S><m-key>オキシコドン</m-key>ってやつは、結構<medicine>効いてくれてます</medicine>。夜も<cc1>痛み</cc1>は<feature>少なく</feature>て、前より<change>眠れるようになりました</change>。ただ<feature>ちょっと</feature><cc1>便秘</cc1><feature>気味</feature>になってきました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８０>	
+<DATE>１１月１９日１４：００</DATE><TITLE>皮膚統合性障害</TITLE> 　
+<S>一時退院した後に<body>手</body>の<cc1>カサカサ</cc1>が気になり始めました。<m-key>抗がん剤</m-key>でこうなるなんてびっくりですね。家では<m-key>市販の保湿剤</m-key>使っていたよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８１>	
+<DATE>１１月１７日１０：００</DATE><TITLE>皮膚統合性障害</TITLE> 　
+<S><body>踵</body>のところが<cc1>痛い</cc1>のよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８２>	
+<DATE>１１月２０日１０：００</DATE><TITLE>転倒転落リスク状態</TITLE> 　
+<S>夜はよく<t-key>トイレ</t-key>で<cc1>起きちゃう</cc1>ね。今までは一人で行ってたよ。<adherence>呼ぶの？わかりました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８３>	
+<DATE>１１月２０日１０：００</DATE><TITLE>転倒転落リスク状態</TITLE> 　
+<S><cc1>大丈夫</cc1>よ。そんな<adherence>面倒くさい</adherence>わ。<cc1>ふらついたりしない</cc1>わよ。　<adherence>わかったわかった</adherence>、<adherence>呼びます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８４>	
+<DATE>１１月２２日１０：００</DATE><TITLE>転倒転落リスク状態</TITLE> 　
+<S><adherence>歩く時は気をつけています</adherence>よ。何かあったら<adherence>呼びます</adherence>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８５>	
+<DATE>１１月２３日１１：３０</DATE><TITLE>急性疼痛</TITLE> 　
+<S><body>鼻の奥から頭</body>にかけて<feature>鈍い</feature><cc1>痛み</cc1>があります。<m-key>薬</m-key><medicine>あったら助かります</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８６>	
+<DATE>１１日２４日１０：００</DATE><TITLE>急性混乱</TITLE> 　
+<S>夜中に家族が私を起こしにきました。看護師さんではないの。あれ、ここはどこかしら。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８７>	
+<DATE>１１月２０日１０：００</DATE><TITLE>非効果的気道浄化</TITLE>  
+<S>前より<cc1>痰</cc1>が<body>口</body>から<cc1>出しやすくなりました</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８８>	
+<DATE>１１月２２日２３：１５</DATE><TITLE>急性混乱</TITLE> 　
+<S>お前はだれだ！叩くぞ！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１８９>	
+<DATE>１１月２３日１４：００</DATE><TITLE>非効果的気道浄化</TITLE> 　
+<S>（<t-key>痰</t-key>が<t-val>絡んでる</t-val>感じで<cc1>苦しい</cc1>。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９０>	
+<DATE>１１月２５日１０：００</DATE><TITLE>感染リスク状態</TITLE> 　
+<S><adherence>感染予防しっかりやってます</adherence>。夜は<cc1>休めてる</cc1>し<cc1>気分が落ち込んだりとかは特にない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９１>	
+<DATE>１１月２６日１０：００</DATE><TITLE>皮膚統合性障害</TITLE> 　
+<S><t-key>うんち</t-key><t-val>出た</t-val>かもしれない。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９２>	
+<DATE>１１月２５日１３：００</DATE><TITLE>出血リスク状態</TITLE> 　
+<S>無事終わりました。<cc1>気分は悪くない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９３>	
+<DATE>１１月２６日１０：３０</DATE><TITLE>口腔粘膜障害</TITLE> 　
+<S><cc1>口内炎</cc1>ができて<cc1>痛い</cc1>ですね。<t-key>味</t-key>は<t-val>感じます</t-val>。<t-key>唾液が少なくなっている感じ</t-key>は<t-val>わからない</t-val>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９４>	
+<DATE>１１月２７日１０：００</DATE><TITLE>言語的コミュニケーション障害</TITLE> 　
+<S>さへりつらいのかつらい。リハヒリしたい。（<cc1>喋りづらい</cc1>のが<cc1>つらい</cc1>。<ps_other>リハビリしたい</ps_other>。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９５>	
+<DATE>１１月２７日１６：００</DATE><TITLE>急性疼痛</TITLE> 　
+<S><body>喉</body>が<cc1>痛く</cc1>て<nutrition>水分もとれません</nutrition>でした。<cc1>息苦しさはありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９６>	
+<DATE>１１月２９日１３：３０</DATE><TITLE>急性疼痛</TITLE> 　
+<S>飲み込む時に<cc1>痛みはある</cc1>けど、<feature>我慢できる</feature>範囲内です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９７>	
+<DATE>１２月１１日１４：００</DATE><TITLE>嚥下障害</TITLE> 　
+<S><body>舌の一部</body>がそんなに大切だとは思わなかったです。<cc1>むせる回数は減ってきました</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９８>	
+<DATE>１２月２日１１：００</DATE><TITLE>出血リスク状態</TITLE> 　
+<S><t-key>便</t-key>は<t-val>前より黒くはない</t-val>ですけど、まだちょっと<t-val>黒い</t-val>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０１９９>	
+<DATE>１２月２日１３：３０</DATE><TITLE>誤嚥リスク状態</TITLE> 　
+<S><nutrition>美味しそう</nutrition>だね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２００>	
+<DATE>１２月４日１５：００</DATE><TITLE>貧血</TITLE> 　
+<S><cc1>ふらふら</cc1>しますね。<cc1>息苦しくはない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０１>	
+<DATE>１２月５日１３：３０</DATE><TITLE>セルフケア不足（入浴</TITLE>） 　
+<S>（この穴に水が入りそうで<cc2>怖い</cc2>から<adherence>風呂は入れない</adherence>。看護師さんがやってくれるならいいよ。）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０２>	
+<DATE>１２月６日１１：００</DATE><TITLE>悪心</TITLE> 　
+<S><feature>すごく</feature><cc1>気持ち悪い</cc1>です。<cc1>痛み</cc1>は<change>良くなった</change>けど<cc1>気持ち悪くて辛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０３>	
+<DATE>１２月７日１１：００</DATE><TITLE>便秘</TITLE> 　
+<S><t-key>便</t-key>が<t-val>硬く</t-val>て<t-val>出にくい</t-val>です。<m-key>オキシコドン</m-key>使うまでは毎日<t-val>出てました</t-val>。<body>腸</body>の<adherence>マッサージしてます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０４>	
+<DATE>１２月７日１５：００</DATE><TITLE>不安</TITLE> 　
+<S><disease>がん</disease>になって手術して、<ps_pending>治ったと思った</ps_pending>らまたなって、今度は<m-key>抗がん剤</m-key>治療。これでもまたなるんじゃないかとここ最近ずっと<cc2>心配</cc2>なんだ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０５>	
+<DATE>１２月１０日１０：００</DATE><TITLE>不眠</TITLE> 　
+<S><disease>がん</disease>といわれたことが<cc2>ショック</cc2>で<cc1>寝付けなくて</cc1>。<m-key>睡眠薬</m-key><medicine>使いたい</medicine>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０６>	
+<DATE>１２月１日１４：００</DATE><TITLE>非効果的健康管理</TITLE> 　
+<S>家でも<adherence>間食していた</adherence>し、今さら<adherence>やめられない</adherence>よ。<nutrition>病院の飯はまずい</nutrition>からさ。なんとかなんないのかね。<adherence>歩いてはいる</adherence>よ。何回もここ往復している。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０７>	
+<DATE>１２月２日２３：００</DATE><TITLE>転倒転落リスク状態</TITLE> 　
+<S>なんか<cc1>寝ぼけていた</cc1>のかな。<incident>つまづいて転んじゃった</incident>んだ。<incident>膝と手をついた</incident>よ。<feature>ちょっと</feature><cc1>痛い</cc1>けど全然<cc1>大丈夫</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０８>	
+<DATE>１２月６日１４：００</DATE><TITLE>不安</TITLE> 　
+<S>びっくりしました。今までああいう症状を起こしたことがないので、これからもなる可能性があると思うと<cc2>不安</cc2>です。先生に<disease>糖尿病の合併症</disease>とか改めて説明を受けて<cc1>不安</cc1>になりました。夜はまあ<cc1>休めました</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２０９>	
+<DATE>１２月７日１１：００</DATE><TITLE>感染リスク状態</TITLE> 　
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１０>	
+<DATE>１２月８日１５：００</DATE><TITLE>病状説明同席</TITLE> 　
+<S>俺はもうよく生きたから後悔はないし、何の<ps_other>治療もしなくていい</ps_other>と思っている。（妻）そんなこと言わないでよ。私はできる限りの<ps_other>治療はしてほしい</ps_other>の。もう少し主人と話し合います。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１１>	
+<DATE>１１月２４日　０９：００</DATE>
+<S><cc1>吐きそう</cc1>な感じがあって、<nutrition>食べたくない</nutrition>。<nutrition>食欲もあんまりない</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１２>	
+<DATE>１１月２５日　５：００</DATE>
+<S>・・・<cc1>いたい</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１３>	
+<DATE>１１月２５日　６：００</DATE>
+<S><cc1>なんともな</cc1>いよ。はやく<ps_other>自分でトイレに行きたい</ps_other>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１４>	
+<DATE>１１月２５日　１６：００</DATE><TITLE>安楽障害</TITLE>
+<S><cc1>痛い</cc1>！！しんどい<m-key>抗がん剤</m-key>頑張ったのに、うまくいかない。なにもできない！！<cc1>しんどい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１５>	
+<DATE>１１月２６日　１１：００</DATE><TITLE>内服アセスメント（入院時）</TITLE> 　
+<S>この<m-key>おくすり</m-key>ボックスに入れて<adherence>管理していました</adherence>。<adherence>飲み忘れることはなかった</adherence>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１６>	
+<DATE>１１月２６日　１５：００</DATE><TITLE>活動耐性低下</TITLE>
+<S>歩くのが<cc2>怖い</cc2>です。手術のあとに左足に体重をかけることが<cc2>怖い</cc2>です。<ps_other>転んだらどうしよう</ps_other>。<adherence>リハビリも行きたくない</adherence>んです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１７>	
+<DATE>１１月２６日　１５：００</DATE><TITLE>外来診察前問診</TITLE> 　
+<S><t-key>下痢</t-key>が続くと<cc1>しんどくなります</cc1>。電車に乗ることが億劫です。<cc1>吐き気とかはない</cc1>です。<m-key>下痢止め</m-key>はあんまり使ってはいけないと思って<medicine>使っていません</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２１８>	
+<DATE>１１月２７日　１０：００</DATE><TITLE>転倒・転落リスク状態</TITLE>
+<S><cc1>ふらついたりはない</cc1>です。退院も近いって先生から聞きました。</S>
+
+<DOCUMENT num=０２１９>	
+<DATE>１１月２９日　１３：００</DATE>
+<S><cc1>血がでた</cc1>からびっくりした。<cc1>なんともない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２０>	
+<DATE>１１月２９日　１６：００</DATE>
+<S>これはなんですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２１>	
+<DATE>１１月１９日　１９：００</DATE>
+<S><body>点滴のところ</body>が<cc1>痛い</cc1>です・・・１時間くらい前から<cc1>痛い</cc1>なと思っていました</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２２>	
+<DATE>９月２２日　１５：００</DATE>
+<S>管を入れてまで<ps_other>長生きしたくありません</ps_other>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２３>	
+<DATE>４月５日　１１：３０</DATE>
+<S>最近<body>口の中</body>が<cc1>痛い</cc1>し、<nutrition>食事も美味しくない</nutrition>のよ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２４>	
+<DATE>４月１０日　１７：００</DATE>
+<S>ママ〜！帰らないで！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２５>	
+<DATE>６月１６日　８：００</DATE>
+<S>初めての子どもで<cc2>不安</cc2>だったけど、少しずつ育児に<ps_other>慣れてきました</ps_other>。でも上手く抱っこができない・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２６>	
+<DATE>７月７日　９：００</DATE>
+<S>いやーーーーー<cc1>痛い</cc1>ーーー</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２７>	
+<DATE>８月８日</DATE>
+<S>弟がいて１０か月なのですが、どうしたらいいのですか？？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２８>	
+<DATE>１０月１日　１５：００</DATE>
+<S><ps_other>自分でできるかわからない</ps_other>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２２９>	
+<DATE>３月３日</DATE>
+<S>９年間頑張ってきたんだけれど、やっぱり<adherence>食べ過ぎだった</adherence>のかな・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３０>	
+<DATE>１１月２６日７：００</DATE>
+<S>妻）夫はいつも夜中<t-val>３回</t-val>くらい<t-key>トイレ</t-key>に行くのに、昨日は<t-val>行かなかった</t-val>。今朝は<t-val>ポタポタ</t-val>と<t-val>出た</t-val>。<cc1>便秘はしていません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３１>	
+<DATE>２０２１／１／３　１３：００</DATE><TITLE>呼吸苦</TITLE>
+<S><feature>ちょっと</feature><cc1>息苦しい</cc1>感じがします。<request>身体起こしてもらえますか</request>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３２>	
+<DATE>２０２１／１／１５　１９：００</DATE><TITLE>疼痛コントロール不良</TITLE>
+<S>とにかく<cc1>痛くて痛くて</cc1>、<position>立つのも寝るのも</position><cc1>痛い</cc1>んです。どうにかなりませんか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３３>	
+<DATE>２０２１／２／１０　１８：００</DATE><TITLE>帰宅願望</TITLE>
+<S>出口はどこですか？帰らせてほしいんです。　#confusion</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３４>	
+<DATE>２月２０日　１２：３０</DATE><TITLE>食思不振</TITLE>
+<S>もう<nutrition>結構です</nutrition>。ありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３５>	
+<DATE>３月５日　６：３０</DATE><TITLE>胸部症状</TITLE>
+<S>さっきから<body>胸</body>が<cc1>痛い</cc1>、<body>心臓のあたり</body>。我慢してたけど治らないし呼びました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３６>	
+<DATE>３月１５日　１９：００</DATE><TITLE>転倒</TITLE>
+<S><cc1>痛いとこない</cc1>。どこも<incident>打ってない</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３７>	
+<DATE>４月４日　２０；００</DATE><TITLE>発熱</TITLE>
+<S><feature>ちょっと</feature><cc1>だるい</cc1>感じがするかな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３８>	
+<DATE>４月１６日　１１：３０</DATE><TITLE>エラスター自抜</TITLE>
+<S>なんでかな、<cc1>血が出てる</cc1>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２３９>	
+<DATE>５月８日　１４：３０</DATE><TITLE>腎生検後記録</TITLE>
+<S><body>腰</body>は<cc1>痛くありません</cc1>。<cc1>しびれもありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４０>	
+<DATE>５月２８日　１５：００</DATE><TITLE>パーキンソン病</TITLE>
+<S><cc1>声が出ない</cc1>・・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４１>	
+<DATE>６月６日　１４：００</DATE><TITLE>急変対応</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４２>	
+<DATE>６月２２日　１１：１０</DATE><TITLE>褥瘡処置</TITLE>
+<S><body>お尻</body>が<cc1>痛い</cc1>、<request>見てもらえんか</request>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４３>	
+<DATE>２０２１／７／５　２１：３０</DATE><TITLE>不眠</TITLE>
+<S>ずっと<cc1>眠れてない</cc1>んです・・・<cc1>しんどい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４４>	
+<DATE>７月２５日　１０：３０</DATE><TITLE>排便コントロール</TITLE>
+<S>なんか、出そうとしても<t-val>出ない</t-val>んです。<t-val>かたく</t-val>て。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４５>	
+<DATE>８月２日　１６：４５</DATE><TITLE>自殺企図</TITLE>
+<S><ps_other>生きていたってしょうがない</ps_other>・・・。<ps_other>死んだほうがまし</ps_other>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４６>	
+<DATE>８月２８日　１２；００</DATE><TITLE>アルコール離脱症状</TITLE>
+<S><body>手</body>が<cc1>震える</cc1>んですよね・・・。<adherence>ダメだって分かってるのに飲んでしまう</adherence>んです。心が弱いんです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４７>	
+<DATE>９月３日　１５；００</DATE><TITLE>心不全</TITLE>
+<S><cc1>息が苦しく</cc1>なってね、訪問看護師さんが救急車呼んでくれたの。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４８>	
+<DATE>９月２５日　１５：００</DATE><TITLE>シャントＯＰＥ</TITLE>
+<S><feature>段々</feature><cc1>痛くなってきました</cc1>、<feature>ちょっと</feature><cc1>腫れてる気もする</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２４９>	
+<DATE>１０月１０日　１１：３０</DATE><TITLE>血糖測定</TITLE>
+<S>僕って<adherence>なんで血糖測るんですか</adherence>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５０>	
+<DATE>１０月３１日　９：４０</DATE><TITLE>ＰＶＣ頻発</TITLE>
+<S>なんか、<body>胸</body>が<cc1>詰まる</cc1>ような感じがします。<cc2>大丈夫でしょうか</cc2>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５１>	
+<DATE>１２月１日１４：００</DATE><TITLE>健康管理促進準備状態（化学療法）</TITLE>
+<S>そんなにたくさんの<adherence>副作用がでる可能性があるのですね</adherence>。でも入院での実施になったので、いつでも相談できると思うと<cc2>安心</cc2>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５２>	
+<DATE>１２月３日１０：００</DATE><TITLE>悪心</TITLE>
+<S>今日の朝方くらいから<cc1>気持ち悪さ</cc1>がでてきました。<nutrition>ご飯はあまり食べたくない</nutrition>感じ。<nutrition>水は飲めます</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５３>	
+<DATE>１２月４日１０：００</DATE><TITLE>悪心</TITLE>
+<S>昨日は<cc1>気持ち悪く</cc1>なってきてから<medicine>２回使った</medicine>んですけど、あまり<medicine>変わらなくて</medicine>。今日はまだ<medicine>使ってなくて</medicine>、朝方<feature>ちょっと</feature><cc1>吐いちゃいました</cc1>。朝と夜に<cc1>気持ち悪さ</cc1>が<change>強くなる</change>気がします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５４>	
+<DATE>１２月６日１０：００</DATE><TITLE>悪心</TITLE>
+<S><feature>だいぶ</feature><change>良くなって</change><nutrition>ご飯も食べられる</nutrition>ようになりました。よかったです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５５>	
+<DATE>１２月６日１０：３０</DATE><TITLE>便秘</TITLE>
+<S><cc1>気持ち悪さ</cc1>は<change>良くなってきた</change>んですけど、今度は<cc1>便秘</cc1>が気になってきました。今までは１日１回<t-val>ありました</t-val>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５６>	
+<DATE>１２月８日１０：００</DATE><TITLE>感染リスク状態</TITLE>
+<S><cc1>熱っぽい感じはない</cc1>ですが<body>体</body>が<feature>少し</feature><cc1>だるい</cc1>感じがします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５７>	
+<DATE>１２月１０日１０：００</DATE><TITLE>感染リスク状態</TITLE>
+<S><cc1>だるい</cc1>感じは続いてますね。<m-key>抗がん剤</m-key>は<cc2>恐ろしい</cc2>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５８>	
+<DATE>１２月９日１０：３０</DATE><TITLE>口腔粘膜障害</TITLE>
+<S><cc1>口内炎</cc1>ができました。いまのところそこまで<cc1>痛くない</cc1>し支障はないけど、これも<m-key>抗がん剤</m-key>の影響ですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２５９>	
+<DATE>１２月１０日１０：３０</DATE><TITLE>口腔粘膜障害</TITLE>
+<S><body>口の中</body>が<feature>ちょっと</feature><cc1>白い</cc1>ような気がします。気のせいですかね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６０>	
+<DATE>１２月１１日１０：３０</DATE><TITLE>口腔粘膜障害</TITLE>
+<S>もう１個<cc1>口内炎</cc1>ができて前より<change>痛みがあります</change>。<m-key>薬</m-key>を<medicine>飲むほどではない</medicine>ですが。お粥は苦手なので<nutrition>ご飯はそのままにしてほしい</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６１>	
+<DATE>１２月１日１４：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>痛みはそんなにわからない</cc1>です。<m-key>麻酔</m-key>が効いているのですかね。もう<body>足先</body>は動かして良いのですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６２>	
+<DATE>１２月２日１０：００</DATE><TITLE>急性疼痛</TITLE>
+<S><m-key>麻酔</m-key>の管<incident>抜いた</incident>ら<cc1>痛みが出てきました</cc1>。<body>手術した所</body>を少しでも<position>動かそうとすると</position><cc1>痛い</cc1>です。<m-key>ロキソニン</m-key><medicine>使って良いのですね</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６３>	
+<DATE>１２月２日１４：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><cc2>脱臼が怖い</cc2>って何度も聞きました。<adherence>だめな姿勢はわかっているつもり</adherence>ではいるけど<adherence>意識して気をつけないと</adherence>。はい。<adl>一人で歩くのは不安</adl>なので必ず<adherence>呼びます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６４>	
+<DATE>１２月５日１０：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>今は<cc1>息苦しくない</cc1>よ。<cc1>咳</cc1>をすると<t-key>痰</t-key>がうまく<t-val>でる</t-val>ようになった気がする。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６５>	
+<DATE>１２月７日１０：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>お〜。やっとご飯食べれるんだね。また<disease>肺炎</disease>に<adherence>ならないようにしないとね</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６６>	
+<DATE>１２月１５日２３：１５</DATE><TITLE>急性混乱</TITLE>
+<S>うわ〜！どうゆうことだ！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６７>	
+<DATE>１２月１６日９：００</DATE><TITLE>急性混乱</TITLE>
+<S>昨日の夜？わたくし騒ぎましたっけ？覚えていないわ。今は病院。今日は１２月１６日。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６８>	
+<DATE>１２月１２日１４：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S>覚悟してきたつもりではいるんですけど、やっぱりまだ<cc2>実感がわかない</cc2>というか、<body>お腹</body>から排泄物を出すようになることが<cc2>受け入れられない</cc2>というか・・・。家族とよく話し合って決めたのでやります。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２６９>	
+<DATE>１２月１２日１５：００</DATE><TITLE>出血リスク状態</TITLE>
+<S>終わりましたか。わ〜実際にみるとすごいですね。<cc1>痛みはあまりない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７０>	
+<DATE>１２月１３日１１：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S>なんかやっぱりすごいですね。わかってはいたけどこんなものが自分の<body>お腹</body>にあるなんて変な感じ。できればあまり<cc1>見たくない</cc1>ですね。昨日の夜は<cc1>休めました</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７１>	
+<DATE>１２月１５日１０：００</DATE><TITLE>健康管理促進準備状態</TITLE>
+<S>やってみます。うわ〜。でもこれはもう慣れですね。もしガスが溜まったら、こうやって便の排出口から出すんですよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７２>	
+<DATE>１２月１７日１０：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S>なんかいろいろ自分でやり始めたら<cc2>慣れました</cc2>。退院したら周りの目とかもあってまた気になるかもしれないけど、今は<cc1>大丈夫</cc1>。<cc2>自分の一部って感じ</cc2>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７３>	
+<DATE>１２月２０日１４：００</DATE><TITLE>健康管理促進準備状態</TITLE>
+<S>毎回<m-key>インスリン</m-key>を打つのは大変ですね。やるしかないのだけど。不器用なので少しずつ教えてください。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７４>	
+<DATE>１２月２１日１３：００</DATE><TITLE>健康管理促進準備状態</TITLE>
+<S>昨日も看護師さんが説明しながら打ってくれたので、なんとなくイメージはつきました。ああ、そうか。そこ<adherence>忘れちゃったな</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７５>	
+<DATE>１２月２０日１４：００</DATE><TITLE>出血リスク状態</TITLE>
+<S>わ、<body>首</body>から管がでてますね。<cc1>痛みはそんなに感じません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７６>	
+<DATE>１２月２２日１０：００</DATE><TITLE>出血リスク状態</TITLE>
+<S>管がとれて<cc1>スッキリ</cc1>しました。<cc1>痛みはほとんどない</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７７>	
+<DATE>１２月２３日１４：００</DATE><TITLE>血糖不安定リスク状態</TITLE>
+<S><m-key>薬</m-key>はしっかり<adherence>飲んでいた</adherence>けど、最近忘年会とか続いてたからかな。<t-key>血糖値</t-key>が<t-val>高く</t-val>て入院になっちゃったんだ。よく<nutrition>喉が渇いて水飲む</nutrition>から<t-key>トイレ</t-key>も<t-val>近い</t-val>ね。年末で仕事も忙しくて<ps_LH>不規則な生活</ps_LH>になっちゃったし、<ps_LH>運動もあまりしてない</ps_LH>。<cc1>目のかすみはない</cc1>よ。<body>足</body>が<cc1>ピリピリと痺れる</cc1>ような感じはたまにある。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７８>	
+<DATE>１２月２３日１４：３０</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>足</body>が<cc1>ピリピリと痺れる</cc1>ような感じはたまにある。<body>足先</body>みてみて。ここ<cc1>黒っぽい</cc1>よね。たまに<cc1>痒い</cc1>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２７９>	
+<DATE>１２月３０日１０：００</DATE><TITLE>非効果的健康管理</TITLE>
+<S>こうやって病院で管理されていると<cc1>大丈夫</cc1>なんですけどね。<ps_LH>一人暮らし</ps_LH>だし色々と面倒になって<adherence>食事とか適当</adherence>になっちゃう。でももうここまで自由に暮らしてきたし<adherence>それでも良い</adherence>かなと思ったりしますよ。まあ、合併症は<cc2>怖い</cc2>んですけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８０>	
+<DATE>１２月２０日１４：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S><disease>癌</disease>だから仕方ないと覚悟はしています。でもまだ４０代だし、片方の<body>胸</body>がなくなっちゃうなんて<cc2>悲しい</cc2>ですよね。<body>胸</body>は女性の象徴って感じだし。でも<ps_other>乳房再建はいまの所考えていない</ps_other>です。現実を<cc2>受け入れよう</cc2>って。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８１>	
+<DATE>１２月２１日１５：００</DATE><TITLE>急性疼痛</TITLE>
+<S><body>手術したところ</body><cc1>痛い</cc1>です。<m-key>痛み止め</m-key><medicine>使えますか</medicine>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８２>	
+<DATE>１２月２２日１０：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S>さっき先生にガーゼ外してもらった時に見たんですけど、本当になくなっちゃいましたね。<cc2>悲しさ</cc2>はもちろんあるけど、意外と<cc1>スッキリ</cc1>しました。再建もできるみたいですけど、けっこうすごい手術になるから、<ps_other>どうかなって感じ</ps_other>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８３>	
+<DATE>１２月２２日１０：１０</DATE><TITLE>急性疼痛</TITLE>
+<S>やっぱり<body>手術した所</body>が<cc1>ズキズキ痛む</cc1>のがあるので、使える<m-key>薬</m-key>が<medicine>欲しい</medicine>です。<cc1>そんなに強い痛みではない</cc1>ですけど、できたら<medicine>予防的に使いたい</medicine>です。<ps_other>痛みに弱い</ps_other>ので。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８４>	
+<DATE>１２月３０日１０：３０</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S><body>腕</body>の<adherence>運動しっかりやってます</adherence>。もうだいぶこっち<cc1>胸がないことに慣れました</cc1>。ああ、いいですね。同じような境遇の方と<ps_other>話してみたい</ps_other>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８５>	
+<DATE>１２月２３日１０：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>昨夜は<cc1>痛みも強くなくて</cc1>久しぶりによく<cc1>眠れました</cc1>。でも今も<cc1>眠くて眠くて</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８６>	
+<DATE>１２月２６日１１：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>日中の<cc1>眠気</cc1>は<change>落ち着きました</change>。でも昨日の夜くらいからたまに<feature>強い</feature><cc1>痛みがでる</cc1>ようになって。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８７>	
+<DATE>１２月３０日１０：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>朝方や夕方に<cc1>痛み</cc1>が<change>強くなる</change>。落ち着いているときは<t-val>ＮＲＳ６</t-val>、痛い時は<t-val>ＮＲＳ８</t-val>くらい。夜はまあ<cc1>眠れている</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８８>	
+<DATE>１２月３０日１０：００</DATE><TITLE>不安</TITLE>
+<S><disease>癌</disease>になって手術して。再発して放射線とか<m-key>抗がん剤</m-key>とかやったけど、結局また再発して。先生からはあと３ヶ月くらいって言われた。<ps_other>積極的な治療はしない</ps_other>し、自分はもういいんだけど、妻を残していくと思うと<cc2>心配</cc2>でたまらなくなるよ。直接妻には言いにくいのだけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２８９>	
+<DATE>１月２日１４：００</DATE><TITLE>不安</TITLE>
+<S>妻とも話し合って<ps_pending>退院先は自宅にする</ps_pending>ことにしたけど、私がもっと動けなくなって、妻が一人で頑張りすぎて倒れたりしたら<cc2>心配</cc2>なんだよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９０>	
+<DATE>１２月２７日１０：００</DATE><TITLE>非効果的呼吸パターン</TITLE>
+<S>スゥーハー。入院前よりは<change>いい</change>けど、まだ<feature>ちょっと</feature><cc1>息苦しい</cc1>ねえ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９１>	
+<DATE>１２月２８日１０：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>前首</body>の所が<cc1>ヒリヒリ</cc1>しますね。擦れないように気をつけています。もうすぐ治療終わるから頑張らないと。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９２>	
+<DATE>１２月２８日１０：３０</DATE><TITLE>急性疼痛</TITLE>
+<S>ツバやご飯を飲み込むときが<cc1>痛い</cc1>です。お粥より麺とかにできますか？何もしていないときは<feature>我慢できる</feature>から、<m-key>痛み止め</m-key>はまだ<medicine>増やさないで様子をみたい</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９３>	
+<DATE>１２月２９日１４：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><cc1>目の前がぐるぐるするような</cc1><cc1>目眩</cc1>がありました。はい。<adherence>呼びます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９４>	
+<DATE>１２月３０日１４：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><disease>パーキンソン</disease>があるけど<adl>一人で歩いていた</adl>から<cc1>大丈夫</cc1>だよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９５>	
+<DATE>１月４日１０：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>年末年始で治療がお休みだったから、だいぶ<change>よくなった</change>気がするよ。<cc1>ヒリヒリ感</cc1>も前より<change>良い</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９６>	
+<DATE>１月４日１０：３０</DATE><TITLE>急性疼痛</TITLE>
+<S>飲み込むときの<cc1>痛み</cc1>は<change>まだある</change>けど、治療してない間に少しは<change>良くなった</change>と思うよ。このまま終われると良いのだけど。<nutrition>麺食は喉越しが良いから食べやすくて良い</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９７>	
+<DATE>１月７日１４：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>飲み込むのが<cc1>痛くて辛い</cc1>。先生が前言っていたように<ps_pending>点滴からってできないのかな</ps_pending>？ずっと<position>寝ている</position>からか、<body>腰</body>が<cc1>痛い</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９８>	
+<DATE>１月８日１０：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>飲まなくても良いように変えてもらったよ。<cc1>痛み</cc1>も昨日より<change>落ち着いている</change>し、何より飲み込まなくて良いから<feature>だいぶ</feature><medicine>楽</medicine>だね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０２９９>	
+<DATE>１月８日１４：００</DATE><TITLE>不安</TITLE>
+<S><m-key>点滴</m-key>からにしてもらったのはよかったんだけど、<ps_pending>自宅に帰って妻が管理するってこと</ps_pending>？<m-key>麻薬</m-key>だしなんか<cc2>怖い</cc2>な。<cc2>大丈夫かな</cc2>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３００>	
+<DATE>１月１８日１０：００</DATE><TITLE>不安</TITLE>
+<S>とうとう退院になりました。自宅に帰って皆さんがいないと思うと<cc2>不安</cc2>もあるけれど、妻と最期まで自宅で良い時間を過ごします。本当にありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０１>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>初めての入院で<cc2>緊張</cc2>しています。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０２>	
+<DATE>１０／１／２１　１４：００</DATE>
+<S><ps_pending>俺は入院したくなかったんだ</ps_pending>。でも、先生や家族が入院しろってうるさいから入院しただけ。ベッドから動けないのか。<adherence>納得できない</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０３>	
+<DATE>１０／１／２１　１０：３０</DATE>
+<S>もう５回目だからね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０４>	
+<DATE>１０／１／２１　０：４５</DATE>
+<S><cc1>痛い</cc1>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０５>	
+<DATE>１０／１／２１　１３：５５</DATE>
+<S>え？<adherence>吸ってない</adherence>よ？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０６>	
+<DATE>１０／１／２１　２１：１０</DATE>
+<S>え？<cc1>なんともない</cc1>ですよ？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０７>	
+<DATE>１０／１／２１　１１：００</DATE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０８>	
+<DATE>１０／１／２１　１３：４５</DATE>
+<S><adl>自分であるけない</adl>から、<request>肩貸してくれる</request>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３０９>	
+<DATE>１０／１／２１　１６：００</DATE>
+<S>本人「あー・・・・」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１０>	
+<DATE>１０／１／２１　１５：３０</DATE>
+<S>本人「そうかなって思ってました」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１１>	
+<DATE>１０／１／２１　２０：００</DATE>
+<S>あー・・・<cc1>痛い</cc1>いいい・・・もう殺してー・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１２>	
+<DATE>１０／１／２１　１：５５</DATE>
+<S>今日は七夕ですよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１３>	
+<DATE>１０／１／２１　２３：３０</DATE>
+<S>つながれていたので、<incident>自分で取った</incident>んです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１４>	
+<DATE>１０／１／２１　９：５０</DATE>
+<S>本人「よろしくお願いします」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１５>	
+<DATE>１０／１／２１　１１：００</DATE>
+<S>これ<request>外してほしい</request>の。嫌なの。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１６>	
+<DATE>１０／１／２１　１１：３０</DATE>
+<S><feature>急に</feature><body>胸</body>が<cc1>苦しく</cc1>なったんで病院に行ったら、ここを紹介されてきました。今は<cc1>体調は悪くない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１７>	
+<DATE>１０／１／２１　２３：３０</DATE>
+<S><cc1>眠れない</cc1>ので、<m-key>薬</m-key>が<medicine>欲しい</medicine>んですけど</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１８>	
+<DATE>１０／１／２１　２０：００</DATE>
+<S>もう３日も<t-val>出てない</t-val>んだよね。<body>おなか</body>が<cc1>苦しい</cc1>感じがあるかな。<cc1>吐き気はない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３１９>	
+<DATE>１０／１／２１　２３：００</DATE>
+<S><cc1>痛くて</cc1><cc1>眠れなくて</cc1>ね・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２０>	
+<DATE>１０／１／２１　２０：００</DATE>
+<S>・・・・・・（入眠中）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２１>	
+<DATE>１０／１／２１　２０：００</DATE>
+<S>・・・・・・（意識消失）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２２>	
+<DATE>１０／１／２１　２３：００</DATE>
+<S>・・・・・・（入眠中）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２３>	
+<DATE>１０／１／２１　１５：００</DATE>
+<S><cc1>吐き気</cc1>が<feature>強くて</feature>、<cc1>気持ちわるい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２４>	
+<DATE>１０／１／２１　２０：００</DATE>
+<S><feature>急に</feature><cc1>気持ち悪く</cc1>なって、<cc1>吐いた</cc1>ら、こんなのだったんだよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２５>	
+<DATE>１０／１／２１　１４：００</DATE>
+<S>・・・・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２６>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>よろしくお願いします</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２７>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>昨夜は大変お騒がせしました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２８>	
+<DATE>１０／１／２１　１０：４５</DATE>
+<S><cc1>大丈夫</cc1>です。<cc1>なんともない</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３２９>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>昨夜、あの人はどうなったの？大丈夫？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３０>	
+<DATE>１０／１　２０００</DATE>
+<S>まだ<t-val>出ない</t-val>んですよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３１>	
+<DATE>１０／１／２１　１３：００</DATE>
+<S>無事に終わったんですね。今は<feature>ちょっと</feature><cc1>眠たい</cc1>です。<cc1>痛みはない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３２>	
+<DATE>１０／１／２１　１３：００</DATE>
+<S><m-key>点滴</m-key>、ほかの人に代わってもらえませんか？若い人じゃなくて、ベテランさんが良いんですけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３３>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S><cc1>体調は変わりない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３４>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>なんで、こんなのしないといけないの？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３５>	
+<DATE>１０／１／２１　１４：００</DATE>
+<S><incident>触ってない</incident>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３６>	
+<DATE>１０／１／２１　１７：００</DATE>
+<S><cc1>痛い</cc1>から、<m-key>点滴の痛み止め</m-key><medicine>打ってよ</medicine>。<m-key>ソセゴン</m-key>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３７>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３８>	
+<DATE>１０／１／２１　８：３０</DATE>
+<S>・・・（入眠中）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３３９>	
+<DATE>１０／１／２１　２１：００</DATE>
+<S><body>心臓</body>が<cc1>どきどき</cc1>する感じ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４０>	
+<DATE>１０／１／２１　１０：００</DATE>
+<S>はい、<adherence>わかりました</adherence>。<adherence>お菓子は食べないようにします</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４１>	
+<DATE>１月１日　１１：００</DATE><TITLE>身体可動性障害</TITLE>
+<S>昨日より<body>足</body>に<adl>力が入る</adl>感じで<adl>しっかり歩けている</adl>わ。<adherence>転ばないように気をつけないと</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４２>	
+<DATE>１月２日　１１：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S>最初は<cc1>怖かったけど慣れてきた</cc1>かな。昨日左に打ったから、今日は右に打ったの。ノートに書いてるから忘れないわね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４３>	
+<DATE>１月３日　１１：００</DATE><TITLE>活動耐性低下</TITLE>
+<S><nutrition>食欲もない</nutrition>し、<adherence>動きたいって思えなくて</adherence><adherence>リハビリも辛い</adherence>のよ。ずっと<position>ベッドで過ごしてた</position>から身体がなまっちゃったのかしら。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４４>	
+<DATE>１月４日　１１：００</DATE><TITLE>皮膚統合性障害リスク状態</TITLE>
+<S>少しずつ<adl>動けるようになってきた</adl>けどまだ<cc1>痛くて</cc1>だめね。<position>右は向きやすい</position>けど<position>左</position>はやっぱり<cc1>痛くて</cc1>。<position>同じ方ばっかり向いちゃう</position>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４５>	
+<DATE>１月５日　１１：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><cc1>咳が苦しくて</cc1>、<t-key>痰</t-key>が<t-val>絡む</t-val>感じかな。<t-val>自分で痰は出せてる</t-val>けど時々<cc1>苦しい</cc1>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４６>	
+<DATE>１月６日　１１：００</DATE><TITLE>床上移動障害</TITLE>
+<S><cc1>痛くて痛くて</cc1>。自分じゃとても<adl>なにも出来ない</adl>わ。<cc1>お腹が張る</cc1>感じはするけど、<t-key>便</t-key>は全然<t-val>出そうもなくて</t-val>。だからか<nutrition>食欲もない</nutrition>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４７>	
+<DATE>１月７日　１１：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>まだ治らないの？<position>横向いて寝てる</position>のにね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４８>	
+<DATE>１月８日　２３：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>痛くて痛くて</cc1><cc1>眠れない</cc1>の。<m-key>座薬</m-key><medicine>効かない</medicine>みたいで。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３４９>	
+<DATE>１月９日　２３：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><adl>一人で歩ける</adl>から<cc1>大丈夫</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５０>	
+<DATE>１月１０日　２３：００</DATE><TITLE>急性混乱</TITLE>
+<S>もう家に帰ります。娘が迎えにきます。入院？なんでそんなことになってるのよ。勘弁してください。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５１>	
+<DATE>１月１１日　１１：００</DATE><TITLE>感染リスク状態</TITLE>
+<S>昨日より<change>腫れている</change>と思う。<cc1>ズキズキ痛い</cc1>し<cc1>熱もってる</cc1>よね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５２>	
+<DATE>１月１２日　１１：００</DATE><TITLE>身体損傷リスク状態</TITLE>
+<S>なんで寝てなきゃいけないの。起こして下さい。誰か助けて。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５３>	
+<DATE>１月１３日　１１：００</DATE><TITLE>非効果的健康管理</TITLE>
+<S><adherence>やめなくちゃいけないのはわかる</adherence>けど、<adherence>ストレス溜まっちゃって仕方ない</adherence>よ。みんなタバコ吸ってても大丈夫だったって言ってたし甘いものも食べてるじゃない。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５４>	
+<DATE>１月１４日　１１：００</DATE><TITLE>スピリチュアルペイン</TITLE>
+<S>ずっと<cc1>だるい</cc1>し、<cc1>眠れない</cc1>し、<cc1>考え込んじゃって</cc1>ね。<cc1>痛み</cc1>は<feature>あるようなないような</feature>、もうよくわからないんだけど。どうせ死ぬのに何をやってるんだろうって思って。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５５>	
+<DATE>１月１５日　１１：００</DATE><TITLE>身体可動性障害</TITLE>
+<S><adherence>やる気はある</adherence>んだけど動くと<cc1>痛い</cc1>のよ。<ps_other>体力も落ちちゃってる</ps_other>のか思うようにいかないのよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５６>	
+<DATE>１月１６日　１１：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S><cc1>出血もない</cc1>し<t-key>皮膚の色</t-key>も前より<change>いい</change>感じですよね。靴が履きやすいようにガーゼの当て方ちょっと変えちゃったけどこれで大丈夫なのかな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５７>	
+<DATE>１月１７日　１１：００</DATE><TITLE>活動耐性低下</TITLE>
+<S>ちょっと動いただけで<cc1>息切れ</cc1>しちゃうのよ。そこまで<cc1>苦しくはない</cc1>けど休まないと<cc1>しんどい</cc1>感じ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５８>	
+<DATE>１月１８日　１１：００</DATE><TITLE>皮膚統合性障害リスク状態</TITLE>
+<S>まだ<adl>自分で動けない</adl>です。<position>ずっと寝てる</position>から<body>腰</body>が<cc1>痛く</cc1>なっちゃう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３５９>	
+<DATE>１月１９日　１１：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>全然<change>良くならない</change>よ。<cc1>苦しくて</cc1>参っちゃう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６０>	
+<DATE>１月２０日　１１：００</DATE><TITLE>床上移動障害</TITLE>
+<S>トイレじゃないからか<cc1>残尿感ある</cc1>わね。<position>動かない</position>から<nutrition>水分もあまりすすまない</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６１>	
+<DATE>１月２１日　１１：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>コルセットが合わないのか<cc1>擦り切れちゃって</cc1>。<feature>ちょっと</feature><cc1>ヒリヒリ</cc1>するね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６２>	
+<DATE>１月２２日　１１：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>痛い</cc1>ですね。昨日は<t-val>８位</t-val><cc1>痛かった</cc1>ので、<m-key>座薬</m-key>を<medicine>使ってもらいました</medicine>。今日は<t-val>６くらい</t-val>かな。痛くないときでも<t-val>５位</t-val>は常に<cc1>痛い</cc1>感じで。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６３>	
+<DATE>１月２３日　１１：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><cc1>ふらふら</cc1>するというより、<body>足の裏</body>の<cc1>しびれ</cc1>があるから<adl>うまく歩けない</adl>感じなの。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６４>	
+<DATE>１月２４日　１１：００</DATE><TITLE>急性混乱</TITLE>
+<S>誰か来てください。虫がたくさんいて<cc2>怖い</cc2>わ。血が出てきちゃった。もうなにがなんだか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６５>	
+<DATE>１月２５日　１１：００</DATE><TITLE>感染リスク状態</TITLE>
+<S>また<cc1>熱</cc1>がでてきちゃったね。<body>身体</body>も<cc1>だるい</cc1>し。<m-key>薬</m-key>が<medicine>効いていないのかな</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６６>	
+<DATE>１月２６日　１１：００</DATE><TITLE>身体損傷リスク状態</TITLE>
+<S>嫌なものは嫌なのよ。<request>外してほしい</request>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６７>	
+<DATE>１月２７日　１１：００</DATE><TITLE>排尿障害</TITLE>
+<S><cc1>お腹張ってる</cc1>のはわかるんだけど<t-key>トイレ</t-key>行っても<t-val>出ない</t-val>んだよね。出たとしてもちょっとだけで。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６８>	
+<DATE>１月２８日　１１：００</DATE><TITLE>不使用性シンドロームリスク状態</TITLE>
+<S>いつになったら動けるのかな。<position>ベッドの上</position>じゃ<nutrition>食欲も出ない</nutrition>し、<t-key>トイレ</t-key>もうまく<t-val>できない</t-val>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３６９>	
+<DATE>１月２９日　１１：００</DATE><TITLE>睡眠パターン混乱</TITLE>
+<S>もともと環境が変わると<feature>全然</feature><cc1>眠れない</cc1>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７０>	
+<DATE>１月３０日　２２：００</DATE><TITLE>嚥下障害</TITLE>
+<S><cc1>むせちゃって</cc1><nutrition>うまく食べられない</nutrition>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７１>	
+<DATE>２月１日　１２：００</DATE><TITLE>経時記録：術後帰室</TITLE> 　
+<S><cc1>大丈夫</cc1>。無事終わってよかった。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７２>	
+<DATE>２月２日　１０：００</DATE><TITLE>経時記録：インシデント　転倒</TITLE> 　
+<S><ps_pending>大丈夫だと思った</ps_pending>んだけどね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７３>	
+<DATE>２月３日　１１：００</DATE><TITLE>経時記録：退院調整カンファレンス</TITLE> 　
+<S><ps_other>家に帰りたい</ps_other>けど<ps_other>家族に迷惑がかかりそう</ps_other>。<ps_other>１人暮らしのままでいたい</ps_other>けどそれは反対されているしどうすればいいのやら。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７４>	
+<DATE>２月４日　１１：００</DATE><TITLE>経時記録：輸血</TITLE> 　
+<S><cc1>変わりない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７５>	
+<DATE>２月５日　１４：００</DATE><TITLE>経時記録：脊髄造影検査施行後帰室</TITLE> 　
+<S>特に<cc1>変わりはありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７６>	
+<DATE>２月６日　１３：００</DATE><TITLE>経時記録：インシデント　点滴自己抜針</TITLE> 　
+<S><ps_other>家に帰りたい</ps_other>から<incident>抜いた</incident>の。もう必要ないと思って。だってあなた方外してくれないでしょう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７７>	
+<DATE>２月７日　１３：００</DATE><TITLE>経時記録：インシデント　内服忘れ</TITLE> 　
+<S>飲んだつもりで<adherence>忘れちゃった</adherence>。ごめんね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７８>	
+<DATE>２月８日　１０：００</DATE><TITLE>経時記録：創傷処置介助</TITLE> 　
+<S>消毒がまだ<cc1>しみる</cc1>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３７９>	
+<DATE>２月９日　１１：００</DATE><TITLE>経時記録：褥瘡回診</TITLE> 　
+<S><cc1>痛くない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８０>	
+<DATE>２月１０日　１４：００</DATE><TITLE>経時記録：緊急入院</TITLE> 　
+<S><cc1>痛い</cc1>よ。触らないで。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８１>	
+<DATE>３月１日　１４：００</DATE><TITLE>経時記録：術後イレウス</TITLE> 　
+<S><cc1>気持ち悪くて</cc1><nutrition>食べられない</nutrition>し、<cc1>吐いてばかり</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８２>	
+<DATE>３月２日　１９：００</DATE><TITLE>経時記録：インシデント　脱臼</TITLE> 　
+<S><incident>動けない</incident>よ。<feature>すごく</feature><cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８３>	
+<DATE>３月３日　１１：００</DATE><TITLE>経時記録：インシデント　忘れ物</TITLE> 　
+<S>（電話にて）<incident>薬が足りない</incident>みたいなんだけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８４>	
+<DATE>３月４日　１３：００</DATE><TITLE>経時記録：術後帰室</TITLE>  
+<S>もう<cc1>辛くて寝てられない</cc1>。<request>起こして</request>。起こしてくれないとどうにかなりそう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８５>	
+<DATE>３月５日　１１：００</DATE><TITLE>非効果的健康管理</TITLE>
+<S>ちょっとトイレ行くだけだから<adherence>大丈夫だと思って</adherence>さ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８６>	
+<DATE>３月６日　１１：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S>外来で教わってから<adherence>ずっとやってる</adherence>よ。最初は全然できなかったけどやってるうちにうまくなってきて嬉しい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８７>	
+<DATE>３月７日　１２：００</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S><nutrition>食べにくくなった</nutrition>感じはあるけど仕方ないよね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８８>	
+<DATE>３月８日　１５：００</DATE><TITLE>経時記録：病状説明</TITLE>  
+<S>家族は頑張ってって言うけどね、私は<ps_pending>もう寿命だと思ってる</ps_pending>んで<ps_pending>無理をしたくなくて</ps_pending>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３８９>	
+<DATE>３月９日 １５：００</DATE><TITLE>身体可動性障害</TITLE>
+<S><cc1>痛みはある</cc1>けどあまり<m-key>痛み止め</m-key><medicine>飲みたくなくて</medicine>。退院まで日数ないから<cc2>心配</cc2>なんだけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９０>	
+<DATE>３月１０日　１０：００</DATE><TITLE>不使用性シンドロームリスク状態</TITLE>
+<S>もともとほとんど<adl>外出はできていなかった</adl>けど、こんなことになっちゃってもうこのまま動けなくなっちゃいそう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９１>	
+<TITLE>転倒のリスク</TITLE>
+<S>なんでこんな物がついているんや。早く<request>外してくれ</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９２>  
+<S>子供の<incident>点滴が落ちていません</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９３>	
+<S>子供が<cc1>意識がありません</cc1>。すぐに<request>来てください</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９４>	
+<TITLE>ＰＣ細気管支炎</TITLE>
+<S>子供が<cc1>しんどそう</cc1>にしています。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９５>	
+<S>子供の<incident>点滴が漏れています</incident></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９６>	
+<TITLE>転倒のリスク状態</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９７>	
+<TITLE>ＰＣ喘息</TITLE>
+<S><cc1>息がしんどい</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９８>	
+<TITLE>排便の変調</TITLE><TITLE>便秘</TITLE> 　
+<S><t-key>うんち</t-key>が<t-val>でていません</t-val></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０３９９>	
+<TITLE>皮膚統合性の障害</TITLE>
+<S>子供の<body>おしり</body>が<cc1>赤く</cc1>なっています</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４００>	
+<TITLE>感染のリスク状態</TITLE>
+<S><cc1>熱が出てきた</cc1>みたいです</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０１>	
+<TITLE>ＰＣ術後疼痛</TITLE>
+<S><body>おしも</body>が<cc1>痛い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０２>	
+<TITLE>術後疼痛</TITLE>
+<S><body>傷口</body>が<cc1>痛くて</cc1><cc1>寝られません</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０３>	
+<TITLE>不安</TITLE>
+<S>自分が悪いのはわかっているんですけれど、なんでこんなことになってしまったのかとても<cc2>悲しい</cc2>です。<body>おまた</body>も<cc1>痛い</cc1>し今日の夜寝られるか<cc2>不安</cc2>です。だけどこれを受けないと子供を育てることになるので、私にはそれもできないし、<adherence>今頑張るしかないことはわかっている</adherence>んです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０４>	
+<TITLE>ＰＣ乳腺炎</TITLE>
+<S><body>おっぱい</body>が<feature>すごく</feature><cc1>張ってきて痛い</cc1>です。<request>何とかしてほしい</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０５>	
+<S>赤ちゃんがなかなか<body>おっぱい</body>に吸い付いてくれません</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０６>	
+<DATE>１月１３日　２：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><cc1>トイレ</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０７>	
+<DATE>７月５日６：００</DATE><TITLE>排尿の変調：尿閉</TITLE>
+<S><cc1>おしっこしたい感じ？別になかった</cc1>けどな。何にも気づかへんかったわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０８>	
+<DATE>４月９日１２：３０</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S>あー<cc1>しんど</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４０９>	
+<DATE>７月２日１４：３０</DATE><TITLE>安楽の変調</TITLE>
+<S><body>頭</body><cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１０>	
+<DATE>１０月２９日１５：００</DATE><TITLE>排泄セルフケア不足</TITLE>
+<S>へぇー、あぁそう。へぇー、あぁそう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１１>	
+<DATE>９月２２日９：３０</DATE><TITLE>家族ケア</TITLE>
+<S>うちの母がそんな事するはずません。まだボケてませんよ、この前面会した時もしっかりしてました。何かそれなりの理由があるんじゃないですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１２>	
+<DATE>５月２３日１７：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>あー</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１３>	
+<DATE>５月５日１０：００</DATE><TITLE>非効果的個人コーピング</TITLE>
+<S>ごめんね、苛々して。さっきの子にも謝っといてくれる？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１４>	
+<DATE>３月３０日１４：２０</DATE><TITLE>不安</TITLE>
+<S><cc1>何ともない、何ともない</cc1>。１回目はまだ大丈夫なんやろ？次からが<cc2>怖い</cc2>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１５>	
+<DATE>４月９日２１：００</DATE><TITLE>便秘</TITLE>
+<S><request>浣腸して</request>。<m-key>薬</m-key>なんか<medicine>飲んでも出えへん</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１６>	
+<DATE>１１月４日４：５０</DATE><TITLE>悲嘆</TITLE>
+<S><ps_other>死にたい</ps_other>。もう<ps_other>生きててもしょうがない</ps_other>。<ps_other>生きてても皆んなに迷惑かけるばっかり</ps_other>や。もう好きにさせて、お願い。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１７>	
+<DATE>１月１７日１１：３０</DATE><TITLE>非効果的治療計画管理：糖尿病</TITLE>
+<S><adherence>何にも食べてない</adherence>よ。おかしいなー、なんでやろう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１８>	
+<DATE>１２月３日１５：２０</DATE><TITLE>慢性疼痛</TITLE>
+<S><m-key>座薬</m-key><medicine>入れた</medicine>んですけど、<t-key>便</t-key>と一緒に<t-val>出てしまった</t-val>みたい。流してしまったからわからないけど。たぶん・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４１９>	
+<DATE>９月９日２２：００</DATE><TITLE>身体可動性障害</TITLE>
+<S><adl>起きられへんねん</adl>、<request>起こして</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２０>	
+<DATE>７月２日１３：３０</DATE><TITLE>退院指導</TITLE>
+<S>あ、また<adherence>忘れた</adherence>。この間もここ開けるの忘れて注意されたんですよね。駄目ですねぇ、こんなんで大丈夫かしら。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２１>	
+<DATE>１２月２５日１：００</DATE><TITLE>不安</TITLE>
+<S><cc2>大丈夫</cc2>。ここにいたら<cc2>落ち着く</cc2>。もうちょっといてもいい？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２２>	
+<DATE>７月１１日６：００</DATE><TITLE>嘔吐</TITLE>
+<S>・・・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２３>	
+<DATE>６月６日１６：００</DATE><TITLE>適応障害</TITLE>
+<S>なんでお前らに俺の自由を奪われなあかんねん。こんなとこにおってもしゃーない。家帰るんじゃ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２４>	
+<DATE>１０月３０日７：３０</DATE><TITLE>ＰＣ：低血糖</TITLE>
+<S>別に<cc1>しんどない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２５>	
+<DATE>２月７日１５：３０</DATE><TITLE>身体可動性障害</TITLE>
+<S>だいぶ<cc1>自信ついてきた</cc1>けどね。でも、まだ<adl>長い時間立って何かをするのが難しい</adl>。お父さんは家のこと何にもせえへんから、帰ったらまた私がせなあかん。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２６>	
+<DATE>３月８日０：１０</DATE><TITLE>身体損傷のリスク状態</TITLE>
+<S>おしっこしようと思ったら<incident>はまってしもた</incident>。<request>助けて</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２７>	
+<DATE>８月２２日１９：３９</DATE><TITLE>ＰＣ：狭心症発作</TITLE>
+<S><body>胸</body><cc1>苦しい</cc1>。あぁ<cc1>しんどい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２８>	
+<DATE>５月１９日１５：００</DATE><TITLE>皮膚統合性障害のリスク状態</TITLE>
+<S><cc1>何ともない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４２９>	
+<DATE>２月１１日２：００</DATE><TITLE>身体損傷のリスク状態</TITLE>
+<S>・・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３０>	
+<DATE>８月３１日１９：００</DATE><TITLE>精神、身体症状による異常行動</TITLE>
+<S>なんや。どうしたんや。何があったんや。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３１>	
+<DATE>１１月２１日１６：３０</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><cc1>痒み</cc1>が<feature>ひどい</feature>。知らん間に掻いてるんやろな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３２>	
+<DATE>５月６日２３：３０</DATE><TITLE>適応障害</TITLE>
+<S>京子　Ａちゃーん、助けてー、殺されるー！　よう言うわ、今私に毒飲ませようとしたでしょうが！　こんなとこにいてられへん、どいて！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３３>	
+<DATE>９月４日１１：００</DATE><TITLE>ＰＣ：脱水／電解質異常</TITLE>
+<S><nutrition>あんまり飲んでない</nutrition>。おしっこ近くなったら困る。別に<cc1>喉乾かへん</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３４>	
+<DATE>３月３０日１１：００</DATE><TITLE>転倒転落リスク</TITLE>
+<S><adherence>わかりました</adherence>、用事がある時は<adherence>ナースコール押します</adherence>。消灯は何時ですか？それまではテレビ見ててもいいんですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３５>	
+<DATE>８月７日６：００</DATE><TITLE>排泄セルフケア不足</TITLE>
+<S>・・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３６>	
+<DATE>８月２４日９：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>痛い痛い痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３７>	
+<DATE>５月２２日１８：００</DATE><TITLE>非効果的治療計画管理</TITLE>
+<S><cc1>しんどい</cc1>からやめときます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３８>	
+<DATE>６月６日１８：００</DATE><TITLE>摂食セルフケア不足</TITLE>
+<S>・・・・はい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４３９>	
+<DATE>４月１１日１４：４０</DATE><TITLE>排尿パターンの変調</TITLE>
+<S><request>おしっこ連れてって</request>。あんたらひどいね、トイレくらい連れて行ってくれてもいいでしょう！連れてってもらってない、そんなん自分が一番ようわかってる。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４０>	
+<DATE>４月３日１２：５０</DATE><TITLE>栄養摂取の変調</TITLE>
+<S><nutrition>いりません</nutrition>。もう<ps_other>ほっといて下さい</ps_other>。人が作ったものなんか食べれません、気持ち悪い。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４１>	
+<DATE>６月３０日７：３０</DATE><TITLE>転倒転落のリスク</TITLE>
+<S><cc1>大丈夫</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４２>	
+<DATE>１月３日１８：００</DATE><TITLE>高体温</TITLE>
+<S><cc1>寒い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４３>	
+<DATE>１１月２８日２：４０</DATE><TITLE>転倒転落リスク</TITLE>
+<S>聞こえてる。・・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４４>	
+<DATE>１２月１９日１３：００</DATE><TITLE>転倒転落リスク</TITLE>
+<S>起きたらしばらく<position>座って</position>、落ち着いてから<adherence>歩き出すようにしてます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４５>	
+<DATE>７月２３日１４：００</DATE><TITLE>活動耐性低下</TITLE>
+<S>ああ<cc1>しんどい</cc1>。ちょっと休憩していいですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４６>	
+<DATE>２月２３日１８：３０</DATE><TITLE>言語的コミュニケーションの障害</TITLE>
+<S>ぜんじょ。ぜんじょ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４７>	
+<DATE>９月１２日２３：３０</DATE><TITLE>適応障害</TITLE>
+<S>今すぐ帰らして。理由なんかない、帰りたい言うたら帰りたいや。そんなん明日まで待ってられへん。早くここから出してちょうだい。あーーー。助けてー！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４８>	
+<DATE>８月８日１１：４０</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>ようなってますか。<cc1>なんともありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４４９>	
+<DATE>６月２６日１５：００</DATE><TITLE>ＩＣ</TITLE> 　
+<S>手術しても助からないんですか。そうですか・・・。本人はわかってないんでしょう、言うてもすぐ忘れてしまうから。家に連れて帰ることはできますか。苦しむんですか。なるべく楽に死なせてあげたいけど。先生に全部お任せします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５０>	
+<DATE>７月２日１１：００</DATE><TITLE>非効果的治療計画管理</TITLE>
+<S><adherence>飲んだかな、覚えてへん</adherence>わ。ないんやったら<adherence>飲んだんかな</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５１>	
+<DATE>８月３日７：００</DATE><TITLE>下痢</TITLE>
+<S>（発語なし）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５２>	
+<DATE>３月９日１１：３０</DATE><TITLE>急性疼痛</TITLE>
+<S><body>傷のところ</body>が<cc1>痛い</cc1>です。<cc1>頭痛はない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５３>	
+<DATE>４月９日１４：００</DATE><TITLE>不安</TITLE>
+<S><cc2>寝れるか心配</cc2>です。手術なんて初めてやし。なんかいっぱい書いてあるけど、見てたら余計<cc2>心配になってきました</cc2>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５４>	
+<DATE>１０月１０日２２：００</DATE><TITLE>思考過程の混乱</TITLE>
+<S>何にももらってません。ようそんなこと言えますね。こんなひどい所知りません。いや、これもらっていいんですか？わぁ嬉しい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５５>	
+<DATE>２月２８日２２：３０</DATE><TITLE>ガス交換の障害</TITLE>
+<S>（発語なし）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５６>	
+<DATE>１月１０日　８：３０</DATE><TITLE>パーキンソン病</TITLE>
+<S><cc1>喋りにくい</cc1>わぁ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５７>	
+<DATE>２０２１／１／２５　２：３０</DATE><TITLE>吐血</TITLE>
+<S><cc1>吐いちゃいました</cc1>。なんかそれが<feature>黒っぽくて</feature>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５８>	
+<DATE>２月２日　９：３０</DATE><TITLE>ＮＰＰＶ</TITLE>
+<S><ps_other>付けたくない</ps_other>。<cc1>苦しい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４５９>	
+<DATE>２月２０日　１１：００</DATE><TITLE>ＳＭＡ症候群</TITLE>
+<S>お腹がこんなに減ってるのにどうして何も食べさせてくれないんですか。ここはいったいどういうところなんですか！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６０>	
+<DATE>３月１２日　１５：００</DATE><TITLE>糖尿病教育</TITLE>
+<S>このパンフレット良いね、<adherence>分かりやすい</adherence>し、僕でも理解できる。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６１>	
+<DATE>３月２１日　１５：００</DATE><TITLE>初回透析後</TITLE>
+<S>ずっと<position>寝てた</position>し<body>腰</body>が<cc1>痛い</cc1>ね・・・これ、もっと短くならないんですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６２>	
+<DATE>４月８日　９：３０</DATE><TITLE>呼吸苦</TITLE>
+<S><cc1>息が苦しい</cc1>、助けて</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６３>	
+<DATE>４月２５日　１０：００</DATE><TITLE>急性心不全</TITLE>
+<S><body>足</body>が<cc1>パンパン</cc1>でね。<cc1>歩きにくい</cc1>し<cc1>痛い</cc1>ですよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６４>	
+<DATE>５月１３日　２１：００</DATE><TITLE>悪性リンパ腫</TITLE>
+<S><cc1>苦しい・・・苦しい・・・</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６５>	
+<DATE>５月２９日　１０：３０</DATE><TITLE>褥瘡</TITLE>
+<S>なんか<body>お尻</body>が<cc1>痛い</cc1>ねん、<request>見てくれへんか</request>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６６>	
+<DATE>６月２日　１１：００</DATE><TITLE>家族指導</TITLE>
+<S>どうしてもこれが<cc2>怖く</cc2>って・・・。本当にしなくちゃいけないんですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６７>	
+<DATE>６月２５日　２０：００</DATE><TITLE>インフルエンザ</TITLE>
+<S><body>関節</body>が<cc1>痛くなってきました</cc1>・・・。<cc1>熱が上がってるかも</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６８>	
+<DATE>７月１０日　４：００</DATE><TITLE>帰宅願望</TITLE>
+<S>もう帰ります。お世話になりました。ありがとうございます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４６９>	
+<DATE>７月２５日　１４：００</DATE><TITLE>輸血</TITLE>
+<S>なんか<cc1>ふらふら</cc1>するし、歩いてても<cc1>すぐ疲れてしまう</cc1>・・・。これが先生の言ってた<ps_pending>貧血の症状なんですか</ps_pending>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７０>	
+<DATE>８月８日　９：００</DATE><TITLE>てんかん発作</TITLE>
+<S><feature>全然</feature><cc1>記憶無い</cc1>んです・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７１>	
+<DATE>８月２６日　２１：００</DATE><TITLE>麻薬</TITLE>
+<S><m-key>痛み止め</m-key>のやつ<medicine>もらえませんか</medicine>。<t-key>痛さ</t-key>は<t-val>６くらい</t-val>かな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７２>	
+<DATE>９月４日　０：４５</DATE><TITLE>ＳＡＳ</TITLE>
+<S>（かなり大きないびきをかいておられる）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７３>	
+<DATE>９月１６日　１６：００</DATE><TITLE>転落</TITLE>
+<S>なんでや！触るな！<cc1>痛い</cc1>んじゃ！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７４>	
+<DATE>１０月９日　１０：３０</DATE><TITLE>下痢</TITLE>
+<S><request>オムツ替えて</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７５>	
+<DATE>１０月２９日　１５：００</DATE>
+<S><feature>全然</feature><cc1>平気</cc1>なんだけど、<ps_pending>そんな高いんですね</ps_pending>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７６>	
+<DATE>１２月７日　１１：１５</DATE>
+<S><feature>ちょっと</feature><body>喉</body>に<cc1>違和感がある</cc1>けど、<cc1>痛みはない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７７>	
+<DATE>１２月７日　１４：００</DATE><TITLE>緊急入院</TITLE> 　
+<S>朝起きたら<cc1>息苦しくなって</cc1><cc1>動けなくなった</cc1>。<cc1>息が止まった感じ</cc1>がした。今はだいぶ<change>楽になっています</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７８>	
+<DATE>１２月８日　０９：００</DATE>
+<S><cc1>めまい</cc1>がします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４７９>	
+<DATE>１２月１０日　０５：３０</DATE><TITLE>急性混乱</TITLE>
+<S>・・・・。</S>
+
+<DOCUMENT num=０４８０>	
+<DATE>１２月１０日　１０：００</DATE><TITLE>内服アセスメント（定期）</TITLE> 　
+<S>なんの薬かな？血圧かな？昼には飲まないの？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８１>	
+<DATE>１２月１１日　２３：３０</DATE><TITLE>不眠</TITLE>
+<S>入院してから<cc1>眠りにくくて</cc1>・・・。<cc1>吐き気</cc1>は<feature>少し</feature>ありますけど、そこまで<feature>気にならない</feature>です。ただ<cc1>眠れない</cc1>。昼間に２時間<cc1>眠ってしまった</cc1>ので、今夜は<feature>もっと</feature><cc1>眠れそうにない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８２>	
+<DATE>１２月１３日　１１：３０</DATE>
+<S><body>頭</body>の<cc1>痛みはない</cc1>です。<body>足</body>も<cc1>しびれてない</cc1>。<cc1>なんともない</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８３>	
+<DATE>１２月１４日　１４：００</DATE><TITLE>皮膚ケア指導</TITLE> 　
+<S>まだ<cc2>傷を見るのが怖くて</cc2>・・・。自分でしないといけないんですよね。<cc1>痛くはない</cc1>けど、触るのが<cc2>怖い</cc2>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８４>	
+<DATE>１２月１５日　１０：００</DATE>
+<S><cc1>いたいいたい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８５>	
+<DATE>１２月１５日　１４：２０</DATE>
+<S><cc1>なんともない</cc1>です。ちょっと<body>おなか</body>が<change>ましになった</change>かも。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８６>	
+<DATE>１２月８日　９：００</DATE><TITLE>慢性疼痛</TITLE>
+<S>「<body>全身</body>が<cc1>痛い</cc1>。<m-key>痛み止めの薬</m-key>が<medicine>欲しい</medicine>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８７>	
+<DATE>１２月８日　１１：００</DATE><TITLE>便秘</TITLE>
+<S>「<t-key>トイレ</t-key>に何回も行くんだけど、出そうで<t-val>出ない</t-val>んだわ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８８>	
+<DATE>１２月８日　１２：００</DATE><TITLE>便秘</TITLE>
+<S>「すごい<cc1>スッキリ</cc1>した」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４８９>	
+<DATE>１２月８日　１３：００</DATE><TITLE>血尿</TITLE>
+<S>「おしっこするとき<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９０>	
+<DATE>１２月８日　１４：００</DATE><TITLE>ｏｐｅ終了後バイタル</TITLE>
+<S>「<cc1>気持ち悪い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９１>	
+<DATE>１２月８日　１５：００</DATE><TITLE>嘔吐</TITLE>
+<S>「<cc1>気持ち悪い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９２>	
+<DATE>１２月８日　１６：００</DATE><TITLE>嘔気消失</TITLE>
+<S>「もう<feature>全然</feature><cc1>大丈夫</cc1>、<cc1>吐き気ない</cc1>よ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９３>	
+<DATE>１２月８日　１７：００</DATE><TITLE>術後疼痛</TITLE>
+<S>「<body>足</body>が<cc1>痛い</cc1>。<cc1>じんじん</cc1>して<feature>耐えられない</feature>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９４>	
+<DATE>１２月８日　１８：００</DATE><TITLE>ｂｔ３８．２℃</TITLE>
+<S>「<cc1>大丈夫</cc1>だよ。<cc1>痛み</cc1>もさっきよりは<change>いい</change>よ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９５>	
+<DATE>１２月８日　２１：００</DATE><TITLE>ｂｔ３７．５℃</TITLE>
+<S>入眠中</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９６>	
+<DATE>１２月９日　６：００</DATE><TITLE>ｂｔ３６．６℃</TITLE>
+<S>「昨日よりだいぶ<change>マシ</change>だよ。まだ<body>膝</body>は<cc1>痛む</cc1>けど<feature>我慢できないほどじゃない</feature>よ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９７>	
+<DATE>１２月９日　８：００</DATE><TITLE>入院</TITLE>
+<S>「<body>腰</body>が<cc1>痛む</cc1>。<feature>我慢できないほどじゃない</feature>けど、うまく<adl>動けない</adl>ね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９８>	
+<DATE>１２月９日　１０：００</DATE><TITLE>ｃｖ点滴滴下不良</TITLE>
+<S>入眠中</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０４９９>	
+<DATE>１２月９日　１２：００</DATE><TITLE>メイバランス摂取時ムセあり</TITLE>
+<S>「うまく<nutrition>飲み込めない</nutrition>。もう<nutrition>いらない</nutrition>。<ps_pending>冷たいのは嫌い</ps_pending>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５００>	
+<DATE>１２月９日　１４：００</DATE><TITLE>下痢止め処方</TITLE>
+<S>「ここずっと３日間くらい<cc1>下痢</cc1>が<feature>止まらなかった</feature>の」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０１>	
+<DATE>１２月９日　１４：００</DATE><TITLE>ｂｔ３７．２℃</TITLE>
+<S>「<cc1>なんともない</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０２>	
+<DATE>１２月９日　１８：００</DATE><TITLE>部屋移動希望</TITLE>
+<S>「いつも夜になると隣の人がうるさいから<cc1>眠れない</cc1>。だから<request>部屋を変わりたい</request>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０３>	
+<DATE>１２月９日　２１：００</DATE><TITLE>不眠時薬投与</TITLE>
+<S>「<cc1>ねれない</cc1>よ、<feature>全然</feature><cc1>ねれない</cc1>。あー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０４>	
+<DATE>１２月１０日　６：００</DATE><TITLE>睡眠評価</TITLE>
+<S>「おかげさまで昨日は<feature>よく</feature><cc1>眠れた</cc1>よ。ありがとう。昨日くらいなら大丈夫そう」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０５>	
+<DATE>１２月１０日　８：００</DATE><TITLE>ショートカンファレンス</TITLE>
+<S>「<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０６>	
+<DATE>１２月１０日　１０：００</DATE><TITLE>ｃｖルート抜去</TITLE>
+<S>「<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０７>	
+<DATE>１２月１０日　１２：００</DATE><TITLE>疼痛に伴うａｄｌ低下</TITLE>
+<S>「今日はリハビリで<adl>歩行器で歩けた</adl>。先生が歩行器なしで歩けたら退院って言ってたからね。<adherence>頑張るよ</adherence>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０８>	
+<DATE>１２月１０日　１４：００</DATE><TITLE>同伴外出</TITLE>
+<S>「楽しかった。今日はありがとう。道がちゃんと覚えられるか<cc2>心配</cc2>。後でもう一度<request>教えてください</request>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５０９>	
+<DATE>１２月１０日　１６：００</DATE><TITLE>バルーン再挿入</TITLE>
+<S>「<body>お腹</body>が<feature>少し</feature><cc1>張る</cc1>ね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１０>	
+<DATE>１２月１０日　１８：００</DATE><TITLE>食事量について</TITLE>
+<S>「この量じゃ全然<nutrition>足りない</nutrition>。<nutrition>お腹がすぐ空いちゃう</nutrition>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１１>	
+<DATE>１２月１０日　２１：００</DATE><TITLE>吸引</TITLE>
+<S>「ウーウー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１２>	
+<DATE>１２月１０日　２３：００</DATE><TITLE>心停止発見</TITLE>
+<S>反応なし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１３>	
+<DATE>１２月１１日　７：００</DATE><TITLE>ｂｔ３８．８℃</TITLE>
+<S>「<body>身体</body>が<cc1>だるくて</cc1>、<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１４>	
+<DATE>１２月１１日　８：００</DATE><TITLE>インフルエンザａ型陽性</TITLE>
+<S>「<body>身体</body>が<cc1>熱い</cc1>。<cc1>だるい</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１５>	
+<DATE>１２月１１日　１０：００</DATE><TITLE>内筒洗浄</TITLE>
+<S>「うー」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１６>	
+<DATE>１２月１１日　１２：００</DATE><TITLE>嘔吐</TITLE>
+<S>「<cc1>うううう</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１７>	
+<DATE>１２月１１日　１４：００</DATE><TITLE>クリスマス会参加</TITLE>
+<S>「クイズ正解したよ。景品ももらった。ケーキも美味しかったね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１８>	
+<DATE>１２月１１日　１６：００</DATE><TITLE>転倒リスク</TITLE>
+<S>「ここ病院なの。帰る」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５１９>	
+<DATE>１２月１１日　１８：００</DATE><TITLE>身体固定</TITLE>
+<S>「<ps_pending>嫌だ</ps_pending><cc1>痛い</cc1>。<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２０>	
+<DATE>１２月１２日　８：００</DATE><TITLE>口腔ケア</TITLE>
+<S>「<cc1>痛い、痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２１>	
+<DATE>１２月１２日　１０：００</DATE><TITLE>ｏ２使用せず入浴</TITLE>
+<S>「今の所<cc1>大丈夫</cc1>ですよ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２２>	
+<DATE>１２月１２日　１４：００</DATE><TITLE>立ち上がり行為</TITLE>
+<S>「動いてないよ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２３>	
+<DATE>１２月１２日　１６：００</DATE><TITLE>ポータブルトイレ使用</TITLE>
+<S>「ちゃんとできるか<cc2>不安</cc2>。<ps_other>転んだらどうしよう</ps_other>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２４>	
+<DATE>１２月１２日　１８：００</DATE><TITLE>病状説明</TITLE>
+<S>「<ps_pending>この先どうなるんでしょうか</ps_pending>。苦しいのは本人も嫌だと思うのでなるべく何とかして欲しいです」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２５>	
+<DATE>１２月１２日　２２：００</DATE><TITLE>不穏時薬使用</TITLE>
+<S>「あー！！あー！！どうしてなんですかー！！！何でも無いです。大丈夫です。やっぱり<m-key>薬</m-key><medicine>もらえませんか</medicine>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２６>	
+<DATE>１２月１３日　８：００</DATE><TITLE>使用済みのトイレットペーパーを収集している</TITLE>
+<S>「嫌だ。渡さない。これは大事」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２７>	
+<DATE>１２月１３日　１０：００</DATE><TITLE>ビソルボン吸入</TITLE>
+<S>「これやると<feature>少し</feature>は<cc1>咳が出ない</cc1>ね」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２８>	
+<DATE>１２月１３日　１４：００</DATE><TITLE>右第２趾壊死</TITLE>
+<S>「触ると<feature>すごく</feature><cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５２９>	
+<DATE>１２月１３日　１６：００</DATE><TITLE>褥瘡処置</TITLE>
+<S>「触ると<cc1>痛い</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３０>	
+<DATE>１２月１３日　１８：００</DATE><TITLE>売店で窃盗行為</TITLE>
+<S>「ごめんなさい。盗みました」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３１>	
+<DATE>１２月１４日　７：００</DATE><TITLE>朝食嘔吐</TITLE>
+<S>「<adl>喉に詰まり</adl><feature>かけて</feature><cc1>吐いた</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３２>	
+<DATE>１２月１４日　９：００</DATE><TITLE>尿失禁</TITLE>
+<S>「ごめんね、<cc1>間に合わなかった</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３３>	
+<DATE>１２月１４日　１１：００</DATE><TITLE>便に血液混じっている</TITLE>
+<S>「痛かった<t-key>便</t-key>の中に<t-val>血が混じってる</t-val>、する時に<feature>少し</feature><cc1>痛かった</cc1>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３４>	
+<DATE>１２月１４日　１３：００</DATE><TITLE>いぼ痔</TITLE>
+<S>「<disease>癌</disease>とかじゃなくて<cc2>良かった</cc2>」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３５>	
+<DATE>１２月１４日　１８：００</DATE><TITLE>退院</TITLE>
+<S>「今まで本当にありがとうございました」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３６>	
+<DATE>２０２１／１２／１ ２３：００</DATE><TITLE>不穏状態</TITLE>
+<S>これが取れないのよとってちょうだい！お父さんはどこ？！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３７>	
+<DATE>１２／１ ２：００：００</DATE><TITLE>転倒転落</TITLE>
+<S><body>どこも</body><cc1>痛くない</cc1>よ。<ps_pending>一人で行けると思った</ps_pending>から</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３８>	
+<DATE>２０２１／８／３ ３：００：００</DATE><TITLE>脱水</TITLE>
+<S><body>体</body>が<cc1>だるい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５３９>	
+<DATE>２０２１／１２／１ ８：００：００</DATE><TITLE>盗食</TITLE>
+<S>いただきました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４０>	
+<DATE>１２／１　６：００</DATE><TITLE>疼痛コントロール</TITLE>
+<S><cc1>痛くて、痛くて</cc1>。　我慢してたけど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４１>	
+<DATE>１２／１　７：００</DATE><TITLE>疼痛コントロール</TITLE>
+<S><change>良くなりました</change></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４２>	
+<DATE>１２／１　２３：００</DATE><TITLE>不穏</TITLE>
+<S>なんだかわけがわからない</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４３>	
+<DATE>２０２１／１２／１ １５：００</DATE><TITLE>自力排痰困難</TITLE>
+<S><t-key>痰</t-key>が出そうで<t-val>出ない</t-val></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４４>	
+<DATE>１２／１　２２：００</DATE><TITLE>不眠</TITLE>
+<S><cc1>眠れなくて</cc1>、日中もあまり<adl>動けない</adl>し、つい<cc1>昼寝しちゃう</cc1>んだよね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４５>	
+<DATE>１２／１　８：００</DATE><TITLE>患者誤認</TITLE>
+<S><cc1>大丈夫</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４６>	
+<DATE>１２／１　１４：００</DATE><TITLE>疾病の認識低い</TITLE>
+<S><adherence>大丈夫</adherence>よ、<m-key>酸素</m-key>から離してるから</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４７>	
+<DATE>１２／１　１０：００</DATE><TITLE>皮膚トラブル</TITLE>
+<S>。。。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４８>	
+<DATE>１２／１ １３：００</DATE><TITLE>認知機能の低下により飲水制限が守られない</TITLE>
+<S><cc1>気持ちが悪い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５４９>	
+<DATE>１２／１　８：００</DATE><TITLE>排尿困難</TITLE>
+<S><body>おなか</body>が<cc1>痛い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５０>	
+<DATE>１２／１　１４：００</DATE><TITLE>頓用の注射に依存している</TITLE>
+<S><body>おなか</body><cc1>痛い</cc1>、<m-key>注射</m-key><medicine>して</medicine>よ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５１>	
+<DATE>１２／１　９：００</DATE><TITLE>誤飲</TITLE>
+<S>。。。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５２>	
+<DATE>１２／１　１５：００</DATE><TITLE>離院</TITLE>
+<S>ちょっとそこだし、言っても駄目だと思ったし、猫心配だし</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５３>	
+<DATE>１２／１　１８：００</DATE><TITLE>点滴自抜</TITLE>
+<S>こんなもんいらないよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５４>	
+<DATE>１２／１　１０：００</DATE><TITLE>便秘</TITLE>
+<S>出したくても<t-val>出ない</t-val></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５５>	
+<DATE>２０２１／１２／１ 　１３：００</DATE><TITLE>認知力の低下</TITLE>
+<S>あーあーあー！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５６>	
+<DATE>１２／１　１１：００</DATE><TITLE>気胸</TITLE>
+<S><cc1>息苦しい</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５７>	
+<DATE>１２／１／２１　１４：００</DATE>
+<S><body>足</body>が<cc1>だるい</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５８>	
+<DATE>１２／１　１０：００</DATE><TITLE>ステロイド副作用</TITLE>
+<S>早く偉い人を呼んでちょうだい！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５５９>	
+<DATE>１２月８日　１８：００</DATE><TITLE>便秘</TITLE>
+<S><m-key>下剤</m-key><medicine>ほしい</medicine>わ．</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６０>	
+<DATE>１２／８　１０時１５分</DATE><TITLE>体液過剰：浮腫、腹水、胸水</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６１>	
+<DATE>１２月９日１１時１５分</DATE><TITLE>急性脳梗塞後</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６２>	
+<DATE>１２／８　１１時１０分</DATE><TITLE>活動性の低下</TITLE>
+<S><adherence>ボーっとしてます</adherence></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６３>	
+<DATE>１２／８　１１時１０分</DATE>　<TITLE>失禁</TITLE><TITLE><TITLE>疼痛による活動低下</TITLE> 　
+<S>おトイレ行こうと思ったけれど、<cc1>間に合わなかった</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６４>	
+<DATE>１２／８　１６時０分</DATE>　<TITLE>疼痛：圧迫骨折</TITLE><TITLE><TITLE>せん妄リスク</TITLE>　
+<S><cc1>あいたたた</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６５>	
+<DATE>１２／１　１１時１０分</DATE><TITLE>安楽：皮膚の掻痒感</TITLE>
+<S><cc1>かゆい</cc1>わ　勝手にかいてしまう。前からです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６６>	
+<DATE>１２／２　１８時</DATE><TITLE>体液量不足</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６７>	
+<DATE>１２／８　１１時</DATE>　<TITLE>コミュニケーション障害</TITLE><TITLE><TITLE>意思疎通困難によるストレス</TITLE> 　
+<S>・・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６８>	
+<DATE>１２／８　９時半</DATE><TITLE>転倒リスク状態</TITLE>
+<S><ps_pending>トイレ行きます。</ps_pending></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５６９>	
+<DATE>１２／８　１１時</DATE><TITLE>身体損傷リスク</TITLE>
+<S>Ｓ　・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７０>	
+<DATE>１２／９　２時</DATE><TITLE>体液量不足</TITLE>
+<S>Ｓ　・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７１>	
+<DATE>１２／４　１０時</DATE><TITLE>不安</TITLE>
+<S><body>おなか</body>が<cc1>張っている</cc1>。<cc1>吐き気</cc1>がする。どうしたのかな</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７２>	
+<DATE>１２／２　１３時</DATE><TITLE>転倒リスク</TITLE>
+<S><cc1>痛い</cc1>　<cc1>痛い</cc1><ps_pending>トイレ行こうと思った</ps_pending>。<body>お尻</body>を<incident>打った</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７３>	
+<DATE>１２／２　１１時</DATE>　<TITLE>皮膚統合性障害</TITLE><TITLE>褥瘡発生</TITLE> 　
+<S><change>よくなってきた</change>かな。<cc1>痛みない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７４>	
+<DATE>１２／３　１２時</DATE><TITLE>栄養摂取量必要以下</TITLE>
+<S>温かいと<cc1>ムカついてくる</cc1>んです　こんなに痛くなるより前からあんまり<nutrition>食べれなくなってました</nutrition> <body>口</body>も<cc1>臭くなってきて</cc1>　食べると<cc1>ゲップが出て</cc1>　<body>口の中</body>が<cc1>粘ついて気持ち悪い</cc1>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７５>	
+<DATE>１２／２　１５時１５分</DATE><TITLE>不安</TITLE>
+<S><feature>うまく</feature><cc1>喋れない</cc1>　<body>手</body>も<adl>動かしにくい</adl>　昨日は<cc1>なかった</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７６>	
+<DATE>１２／３　１５時</DATE><TITLE>ガス交換障害</TITLE>
+<S>いつもより<cc1>息がしにくい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７７>	
+<DATE>１２／１５　１３時</DATE><TITLE>安楽の変調：疼痛</TITLE>
+<S><cc1>痛い</cc1>。<incident>転けていません</incident>。<ps_pending>１人でトイレに行きました</ps_pending>。その後、<cc1>痛みがあります</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７８>	
+<DATE>１２／１５　１０時</DATE><TITLE>安楽の変調：発熱</TITLE>
+<S><change>よくなった</change>気がする　<cc1>寒気はない</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５７９>	
+<DATE>１２／１５　２０時</DATE>　<TITLE>栄養摂取量</TITLE><TITLE>必要量以下</TITLE> 　
+<S>ごはん<nutrition>食べてない</nutrition>。なぜ私にはご飯もらえないの？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８０>	
+<DATE>１２／１５　１５時</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>いつもありがとう　<cc1>痒くない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８１>	
+<DATE>１２／１５　２２時</DATE>　<TITLE>安楽の変調</TITLE><TITLE>疼痛</TITLE> 　
+<S><body>胸</body>が<cc1>痛い</cc1>　<feature>急に</feature>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８２>	
+<DATE>１２／１５　１０時</DATE>　<TITLE>セルフケア不足</TITLE><TITLE>入浴</TITLE> 　
+<S><adherence>お風呂は入りたくない</adherence>です。<ps_LH>もともと週に１回しか入ってません</ps_LH>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８３>	
+<DATE>１２／１５　１４時</DATE><TITLE>不安</TITLE>
+<S>死ぬなら<ps_other>家で死にたい</ps_other>。けど<ps_other>迷惑かけてしまうから迷っている</ps_other>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８４>	
+<DATE>１２／１５　１１時</DATE>　<TITLE>安楽の変調</TITLE><TITLE>疼痛</TITLE> 　
+<S><body>足</body>が<cc1>痛い</cc1>ので、<m-key>シップ</m-key>が<medicine>欲しい</medicine></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８５>	
+<DATE>１２／１５　１４時</DATE><TITLE>排泄セルフケア不足</TITLE>
+<S><cc1>おしっこしたい</cc1>。<cc1>不快</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８６>	
+<DATE>１２／１５　１１時</DATE><TITLE>便秘</TITLE>
+<S><t-key>便</t-key>が<t-val>でて</t-val>、<change>楽になりました</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８７>	
+<DATE>１２月１２日２３時</DATE><TITLE>気分転換不足</TITLE> 　
+<S>今何時ですか？<cc1>眠れません</cc1>。<m-key>眠り薬</m-key><medicine>ください</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８８>	
+<DATE>１２月１５日</DATE><TITLE>身体損傷リスク</TITLE> 　
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５８９>	
+<DATE>１２月１５日　１時</DATE><TITLE>不安</TITLE>
+<S><feature>なかなか</feature><cc1>眠れません</cc1>でした。今まで夜は<cc1>ねられていた</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９０>	
+<DATE>１２月１２日１５時</DATE><TITLE>コンプライアンス不足</TITLE>
+<S>私は<adherence>たべる</adherence>んだ！<adherence>なんで食べたらあかんのか</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９１>	
+<DATE>１２月１５日　１１時</DATE><TITLE>体循環量低下</TITLE>
+<S>別に<change>変わりありません</change>。<cc1>痛みない</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９２>	
+<DATE>１２月１６日１３時</DATE><TITLE>嚥下障害</TITLE>
+<S><nutrition>噛みにくい</nutrition></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９３>	
+<DATE>１２月１５日１１時</DATE><TITLE>高血糖</TITLE>
+<S><feature>少し</feature><cc1>だるい</cc1>です。<t-key>おしっこ</t-key><t-val>出てない</t-val>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９４>	
+<DATE>１２月１５日　１４時</DATE><TITLE>非効果的起動浄化不足</TITLE> 　
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９５>	
+<DATE>１２月１４日　１１時</DATE><TITLE>ガス交換障害</TITLE>
+<S><cc1>大丈夫</cc1>だと思います。でも<cc1>息苦しさはあります</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９６>	
+<DATE>１２月１６日　１６時</DATE>　<TITLE>安楽の変調</TITLE><TITLE>嘔吐</TITLE> 　
+<S><cc1>気持ち悪い</cc1>です。<cc1>めまい</cc1>がします。トイレ行ったら<change>変になりました</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９７>	
+<DATE>１２月１７日　１２時</DATE><TITLE>栄養摂取必要量以下</TITLE>
+<S>こんなの<nutrition>食べられない</nutrition>。ぐちゃぐちゃになってる。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９８>	
+<DATE>１２月１７日　１８時</DATE><TITLE>栄養摂取必要量以下</TITLE>
+<S>まだこれなら<nutrition>食べられそう</nutrition>です。でも少し<nutrition>硬い</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０５９９>	
+<DATE>１２月１７日　１１時</DATE><TITLE>皮膚統合性障害リスク</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６００>	
+<DATE>１２月１８日　１０時</DATE><TITLE>非効果的気道浄化</TITLE> 　
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０１>	
+<DATE>１２月１７日　１７時</DATE>　<TITLE>安楽の変調</TITLE><TITLE>発熱</TITLE> 　
+<S><cc1>寒い寒い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０２>	
+<DATE>１２月１８日　１１時</DATE><TITLE>不安</TITLE>
+<S>どうなるんですか？前も詰まったことがあります。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０３>	
+<DATE>１２／１８</DATE><TITLE>転倒転落リスク</TITLE>
+<S>別にどこいくわけでもないけど少し<ps_other>歩こうかと思いました</ps_other>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０４>	
+<DATE>１２／１９</DATE>　<TITLE>安楽の変調</TITLE><TITLE>発熱</TITLE> 　
+<S><feature>急に</feature><cc1>しんどくなってきた</cc1>。昨日の<m-key>コロナワクチン</m-key>のせいかな</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０５>	
+<DATE>１２／１８</DATE>　<TITLE>安楽の変調</TITLE><TITLE>掻痒感</TITLE> 　
+<S><cc1>かゆみ</cc1>が<feature>急</feature>に出てきました。<disease>アレルギー</disease>は今までありませんでした。<cc1>息苦しさはありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０６>	
+<DATE>１２／１８</DATE><TITLE>感染症リスク</TITLE>
+<S>いまのところ<change>変わりはない</change>です。<adherence>マスクはしていない</adherence>。移るでしょうか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０７>	
+<DATE>１２／２０</DATE>　<TITLE>安楽の変調</TITLE><TITLE>疼痛</TITLE> 　
+<S><cc1>痛みがあります</cc1>ね。<body>足の先</body>の<cc1>感覚ない</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０８>	
+<DATE>１２／２０</DATE><TITLE>便秘</TITLE>
+<S>最近<t-key>便</t-key>が<t-val>出にくくなった</t-val>。<cc1>痛み</cc1>は<change>おさまってます</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６０９>	
+<DATE>１２月２日１９：３０</DATE><TITLE>肺炎</TITLE>
+<S><cc1>熱</cc1>がなかなか<change>下がらなくて</change><cc1>熱い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１０>	
+<DATE>６月２１日１０：００</DATE><TITLE>スキンテア</TITLE>
+<S>（<cc1>覚醒</cc1>しており<ps_other>表情穏やか</ps_other>）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１１>	
+<DATE>４月２２日１０：３０</DATE><TITLE>ＭＲＳＡ感染</TITLE>
+<S>（<cc1>ゴホッ、ゴホッ</cc1>と<cc1>むせている</cc1>）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１２>	
+<DATE>１０月１７日２１：３０</DATE><TITLE>点滴自己抜去</TITLE>
+<S>何にも<incident>知らない</incident>わよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１３>	
+<DATE>１２月８日１０：００</DATE><TITLE>ＡＤＬ低下リスク</TITLE>
+<S><adherence>リハビリは行きたくない</adherence>からお休みします。  </S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１４>	
+<DATE>９月３０日１０：００</DATE><TITLE>白内障手術</TITLE>
+<S><cc1>体調は変わりない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１５>	
+<DATE>９月１４日１０：００</DATE><TITLE>人工呼吸器関連合併症リスク</TITLE>
+<S>（セデーション良好）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１６>	
+<DATE>９月２１日１４：００</DATE><TITLE>肺虚脱による呼吸障害</TITLE>
+<S><cc1>咳</cc1>は<feature>少し出る</feature>けど、<cc1>息苦しさはない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１７>	
+<DATE>１０月９日２：３０</DATE><TITLE>出血性ショック</TITLE>
+<S>トイレに行こうとしたら<feature>急に</feature><cc1>気持ち悪くなって</cc1>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１８>	
+<DATE>１０月９日２３：００</DATE><TITLE>夜間せん妄</TITLE>
+<S>あーあのー息を引っ張ってー</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６１９>	
+<DATE>８月１６日１０：００</DATE><TITLE>経管栄養</TITLE>
+<S>（<ps_other>表情穏やか</ps_other>）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２０>	
+<DATE>４月８日１０：００</DATE><TITLE>便秘</TITLE>
+<S>３日くらい<t-key>便</t-key>が<t-val>出てない</t-val>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２１>	
+<DATE>３月１９日１０：００</DATE><TITLE>セルフケア</TITLE>
+<S><adherence>薬がたくさんあって訳がわからん</adherence>。　<body>目</body>も<cc1>悪くなって</cc1>きて手先の細かいことが難儀する。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２２>	
+<DATE>２月２０日１０：００</DATE><TITLE>転倒リスク</TITLE>
+<S>私元々夜は<t-key>トイレ</t-key>に<t-val>２回くらい起きる</t-val>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２３>	
+<DATE>３月１日１０：００</DATE><TITLE>ＡＤＬ低下</TITLE>
+<S>おはよう</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２４>	
+<DATE>４月６日１０：００</DATE><TITLE>自傷他害リスク</TITLE>
+<S>はい、はい、はい</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２５>	
+<DATE>９月７日１４：００</DATE><TITLE>不整脈</TITLE>
+<S><cc1>痛みは全然ない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２６>	
+<DATE>５月１０日１２：００</DATE><TITLE>誤嚥性肺炎</TITLE>
+<S>・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２７>	
+<DATE>１０月２９日１０：００</DATE><TITLE>急性緑内障</TITLE>
+<S><cc1>吐き気はない</cc1>けど、<body>頭</body>が<cc1>痛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２８>	
+<DATE>１０月３０日１０：００</DATE><TITLE>閉塞性動脈硬化症</TITLE>
+<S><body>足</body>に<cc1>タコ</cc1>ができてるから<request>削ってください</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６２９>	
+<DATE>７月３１日２１：００</DATE><TITLE>インスリン指導</TITLE>
+<S>昨日から自分で<m-key>インスリンの注射</m-key><adherence>打つ練習してる</adherence>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３０>	
+<DATE>１１月８日１４：００</DATE><TITLE>褥瘡</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３１>	
+<DATE>１０月７日１０：００</DATE><TITLE>心不全</TITLE>
+<S>だんだん<body>体</body>が<change>楽になってきた</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３２>	
+<DATE>２月５日３：００</DATE><TITLE>狭心症</TITLE>
+<S><body>胸</body>が<cc1>苦しい</cc1>、<m-key>ニトロ</m-key><medicine>ください</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３３>	
+<DATE>７月１７日１０：００</DATE><TITLE>退院指導</TITLE>
+<S><m-key>目薬</m-key>は<adherence>自分でさすの難しい</adherence>ですね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３４>	
+<DATE>９月１９日１２：００</DATE><TITLE>糖尿病</TITLE>
+<S>あれ？<t-key>血糖値</t-key><t-val>高い</t-val>ね。何も<adherence>間食してない</adherence>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３５>	
+<DATE>５月１０日１０：００</DATE><TITLE>検査に伴う不安</TITLE>
+<S>痛みに弱いから<cc2>心配</cc2>です。とても<cc2>緊張</cc2>しています。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３６>	
+<DATE>９月６日１０：００</DATE><TITLE>敗血症</TITLE>
+<S><cc1>熱</cc1>が<change>上がってきました</change>。とにかく<cc1>寒い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３７>	
+<DATE>９月８日１４：００</DATE><TITLE>輸血療法</TITLE>
+<S>輸血を始めたら<body>体</body>に<cc1>蕁麻疹</cc1>が出てきた。なんとなく<body>喉</body>にも<cc1>違和感がある</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３８>	
+<DATE>８月１８日２１：００</DATE><TITLE>化学療法による有害事象</TITLE>
+<S><cc1>気持ち悪くて</cc1><cc1>吐いて</cc1>しまいました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６３９>	
+<DATE>８月３０日１０：００</DATE><TITLE>易感染状態</TITLE>
+<S><cc1>口内炎</cc1>が<feature>出来そうな感じ</feature>がする。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４０>	
+<DATE>５月１７日１０：００</DATE><TITLE>スキントラブル</TITLE>
+<S><body>点滴のテープのところ</body>が<cc1>痒い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４１>	
+<DATE>４月９日１７：００</DATE><TITLE>シャント狭窄</TITLE>
+<S>そういえば<adherence>止血バンド外してない</adherence>ね。<adherence>忘れてた</adherence>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４２>	
+<DATE>７月１２日１０：００</DATE><TITLE>骨折リスク</TITLE>
+<S>普段じっとしてればいいんだけど、体の向きを変えるときに<body>背中や腰</body>が<feature>ものすごく</feature><cc1>痛い</cc1>から、<request>ゆっくりお願いします</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４３>	
+<DATE>６月２９日１０：００</DATE><TITLE>肝硬変による苦痛</TITLE>
+<S><body>足</body>が<cc1>だるくてだるくて</cc1>仕方ない。<cc1>だるさ</cc1>のせいで夜も<cc1>寝付けない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４４>	
+<DATE>３月６日１０：００</DATE><TITLE>がん性疼痛</TITLE>
+<S>動くときに<body>腰</body>が<cc1>痛い</cc1>です。数値で言うと、じっとしている時は<t-val>１</t-val>、動くときは<t-val>６くらい</t-val>です。お風呂に入るときが<t-val>一番痛い</t-val>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４５>	
+<DATE>１２月１６日２３：００</DATE><TITLE>不安</TITLE>
+<S><cc1>寂しい</cc1>から行かないで。<request>ここに居てください</request>。看護師さんと<request>お話がしたい</request>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４６>	
+<DATE>１２月１０日１０：００</DATE><TITLE>介護抵抗</TITLE>
+<S>うー・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４７>	
+<DATE>２月３日１０：００</DATE><TITLE>ストレス</TITLE>
+<S>今まで我慢してたんだけど、あの人（同室者）毎晩毎晩いびきと寝言がうるさいのよ。耳栓しても聞こえてくるから<cc1>眠れない</cc1>し<cc1>イライラ</cc1>して<cc1>ストレス</cc1>が<feature>爆発しそう</feature>よ。カーテンを開けて「うるさい！」って怒鳴ってしまいそう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４８>	
+<DATE>１月１９日１０：００</DATE><TITLE>認知症に関連した見当識障害</TITLE>
+<S>何もしとらんぞ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６４９>	
+<DATE>１月１９日１９：００</DATE><TITLE>認知症に関連した見当識障害</TITLE>
+<S><body>どこも</body><cc1>悪くない</cc1>のに<m-key>薬</m-key>なんて<medicine>飲みません</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５０>	
+<DATE>１０月９日１０：００</DATE><TITLE>非効果的呼吸パターン</TITLE>
+<S><t-key>痰</t-key>がなかなか<t-val>出なくて</t-val><cc1>苦しい</cc1>感じがする。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５１>	
+<DATE>１月２８日１０：００</DATE><TITLE>皮膚統合性障害リスク状態</TITLE>
+<S>（お腹は痛いですか？の問いに首を横に振る）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５２>	
+<DATE>２月１１日２１：３０</DATE><TITLE>不安</TITLE>
+<S>今日先生からお話があって、がん細胞が消えていない、治療が効いていないって聞きました。私よりも主人の方がショックだったみたい。まだ子どもも中学生だしどうやって伝えようか・・・</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５３>	
+<DATE>６月６日１０：００</DATE><TITLE>転倒転落リスク</TITLE>
+<S><ps_other>家に帰る</ps_other>。<adl>歩いて帰れる</adl>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５４>	
+<DATE>６月１８日１７：００</DATE><TITLE>高体温</TITLE>
+<S><body>体</body>が<cc1>熱い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５５>	
+<DATE>１０月１０日１０：００</DATE><TITLE>胸腔ドレナージ</TITLE>
+<S>特に<cc1>息苦しい感じはありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５６>	
+<DATE>１２月８日１０：００</DATE><TITLE>虫垂炎</TITLE>
+<S><body>傷</body>の<cc1>痛みはありません</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５７>	
+<DATE>７月２６日１０：００</DATE><TITLE>昼夜逆転</TITLE>
+<S>（入眠中）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５８>	
+<DATE>９月１２日１０：００</DATE><TITLE>終末期援助</TITLE>
+<S>（家族より） あとどれくらいもつでしょうか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６５９>	
+<DATE>１２月１日７：０５</DATE><TITLE>トイレにて転倒</TITLE>
+<S><adherence>呼んでって言われた</adherence>けどね、<ps_pending>ズボンをあげるくらい自分でできると思った</ps_pending>ら、<cc1>ふらついちゃって</cc1>。<incident>尻もちをつきました</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６０>	
+<DATE>１２月２日２２：１０</DATE><TITLE>入眠困難</TITLE>
+<S>眠ろうと思ったんだけど、<feature>なかなか</feature><cc1>眠れなくて</cc1>。昨日は我慢してたんだけど、今日は寝たくて。<m-key>睡眠薬</m-key><medicine>いただけませんか</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６１>	
+<DATE>１２月３日１４：００</DATE><TITLE>胸痛の訴えあり</TITLE>
+<S>廊下を歩いていたら、<body>胸のあたり</body>が<cc1>痛くなって</cc1>。すぐに部屋に戻って<adherence>ナースコールを押しました</adherence>。今は少し<change>よくなった</change>けど、まだ<change>続いています</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６２>	
+<DATE>１２月４日１３：００</DATE><TITLE>退院支援カンファレンス</TITLE> 　
+<S>家では自分のことは全部自分でしなくてはならないから。自分の<ps_other>家に帰りたい</ps_other>けど、<feature>少し</feature><cc2>不安</cc2>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６３>	
+<DATE>１２月５日１１：００</DATE><TITLE>創痛訴えあり</TITLE>
+<S>しばらく<cc1>落ち着いていた</cc1>んですが、<cc1>痛くなってきました</cc1>。<m-key>痛み止め</m-key>を<medicine>ください</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６４>	
+<DATE>１２月６日１４：００</DATE><TITLE>リハビリテーションカンファレンス</TITLE> 　
+<S><cc1>痛い</cc1>ですね。<cc1>起き上がるのもつらい</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６５>	
+<DATE>１２月７日８：００</DATE><TITLE>胃管自己抜去</TITLE>
+<S>これいるものだったの。<cc1>気持ち悪い</cc1>から<incident>抜いた</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６６>	
+<DATE>　１２月８日２３：００</DATE><TITLE>ベッドから転落</TITLE>
+<S><ps_pending>トイレに行こうと思った</ps_pending>。乗り越えようと思ったら<incident>落ちた</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６７>	
+<DATE>１２月９日８：００</DATE><TITLE>動悸による苦痛</TITLE>
+<S>朝ごはんを食べたあとから、<cc1>動悸</cc1>がしてね。気になって仕方がないの。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６８>	
+<DATE>１２月１０日１０：００</DATE><TITLE>点滴漏れによる痛み</TITLE>
+<S>最初は<cc1>大丈夫</cc1>だったけど、だんだん<cc1>痛くなってきて</cc1>。<cc1>腫れてきました</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６６９>	
+<DATE>１２月１１日４：００</DATE><TITLE>疼痛訴えあり</TITLE>
+<S>また<cc1>痛くなってきた</cc1>。前回<m-key>頓用</m-key>を<medicine>飲んだ</medicine>のは、昨日の１７時かな。<m-key>薬</m-key>が<medicine>切れてきた</medicine>のね。<cc1>痛くて</cc1>起きてしまって、<cc1>眠れない</cc1>。最近<m-key>薬</m-key>の<medicine>効きが弱くなっている気がする</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７０>	
+<DATE>１２月１２日１５：００</DATE><TITLE>下血</TITLE>
+<S>見たら<t-val>血</t-val>が出てて驚きました。<body>お腹</body>は<cc1>痛くない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７１>	
+<DATE>１２月１３日７：００</DATE><TITLE>血尿</TITLE>
+<S>引っ張ったつもりはないけどね。いきなり<t-val>血が混じった</t-val>んだよ。<cc1>痛くない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７２>	
+<DATE>１２月１４日１３：００</DATE><TITLE>嘔吐</TITLE>
+<S><feature>いきなり</feature><cc1>気持ち悪くなった</cc1>。<nutrition>昼食は９割くらい食べた</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７３>	
+<DATE>１２月１５日９：００</DATE><TITLE>自己喀痰できず</TITLE>
+<S><cc1>苦しい</cc1>けどね。自分では<t-val>出せない</t-val>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７４>	
+<DATE>１２月１６日０：００</DATE><TITLE>呼吸困難感あり</TITLE>
+<S><position>横になって</position><cc1>眠れなくて</cc1>ね。こうやって<position>座っていた</position>んだけど。<cc1>苦しくて眠れない</cc1>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７５>	
+<DATE>１２月１７日１１：００</DATE><TITLE>下肢痛</TITLE>
+<S><body>足</body>が<cc1>痛くて</cc1>、休みながらじゃないと<adl>歩けなくなった</adl>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７６>	
+<DATE>１２月１８日１０：００</DATE><TITLE>定時入院</TITLE> 　
+<S>宜しくお願いします。<adherence>手術の説明は受けています</adherence>。<feature>少し</feature><cc2>怖い</cc2>し、術後うまくご飯を食べられるかが<cc2>心配</cc2>だけど、<adherence>頑張ります</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７７>	
+<DATE>１２月１９日９：３０</DATE><TITLE>退院</TITLE> 　
+<S>ありがとうございました。家では無理をせずに過ごそうと思います。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７８>	
+<DATE>１月６日９：００</DATE><TITLE>血圧高値</TITLE>
+<S>言われてみれば、<body>頭</body>は<cc1>痛い</cc1><feature>かもしれません</feature>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６７９>	
+<DATE>１月７日１０：００</DATE><TITLE>気分不快訴えあり</TITLE>
+<S><feature>だんだん</feature><cc1>気持ち悪くなってきました</cc1>。今のところまだ前回ほどではないですが。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８０>	
+<DATE>３月２０日１９：００</DATE><TITLE>心窩部痛訴えあり</TITLE>
+<S>最近は年度末ということもあって。少し<adherence>飲みすぎたかもしれません</adherence>。今も<body>胃のあたり</body>が<cc1>痛い</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８１>	
+<DATE>４月４日１２：００</DATE><TITLE>発熱や疼痛による苦痛</TITLE>
+<S>唾液を飲み込むときが<feature>一番</feature><cc1>痛い</cc1>。<cc1>喋るのもつらい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８２>	
+<DATE>１１月３日１０：００</DATE><TITLE>ＶＴ</TITLE>
+<S><cc1>ううう</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８３>	
+<DATE>３月９日１９：００</DATE><TITLE>言動が落ち着かない</TITLE>
+<S>家に帰りますね。家族が待っていますから。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８４>	
+<DATE>５月２０日５：００</DATE><TITLE>低酸素血症</TITLE>
+<S>うん。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８５>	
+<DATE>８月１８日１４：００</DATE><TITLE>脱水症状あり</TITLE>
+<S>なんだか<cc1>ふらつく</cc1>のよね。<nutrition>水分は摂っていたかあまり覚えていない</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８６>	
+<DATE>１２月５日１６：００</DATE><TITLE>カンファレンス</TITLE> 　
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８７>	
+<DATE>２月１日９：００</DATE><TITLE>内服薬の飲み間違い</TITLE>
+<S><adherence>飲み間違えていますか</adherence>。なんか今日は数が多いとは思ったんだけどね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８８>	
+<DATE>５月２日１１：００</DATE><TITLE>貧血による気分不快</TITLE>
+<S>昨日から<cc1>立ちくらみやふらつき</cc1>があると思っていました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６８９>	
+<DATE>１２月２６日１０：００</DATE><TITLE>手術への不安</TITLE>
+<S>先生から説明は受けたんですが、いまいち<cc1>イメージがわかなくて</cc1>。大きい傷もできると言っていたし。前の日から準備は必要ですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９０>	
+<DATE>６月２日１１：００</DATE><TITLE>術後のセルフケア不足</TITLE>
+<S><m-key>点眼</m-key>は<adherence>できています</adherence>。普通に過ごせるようになるのはいつくらいですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９１>	
+<DATE>７月２２日１３：００</DATE><TITLE>術後創痛による離床困難</TITLE>
+<S><cc1>痛い</cc1>ですが、このくらいなら<cc1>大丈夫</cc1>。<adherence>頑張ってみます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９２>	
+<DATE>１１月３日１９：００</DATE><TITLE>栄養剤注入による腹部膨満感</TITLE>
+<S><nutrition>お腹がいっぱい</nutrition>で。<cc1>気持ち悪さはない</cc1>です。夜は量も多いから、寝るまでに<body>お腹</body>が<cc1>張ってつらい</cc1>です。<t-key>お通じ</t-key>が<t-val>ゆるい</t-val>のも<cc1>相変わらずあります</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９３>	
+<DATE>３月３日０：００</DATE><TITLE>オーバードーズによる意識障害</TITLE>
+<S>ん～</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９４>	
+<DATE>１月３日５：００</DATE><TITLE>下顎骨折による開口障害</TITLE>
+<S><cc1>痛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９５>	
+<DATE>４月１４日４：００</DATE><TITLE>転倒</TITLE>
+<S>ああ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９６>	
+<DATE>９月２日１４：００</DATE><TITLE>下肢創の痛みや炎症</TITLE>
+<S><cc1>痛い</cc1>ね、<m-key>痛み止め</m-key>を<medicine>お願い</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９７>	
+<DATE>１０月１５日１４：００</DATE><TITLE>仙骨部褥瘡</TITLE>
+<S><cc1>痛くない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９８>	
+<DATE>３月１０日１９：００</DATE><TITLE>シャント閉塞</TITLE>
+<S><cc1>なんともない</cc1>けどね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０６９９>	
+<DATE>２月１４日９：００</DATE><TITLE>右下肢腫脹</TITLE>
+<S><cc1>腫れてきた</cc1>なと思って、受診したんです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７００>	
+<DATE>６月６日１４：００</DATE><TITLE>下肢の創痛</TITLE>
+<S>麻酔がきれたらどのくらい痛くなるか<cc2>心配</cc2>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０１>	
+<DATE>５月１０日８：００</DATE><TITLE>体重増加</TITLE>
+<S><cc1>息苦しい感じはない</cc1>けどね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０２>	
+<DATE>４月３日１５：００</DATE><TITLE>治療経過カンファレンス</TITLE> 　
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０３>	
+<DATE>４月４日１６：００</DATE><TITLE>病状説明</TITLE> 　
+<S>うん、あ、ありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０４>	
+<DATE>４月６日２０：００</DATE><TITLE>死亡退院</TITLE> 　
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０５>	
+<DATE>５月１４日１１：００</DATE><TITLE>心臓カテーテル検査による合併症</TITLE>
+<S><cc1>出血</cc1>したと思ったから、すぐに<adherence>呼びました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０６>	
+<DATE>２月２日８：００</DATE><TITLE>言動が落ち着かず徘徊する</TITLE>
+<S>あそこに行きたいんです。なんだっけ。市役所。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０７>	
+<DATE>６月３日１１：００</DATE><TITLE>腸蠕動運動の低下</TITLE>
+<S><body>お腹</body>は<cc1>張っています</cc1>ね。<body>傷</body>は動くと<cc1>痛い</cc1>です。あまり<adherence>動く気にならなくて</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０８>	
+<DATE>１月１０日２２：００</DATE><TITLE>術後のせん妄状態にある</TITLE>
+<S>そこに妻がいたんですけど。知りませんか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７０９>	
+<DATE>１２月１日　１５：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S><nutrition>食欲が少しない</nutrition>のと、<body>身体</body>が<feature>少し</feature><cc1>だるい</cc1>けどその他は<cc1>変わりない</cc1>です。 <m-key>目薬</m-key>は<medicine>１日５回くらいさしてます</medicine>。<m-key>薬</m-key>も<adherence>ちゃんと食後に飲めてます</adherence>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１０>	
+<DATE>１２月２日　１３：００</DATE><TITLE>急性疼痛</TITLE>
+<S>夜は<feature>あまり</feature><cc1>眠れなかった</cc1>です。<body>傷のところ</body>が動くと<feature>少し</feature><cc1>痛む</cc1>けど今は<feature>我慢できます</feature>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１１>	
+<DATE>１２月３日　２０：００</DATE><TITLE>急性混乱</TITLE>
+<S>私は家に帰ります。お世話になりました。息子が迎えに来てるはずです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１２>	
+<DATE>１１月３０日　１０：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>たん</t-key>（文字盤にて）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１３>	
+<DATE>１１月２８日　１１：３０</DATE><TITLE>血糖不安定リスク</TITLE>
+<S>授業中に<cc1>気分悪くて</cc1><t-key>血糖</t-key>測ったら、<t-val>６０</t-val>でした。<adherence>クッキーを食べました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１４>	
+<DATE>１２月５日　１４：００</DATE><TITLE>ガス交換障害</TITLE>
+<S><cc1>息苦しい</cc1>です。動くと<cc1>駄目</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１５>	
+<DATE>１２月８日　１３：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>いたたたた</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１６>	
+<DATE>１２月８日　１３：００</DATE><TITLE>転倒リスク状態</TITLE>
+<S><adl>自分で行けます</adl>よ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１７>	
+<DATE>１１月１８日　８：００</DATE><TITLE>不眠</TITLE>
+<S>やっぱり<feature>あまり</feature><cc1>眠れません</cc1>でした</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１８>	
+<DATE>１２月１１日　１１：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>痰</t-key>が<t-val>ゴロゴロ</t-val>します</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７１９>	
+<DATE>１１月２１日　１０：００</DATE><TITLE>下痢</TITLE>
+<S>今朝方から、<cc1>下痢</cc1>が続いてて</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２０>	
+<DATE>１２月１日　８：００</DATE><TITLE>不眠</TITLE>
+<S>やっぱり<cc1>眠れなかった</cc1>ね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２１>	
+<DATE>１１月２６日</DATE><TITLE>非効果的健康管理</TITLE>
+<S>もうどうせ死ぬだけやから、そんなの<adherence>どうでもいい</adherence>よ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２２>	
+<DATE>５月１２日　１４：００</DATE><TITLE>嚥下障害</TITLE>
+<S>ちょっと待ってください</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２３>	
+<DATE>２月１８日　１５：００</DATE><TITLE>ボディイメージ混乱</TITLE>
+<S>こんなに<cc1>髪の毛が抜けちゃいました</cc1> <cc1>眉毛もなくなって</cc1><cc2>別人になったみたい</cc2>で、<cc2>外出も億劫</cc2>になりますね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２４>	
+<DATE>８月２７日　１０：００</DATE><TITLE>粘膜障害</TITLE>
+<S>数日前から<cc1>おかしい</cc1>なとは思ってて</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２５>	
+<DATE>１月２１日　１５；００</DATE><TITLE>慢性混乱</TITLE>
+<S><ps_other>帰ります</ps_other>ね。お世話になりました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２６>	
+<DATE>８月１１日　１５：００</DATE><TITLE>便秘</TITLE>
+<S>今日で３日<t-val>出てない</t-val>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２７>	
+<DATE>７月１２日　１６：００</DATE><TITLE>慢性疼痛</TITLE> 　
+<S><m-key>痛み止め</m-key><t-val>もらっていいですか</t-val>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２８>	
+<DATE>６月１９日　１５：００</DATE><TITLE>不安</TITLE>
+<S>考えると<cc2>怖い</cc2>から考えないようにはしてるけどやっぱり<cc2>不安</cc2>ですね</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７２９>	
+<DATE>７月１２日　１２：００</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S><nutrition>もういい</nutrition>です</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３０>	
+<DATE>３月２１日　１０：００</DATE><TITLE>褥瘡リスク状態</TITLE>
+<S>よろしくお願いします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３１>	
+<DATE>３月４日　１６：００</DATE><TITLE>転倒リスク状態</TITLE>
+<S><cc1>大丈夫</cc1>。<adherence>いい、いい</adherence>、<adherence>自分で行ける</adherence>から</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３２>	
+<DATE>２月１７日　１６：００</DATE><TITLE>肥満／過体重</TITLE>
+<S>今日も<adherence>歩いてきました</adherence>。ちょっとずつ減ってきましたね。<adherence>頑張ります</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３３>	
+<DATE>２月８日　１５：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>痰</t-key>が<body>この辺</body>に<t-val>絡んで</t-val>でうまく<t-val>出せません</t-val>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３４>	
+<DATE>５月１３日　１４：４０</DATE><TITLE>転倒リスク状態</TITLE>
+<S><body>頭</body><incident>打った</incident></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３５>	
+<DATE>２月１１日　１５：３０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>死ぬかと思った。<t-key>痰</t-key>がうまく<t-val>出せない</t-val>ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３６>	
+<DATE>２月１１日　１６：００</DATE><TITLE>安楽障害</TITLE>
+<S><cc1>きつい</cc1>、、、</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３７>	
+<DATE>６月２２日　１５：００</DATE><TITLE>不安</TITLE>
+<S>まさか、<disease>癌</disease>とは思いませんでした。<cc2>ショック</cc2>です。今まで大きな病気したことなかったのに。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３８>	
+<DATE>５月２１日　１６；００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>たん</t-key>（伝の心にて）</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７３９>	
+<DATE>２月２８日　１２：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S><adherence>消毒するんでしたね</adherence>。<adherence>針を刺して１０秒数えるんでしたよね</adherence>？<adherence>毎食前でしたもんね</adherence>。<adherence>頑張ります</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４０>	
+<DATE>１月９日　１５：００</DATE><TITLE>非効果的健康維持</TITLE>
+<S><adherence>こんなもんいらん</adherence>よ。外の空気吸ってた方がまだマシやわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４１>	
+<DATE>４月２２日　１３：００</DATE><TITLE>栄養摂取消費バランス異常：必要量以下</TITLE>
+<S>ここ最近<nutrition>食べても食べても</nutrition><cc1>痩せてしまって</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４２>	
+<DATE>４月１１日　２１：００</DATE><TITLE>急性混乱</TITLE>
+<S>この管は切っていいんですか？そして帰りますね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４３>	
+<DATE>８月２７日　１５：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S>家で測っても<t-val>高かった</t-val>です、<m-key>薬</m-key>のせいですかね、</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４４>	
+<DATE>６月３０日　１５：００</DATE><TITLE>セルフケア不足</TITLE>
+<S><adherence>お風呂は入った</adherence>よ</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４５>	
+<DATE>１０月１１日　１５：００</DATE><TITLE>転倒リスク状態</TITLE>
+<S><adherence>これ押せばいいんですね</adherence>。<adherence>分かりました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４６>	
+<DATE>４月２１日　１３：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S><t-key>血糖</t-key>測定と<m-key>インスリン</m-key>家に帰っても<adherence>頑張ります</adherence></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４７>	
+<DATE>６月１６日　１１：００</DATE><TITLE>急性疼痛</TITLE>
+<S><cc1>痛い</cc1>です。今日からリハビリですか、、、<adl>動けそうにない</adl>です。<m-key>痛み止め</m-key><medicine>お願いします</medicine>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４８>	
+<DATE>７月１８日　１４：００</DATE><TITLE>慢性疼痛</TITLE>
+<S><cc1>痛い</cc1>ので、<m-key>痛み止め</m-key><medicine>もらってもいいですか</medicine>？いま、<t-val>６くらい</t-val>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７４９>	
+<DATE>３月２２日　１９：００</DATE><TITLE>急性混乱</TITLE>
+<S>私は東京出身の田中ですか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５０>	
+<DATE>７月１１日　１４：００</DATE><TITLE>感染リスク状態</TITLE>
+<S><t-val>さがってきました</t-val>ね。<adherence>分かりました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５１>	
+<DATE>８月１２日　１５：００</DATE><TITLE>ガス交換障害</TITLE>
+<S><feature>ちょっと</feature><cc1>苦しい</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５２>	
+<DATE>５月２１日　１１：００</DATE><TITLE>下痢</TITLE>
+<S>今日はもう<feature>５回目</feature>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５３>	
+<DATE>４月１１日　１３：００</DATE><TITLE>自己健康管理促進準備状態</TITLE>
+<S>家に帰っても<adherence>ちゃんと測って記録するようにしますね</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５４>	
+<DATE>１月２２日　１０：００</DATE><TITLE>不安</TITLE>
+<S><t-test>検査</t-test>ドキドキしますね。早く結果知りたいけど、<disease>癌</disease>だったら<ps_other>どうしよう</ps_other>って思います。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５５>	
+<DATE>７月２１日１４：００</DATE><TITLE>安楽障害</TITLE>
+<S><cc1>痛い</cc1>、<cc1>しんどい</cc1>、どうにかして</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５６>	
+<DATE>７月８日　１５：００</DATE><TITLE>体液量過剰</TITLE>
+<S>また<cc1>浮腫</cc1>が<change>ひどくなってきました</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５７>	
+<DATE>４月１１日　５：００</DATE><TITLE>睡眠パターン混乱</TITLE>
+<S>もう起きる時間やろ？何時？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５８>	
+<DATE>１０月２２日　１６：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>また<cc1>かさかさ</cc1>になってきました。<body>この辺</body>は<feature>だいぶ</feature><cc1>赤い</cc1>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７５９>	
+<DATE>１２月１日　１３：００</DATE><TITLE>出血のリスク</TITLE>
+<S><body>手術で切ったところ</body>が<cc1>痛い</cc1>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６０>	
+<DATE>１２月３日　１３：００</DATE><TITLE>感染</TITLE>
+<S><cc1>痛み</cc1>も<change>マシ</change>になってきました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６１>	
+<DATE>１２月２日　１：３０</DATE><TITLE>急性混乱</TITLE>
+<S><cc1>おしっこにいきたい</cc1>。<adl>歩ける</adl>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６２>	
+<DATE>１２月３日　２：４５</DATE><TITLE>急性混乱</TITLE>
+<S>誰か助けてくれー。もう帰るんや。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６３>	
+<DATE>１２月３日　１３：００</DATE><TITLE>身体損傷のリスク</TITLE>
+<S>これ（ドレーン）なに？<request>こんなんいらん</request>わー。　早く<request>抜いて</request>ー。ハサミかしてー。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６４>	
+<DATE>１２月３日　１４：１５</DATE><TITLE>身体損傷のリスク</TITLE>
+<S>（ミトンを）<request>早く取って</request>よ。こんなことして、警察呼ぶで！誰か助けて！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６５>	
+<DATE>１２月１日　１３：００</DATE><TITLE>皮膚統合性障害のリスク</TITLE>
+<S><body>傷口</body>が<cc1>痛くて</cc1><adl>動けない</adl>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６６>	
+<DATE>１２月３日　９：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>どこもかしこも</body><cc1>痛い</cc1>わ。<cc1>床ずれ</cc1>できてるの？　分からなかったわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６７>	
+<DATE>１２月５日　１２：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>誰かー。助けてー。家はどこやー。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６８>	
+<DATE>１２月５日　２０：００</DATE><TITLE>薬物中毒</TITLE>
+<S><request>これ（胃管チューブ）抜いて</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７６９>	
+<DATE>１２月５日　２０：００</DATE><TITLE>希死念慮</TITLE>
+<S>死にたくて（内服薬を多量に）飲んだ。でも怖くなって救急車呼んだ。今も死にたい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７０>	
+<DATE>１２月５日　２３：００</DATE><TITLE>身体損傷のリスク</TITLE>
+<S>帰るわ！！こんなとこに、何日もいられないわ！！こんな治療あり得ない！触るな！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７１>	
+<DATE>１２月５日　２３：００</DATE><TITLE>身体損傷のリスク</TITLE>
+<S><cc1>気持ち悪い</cc1>から<incident>（胃管チューブ）抜いた</incident>わ！何が悪いの？そっちが早く抜かないから<incident>抜いた</incident>だけ！もう帰るわ！</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７２>	
+<DATE>１２月６日　１５：００</DATE><TITLE>蘇生後脳症</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７３>	
+<DATE>１２月６日　１３：００</DATE><TITLE>皮膚統合性障害のリスク</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７４>	
+<DATE>１２月６日　１３：００</DATE><TITLE>身体損傷のリスク</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７５>	
+<DATE>１２月７日　１３：００</DATE><TITLE>蘇生後脳症</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７６>	
+<DATE>１２月７日　１７：００</DATE><TITLE>家族機能破綻</TITLE>
+<S>妻Ｓ）まだ、一番下の子は中三なんです。一番上は就職しているけど、真ん中は大学生で。私はパートで働いていたけど、今は夫の病気のことがあって休んでます。でも、経済的にもパートは辞めるわけには行かないので、来週からは働かないといけません。まだ、子供にもお金がかかるのにどうすれば・・・。夫は目は覚めるんでしょうか。今後、今まで通りとは行かなくても、家で生活できるんでしょうか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７７>	
+<DATE>１２月７日　１３：００</DATE><TITLE>皮膚統合性障害のリスク</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７８>	
+<DATE>１２月８日　１６：００</DATE><TITLE>家族機能破綻</TITLE>
+<S>妻Ｓ）<nutrition>食事は少しですが食べられています</nutrition>。あまり<nutrition>食欲はありません</nutrition>。子供たちが励ましてくれて、家事も手伝ってくれています。子供にはまだ、こんなに大変な状況であることは説明出来ていません。下の子は今年受験だしショックを与えたくなくて・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７７９>	
+<DATE>１２月９日　１３：００</DATE><TITLE>蘇生後脳症</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８０>	
+<DATE>１２月９日　１５：００</DATE><TITLE>家族機能破綻</TITLE>
+<S>妻）ひとまず、良くなっているということですか？目が覚めるかどうかは分からないんですね。いつ、鎮静をやめるんですか？　目覚めたらいいけど・・・。子供たちにもきちんと説明しました。もし、最悪の事態になったらと思って。ソーシャルワーカーさんとも、経済的なことが話せて少し不安がマシになりました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８１>	
+<DATE>１２月９日　１５：００</DATE><TITLE>ＶＡＰ</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８２>	
+<DATE>１２月１０日　１３：００</DATE><TITLE>心筋梗塞</TITLE>
+<S><body>胸</body>が<cc1>痛くて</cc1>、ビックリした。手術も切らずに終わって<cc2>良かった</cc2>ー。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８３>	
+<DATE>１２月１０日　１３：００</DATE><TITLE>出血</TITLE>
+<S><cc1>大丈夫</cc1>。<feature>ちょっと</feature><cc1>痛い</cc1>ぐらい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８４>	
+<DATE>１２月１０日　２３：００</DATE><TITLE>せん妄</TITLE>
+<S>いつ帰れるかな？明日仕事があるのになー。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８５>	
+<DATE>１２月１１日　８：００</DATE><TITLE>せん妄</TITLE>
+<S>おはようございます。今日は、どのくらいまで動いていいんだったかな？朝ごはん出るの？そういえば、<nutrition>お腹空いてる</nutrition>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８６>	
+<DATE>１２月１１日　１５：００</DATE><TITLE>出血</TITLE>
+<S>もう<feature>ほぼ</feature><cc1>痛みもない</cc1>し、<cc1>大丈夫</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８７>	
+<DATE>１２月１７日　１６：００</DATE><TITLE>活動耐性低下</TITLE>
+<S><adherence>リハビリするのしんどい</adherence>し、<adherence>まだいい</adherence>わ・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８８>	
+<DATE>１２月１８日　１７：００</DATE><TITLE>活動耐性低下</TITLE>
+<S><cc1>しんどい</cc1>し、<adherence>まだリハビリなんてしなくてもいい</adherence>わ。食事もベッド上で<position>座って</position>食べる。<feature>ずっと</feature><cc1>しんどい</cc1>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７８９>	
+<DATE>１２月１０日　１３：００</DATE><TITLE>気胸</TITLE>
+<S><cc1>息が苦しかった</cc1>けど、少し<change>落ち着いてきました</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９０>	
+<DATE>１２月１１日　１５：００</DATE><TITLE>気胸</TITLE>
+<S><body>管が入ってるところ</body>が<cc1>ズキズキ</cc1>する。<cc1>息は苦しくない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９１>	
+<DATE>１２月１０日　１４：００</DATE><TITLE>脊椎損傷</TITLE>
+<S><body>胸から下</body>が<cc1>痺れてます</cc1>。<body>手も足も</body><adl>動きにくい</adl>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９２>	
+<DATE>１２月１０日　１３：００</DATE><TITLE>皮膚統合性障害のリスク</TITLE>
+<S><request>体の向き変えてもらえますか</request>。<cc1>しんど</cc1>い。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９３>	
+<DATE>１２月１０日　２３：４５</DATE><TITLE>急性混乱</TITLE>
+<S><body>足</body>が<adl>動かない</adl>！なんで！？助けて。なんで、こんなとこにいるんだっけ？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９４>	
+<DATE>１２月１１日　１４：００</DATE><TITLE>皮膚統合性障害のリスク</TITLE>
+<S><cc1>床擦れ</cc1>？聞いたことあるかな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９５>	
+<DATE>１２月１２日　１０：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>首の後ろ</body>が<cc1>ひりひり</cc1>する。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９６>	
+<DATE>１２月１２日　１１：００</DATE><TITLE>頸椎損傷</TITLE>
+<S>ちょっと、<body>足</body>の<adl>動く範囲は増えた気がする</adl>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９７>	
+<DATE>１２月１５日　１５：００</DATE><TITLE>活動耐性低下</TITLE>
+<S><adherence>リハビリしても、治らないし</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９８>	
+<DATE>１２月１９日　１５：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>最近は<cc1>ひりひり</cc1>することが<change>なくなってきた</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０７９９>	
+<DATE>１２月１８日　１０：００</DATE><TITLE>２型糖尿病</TITLE>
+<S><ps_LH>甘いものが大好きだった</ps_LH>から。<adherence>気を付けてた</adherence>んだけど、こんなに<t-key>血糖値</t-key>が<t-val>高い</t-val>なんてびっくりしたわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８００>	
+<DATE>１２月１９日　１４：００</DATE><TITLE>感染</TITLE>
+<S><body>足</body>は、<feature>ずっと</feature><cc1>水虫</cc1>があるのよ。<cc1>痒い</cc1>から掻いてしまって、<feature>ちょっと</feature><cc1>皮がめくれた</cc1>り。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０１>	
+<DATE>１２月１９日　２１：４５</DATE><TITLE>非効果的健康管理</TITLE>
+<S><nutrition>お腹が空いて</nutrition>。ここの<nutrition>食事少ない</nutrition>わよ。<nutrition>味も薄い</nutrition>し。<m-key>インスリン</m-key><medicine>打った</medicine>んだから<adherence>平気でしょ</adherence>？　夫がお金置いていってくれたから、売店で買ったわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０２>	
+<DATE>１２月２０日　１１：３０</DATE><TITLE>非効果的健康管理</TITLE>
+<S>また、<t-key>血糖値</t-key>はかるの？何回も嫌だわ。これ（コーヒー牛乳）も<adherence>ダメなの？</adherence><adherence>知らなかった</adherence>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０３>	
+<DATE>１２月２１日　１１：００</DATE><TITLE>感染</TITLE>
+<S><body>爪</body>が<cc1>剥がれてる</cc1>。<cc1>痛い</cc1>。<body>ここ</body>はいつからかな？、</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０４>	
+<DATE>１２月２１日　１４：００</DATE><TITLE>廃用症候群</TITLE>
+<S>ああ・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０５>	
+<DATE>１２月２３日　１５：００</DATE><TITLE>セルフケア不足</TITLE>
+<S><request>お茶とって</request>。<request>テレビのチャンネル変えて</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０６>	
+<DATE>１２月２４日　１５：００</DATE><TITLE>セルフケア不足</TITLE>
+<S>すみませーん。すみませーん。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０７>	
+<DATE>１２月２７日　１６：００</DATE><TITLE>誤嚥性肺炎</TITLE>
+<S><cc1>しんどい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０８>	
+<DATE>１２月２９日　１７：００</DATE><TITLE>誤嚥性肺炎</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８０９>	
+<DATE>２０２１／１１／１５　９：００</DATE><TITLE>セルフケア不足</TITLE>
+<S>ズボンあげれないわ。<request>助けてもらってもいい</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１０>	
+<DATE>２０２１／１１／１６　１５：００：００</DATE><TITLE>皮膚統合性障害リスク状態</TITLE>
+<S>あー<cc1>痒い</cc1><body>背中</body><request>かいて</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１１>	
+<DATE>１１／３　１３：００</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S>はぁ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１２>	
+<DATE>１１／１３　７：４０</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>自分で帰ろうと思ったら<incident>転けてしまった</incident>。ごめんね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１３>	
+<DATE>１１／５　９：３０</DATE><TITLE>ＰＥＧ増設による感染リスク状態</TITLE>
+<S><cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１４>	
+<DATE>２０２１／１１／７　２：００：００</DATE><TITLE>ターミナル期による安楽障害</TITLE>
+<S><request>起こして</request>。お願い。<request>起こして</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１５>	
+<DATE>１１／５　１０：００</DATE><TITLE>長期プレドニン使用による感染リスク状態</TITLE>
+<S><body>あちこち</body><cc1>痛い</cc1>けど、<cc1>しんどくない</cc1>よ。ありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１６>	
+<DATE>１１／６　１４：３０</DATE><TITLE>透析による合併症に関する安楽障害</TITLE>
+<S>今日は<cc1>どうもない</cc1>。<nutrition>ご飯食べる</nutrition>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１７>	
+<DATE>１１／６　１０：３０</DATE><TITLE>在宅復帰困難</TITLE>
+<S>家帰ってこれ自分でできるかな。全然<cc2>自信がない</cc2>わ。いつ<t-key>便</t-key>が出てくるかわからないからな。これして、家に帰っている人なんか居るのか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１８>	
+<DATE>１１／９　１２：５０</DATE><TITLE>急性混乱</TITLE>
+<S>今から帰るんだけど、出口はどっち。何もしていないじゃないか。こら。離せ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８１９>	
+<DATE>１１／８　９：３０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２０>	
+<DATE>１１／２　１５：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>前回の皮膚科行ったとき、先生がハサミ持ってチョキチョキしてて<cc2>怖かった</cc2>わ。でも<feature>あんまり</feature><cc1>痛くなかった</cc1>よ。今も<cc1>大丈夫</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２１>	
+<DATE>１１／６　１１：２５</DATE><TITLE>慢性混乱</TITLE>
+<S>百均に買いに行こうと思った。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２２>	
+<DATE>２０２１／１１／１０　１４：００：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><adherence>リハビリですか</adherence>。<adherence>わかりました</adherence>。<cc1>疲れた</cc1>わ、ありがとう。明日もよろしく。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２３>	
+<DATE>２０２１／１１／１０　１８：００：００</DATE><TITLE>慢性混乱</TITLE>
+<S>おーい。おーい。帰るで。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２４>	
+<DATE>１１／１　１１：００</DATE><TITLE>セルフケア不足</TITLE>
+<S>はー、<cc1>気持ちよかった</cc1>。ありがとうね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２５>	
+<DATE>１１／８　１４：３０</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>あの中の<request>靴下とって</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２６>	
+<DATE>１１／７　９：３０</DATE><TITLE>体液量過剰</TITLE>
+<S><cc1>ふーふー</cc1>。<cc1>息苦しい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２７>	
+<DATE>２０２１／１１／１８　８：００：００</DATE><TITLE>がん性疼痛に関する安楽障害</TITLE>
+<S><t-key>痛み</t-key>は<t-val>ここぐらい</t-val>かな。<cc1>息苦しさとかはない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２８>	
+<DATE>１１／９　１３：３０</DATE><TITLE>慢性便秘</TITLE>
+<S><t-val>出そうな感じはない</t-val>ですね。昨日<m-key>下剤</m-key>は<medicine>もらった</medicine>んだけどね。<request>浣腸してもらおうかしら</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８２９>	
+<DATE>１１／２３　１８：３０</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S><cc1>ごほっ</cc1>。<nutrition>もうやめとこ</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３０>	
+<DATE>１１／２２　２３：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>あんまり<feature>そんな感じはしない</feature>ですけど、<cc1>熱が出ているのですか</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３１>	
+<DATE>１１／１　１０：００</DATE><TITLE>安楽障害</TITLE>
+<S><feature>少し</feature><cc1>しんどい</cc1>ですけど、体調には<change>変わりありません</change>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３２>	
+<DATE>２０２１／１１／０３　１５：４０</DATE><TITLE>ＥＲＣＰによる合併症の潜在</TITLE>
+<S><body>おなか</body><cc1>痛い</cc1>のは少し<change>落ち着いた</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３３>	
+<DATE>１１／５　１２：００</DATE><TITLE>必要量以下</TITLE>
+<S>あんまり<nutrition>食欲ない</nutrition>ね。<nutrition>これなら飲める</nutrition>けど。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３４>	
+<DATE>１１／５　１０：００</DATE><TITLE>尿路感染</TITLE>
+<S><cc1>腹痛はない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３５>	
+<DATE>１１／６　１１：４０</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><ps_pending>トイレに行く</ps_pending>わ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３６>	
+<DATE>１１／３　１９：００</DATE><TITLE>在宅復帰困難</TITLE>
+<S>えっと、<adherence>忘れていました</adherence>。やっぱり<adherence>忘れてしまう</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３７>	
+<DATE>１１／２５　９：３０</DATE><TITLE>心拍出量減少</TITLE>
+<S><cc1>息苦しくない</cc1>よ。でも、やっぱり話をしてると<cc1>息切れ</cc1>はしちゃうね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３８>	
+<DATE>２０２１／１１／５　９：３０：００</DATE><TITLE>安楽障害</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８３９>	
+<DATE>２０２１／１１／５　１１：００</DATE><TITLE>安楽障害</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４０>	
+<DATE>２０２１／１１／５　１４：３８：００</DATE><TITLE>安楽障害</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４１>	
+<DATE>２０２１／１１／１２　７：４１：００</DATE><TITLE>窒息</TITLE>
+<S><cc1>うっ</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４２>	
+<DATE>２０２１／１１／１２　７：４７</DATE><TITLE>窒息</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４３>	
+<DATE>２０２１／１１／１０　１０：００</DATE><TITLE>消化管運動機能障害</TITLE>
+<S><cc1>ムカムカすることもない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４４>	
+<DATE>２０２１／１１／３　９：３０</DATE><TITLE>急性疼痛</TITLE>
+<S><position>起き上がって</position>用事をしようと思ったら<cc1>痛みます</cc1>けど、<position>寝ていると</position><cc1>痛み</cc1>も<change>落ち着いて</change>いますよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４５>	
+<DATE>２０２１／１２／１　１２：００</DATE><TITLE>必要量以下</TITLE>
+<S>あー<cc1>気持ち悪い</cc1>。一口食べたら<cc1>吐きそう</cc1>。もう<nutrition>下げて</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４６>	
+<DATE>２０２１／１２／２　１４：３５</DATE><TITLE>慢性便秘</TITLE>
+<S>もう<cc1>大丈夫</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４７>	
+<DATE>２０２１／１２／３　１１：３０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４８>	
+<DATE>２０２１／１２／３　１１：１５</DATE><TITLE>血糖不安定リスク状態</TITLE>
+<S>なんか<cc1>変</cc1>だなと思って。<feature>少し</feature><cc1>ふらつく</cc1>し。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８４９>	
+<DATE>２０２１／１２／３　１１：３０</DATE><TITLE>血糖不安定リスク状態</TITLE>
+<S>少し<change>楽になった</change>よ。お風呂入ってる時だったからびっくりした。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５０>	
+<DATE>２０２１／１２／４　１１：５０</DATE><TITLE>出血リスク状態</TITLE>
+<S><cc2>怖かった</cc2>けど、<cc1>大丈夫</cc1>。<cc1>痛くない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５１>	
+<DATE>２０２１／１２／３　１０：２０</DATE><TITLE>セルフケア不足</TITLE>
+<S><request>トイレに行きたい</request>のでよろしくお願いします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５２>	
+<DATE>２０２１／１２／５　１２：００</DATE><TITLE>誤嚥リスク状態</TITLE>
+<S>いただきます。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５３>	
+<DATE>２０２１／１２／８　１０：００</DATE><TITLE>体液量過剰</TITLE>
+<S><cc1>しんどい</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５４>	
+<DATE>２０２１／１２／８　４：５０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>．．．。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５５>	
+<DATE>２０２１／１２／９　１０：３０</DATE><TITLE>セルフケア不足</TITLE>
+<S><cc1>痛い痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５６>	
+<DATE>２０２１／１２／１０　８：１０</DATE><TITLE>過活動膀胱</TITLE>
+<S>ごめん、また<request>トイレよろしく</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５７>	
+<DATE>２０２１／１２／１０　１５：４０</DATE><TITLE>感染リスク状態</TITLE>
+<S><cc1>しんどい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５８>	
+<DATE>２０２１／１２／１１</DATE><TITLE>褥瘡</TITLE>
+<S><cc1>痛くない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８５９>	
+<DATE>１１月２４日１０：００</DATE><TITLE>便秘</TITLE>
+<S><t-key>お通じ</t-key>が<t-val>出ない</t-val>。<position>寝てることが多い</position>からね。<nutrition>水分もあまり摂ってない</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６０>	
+<DATE>１１月２４日１０：００</DATE><TITLE>皮膚統合性リスク状態</TITLE>
+<S><body>お尻</body>が<cc1>痛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６１>	
+<DATE>１２月１３日１５：００</DATE><TITLE>転倒リスク</TITLE>
+<S><feature>少し</feature><cc1>ふらっ</cc1>とするかな。リハビリで<adherence>頑張って歩いてます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６２>	
+<DATE>１２月１０日１６：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>痰</t-key>が<t-val>出にくい</t-val>です。<nutrition>水分は一日５００ｍｌのペットボトル一本ぐらい</nutrition>かな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６３>	
+<DATE>１２月９日２３：３０</DATE><TITLE>せん妄リスク状態</TITLE>
+<S><request>外したい</request>んや！<request>こんなもんいらん</request>。家帰るわ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６４>	
+<DATE>１２月２日１６：００</DATE><TITLE>排尿困難</TITLE>
+<S><nutrition>とろみ</nutrition>つけたら<nutrition>まずくなる</nutrition>から<request>付けないでほしい</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６５>	
+<DATE>５月１０日１２：３０</DATE><TITLE>誤嚥リスク</TITLE>
+<S>とろみつけたらまずくなるから付けないでほしい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６６>	
+<DATE>１１月８日１５：３０</DATE><TITLE>聴覚視力障害</TITLE>
+<S>最近<body>目</body>が<cc1>見えにくくなってきた</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６７>	
+<DATE>１０月３日１５：００</DATE><TITLE>感染リスク状態</TITLE>
+<S><adherence>手洗いうがいしないとね</adherence>。<adherence>マスクもしっかりつけます</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６８>	
+<DATE>１０月５日１０：００</DATE><TITLE>肺がん</TITLE>
+<S><cc1>緊張する</cc1>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８６９>	
+<DATE>６月２５日１１：００</DATE><TITLE>非効果的自己健康管理</TITLE>
+<S>家では<adherence>自分で薬管理してた</adherence>よ。朝は５錠やったかな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７０>	
+<DATE>８月８日１４：００</DATE><TITLE>がん性疼痛</TITLE>
+<S><body>胸</body>が<cc1>痛くなってきた</cc1>。いつもと同じで<feature>ぐっと</feature><feature>鈍い</feature><cc1>痛み</cc1>。<m-key>薬</m-key><medicine>くれへん</medicine>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７１>	
+<DATE>９月３日０１：２０</DATE><TITLE>不眠</TITLE>
+<S><feature>全然</feature><cc1>眠れない</cc1>。なんか<m-key>薬</m-key><medicine>ないかな</medicine>？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７２>	
+<DATE>５月２０日１３：５０</DATE><TITLE>ガス交換障害</TITLE>
+<S><cc1>息苦しい</cc1>。助けて。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７３>	
+<DATE>４月２６日１４：００</DATE><TITLE>下痢</TITLE>
+<S>２日前くらいから<body>お腹</body><cc1>下してる</cc1>。<t-val>水みたい</t-val>な<t-key>便</t-key>が<t-val>出る</t-val>。出したら<body>お腹</body><cc1>痛い</cc1>のは<change>止まる</change>。<t-val>１日５回くらい</t-val><t-key>トイレ</t-key>行く。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７４>	
+<DATE>５月２６日１４：００</DATE><TITLE>セルフケア不足</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７５>	
+<DATE>７月２０日１６：３０</DATE><TITLE>血痰</TITLE>
+<S><cc1>咳</cc1>したら<t-val>血のついた</t-val><t-key>痰</t-key>が<t-val>出てきました</t-val>。<body>胸</body>は<cc1>痛くない</cc1>。<body>喉</body>も<cc1>イガイガしない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７６>	
+<DATE>９月１７日６：００</DATE><TITLE>咳嗽</TITLE>
+<S>夜<cc1>咳</cc1>が<feature>ひどくて</feature><cc1>眠れなかった</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７７>	
+<DATE>１２／３　０１：００</DATE><TITLE>転倒</TITLE>
+<S>トイレ行こうとしたら<incident>尻餅ついた</incident>。<body>頭</body>は<incident>打ってない</incident>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７８>	
+<DATE>９月２０日１４：００</DATE><TITLE>ガス交換障害</TITLE>
+<S><feature>全然</feature><cc1>息苦しくない</cc1>よ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８７９>	
+<DATE>９月１０日０２：００</DATE><TITLE>嘔気</TITLE>
+<S><cc1>吐き気</cc1>がする。<body>頭</body>も<cc1>痛い</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８０>	
+<DATE>１０月２７日１１：４０</DATE><TITLE>低血糖</TITLE>
+<S><cc1>しんどくない</cc1>。<cc1>冷や汗も出ない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８１>	
+<DATE>１２月１６日　１４：００</DATE><TITLE>ＢＦ</TITLE>
+<S>何だか<cc1>緊張</cc1>して<cc1>眠れません</cc1>でした。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８２>	
+<DATE>１０月１１日１４：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>お尻</body><cc1>痛い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８３>	
+<DATE>１０月１２日２２：３０</DATE><TITLE>認知症による離棟リスク</TITLE>
+<S>家に帰ります。どこが出口ですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８４>	
+<DATE>１０月１３日２０：１０</DATE><TITLE>頭痛</TITLE>
+<S><body>頭</body>が<cc1>痛い</cc1>。元々<ps_other>神経質</ps_other>なんです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８５>	
+<DATE>１０月１４日１６：１０</DATE><TITLE>皮膚統合性リスク状態</TITLE>
+<S><body>体</body>が<cc1>痒い</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８６>	
+<DATE>１０月１５日１０：４０</DATE><TITLE>浮腫</TITLE>
+<S><cc1>むくみ</cc1>が<change>取れない</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８７>	
+<DATE>１０月１６日１４：３０</DATE><TITLE>起立性低血圧</TITLE>
+<S><cc1>立ちくらみ</cc1>がする。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８８>	
+<DATE>１０月１７日１５：３０</DATE><TITLE>充血</TITLE>
+<S><body>目</body>は<cc1>痛くない</cc1>。<cc1>痒くもない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８８９>	
+<DATE>１０月１８日１３：２０</DATE><TITLE>血便</TITLE>
+<S><t-key>便</t-key>に<t-val>血が混じってる</t-val>ような気がします。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９０>	
+<DATE>１０月１８日１４：００</DATE><TITLE>皮膚統合性リスク状態</TITLE>
+<S><cc1>湿疹</cc1>ができている。<cc1>痒みはない</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９１>	
+<DATE>１０月２０日１９：００</DATE><TITLE>動悸</TITLE>
+<S><body>胸</body>が<cc1>ドキドキ</cc1>します。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９２>	
+<DATE>１０月３日１１：３０</DATE><TITLE>膀胱炎</TITLE>
+<S>おしっこするときに<cc1>ツーンと痛い</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９３>	
+<DATE>９月５日１３：４０</DATE><TITLE>気管支喘息</TITLE>
+<S><cc1>ぜーぜー</cc1>いって、<cc1>苦しい</cc1>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９４>	
+<DATE>１月１５日１５：００</DATE><TITLE>睡眠時無呼吸症候群</TITLE>
+<S>妻に夜<cc1>いびき</cc1>をかいていると言われました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９５>	
+<DATE>１１月５日１４：００</DATE><TITLE>低栄養状態</TITLE>
+<S><nutrition>食べたくない</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９６>	
+<DATE>９月１４日１１：２０</DATE><TITLE>大腸内視鏡検査</TITLE>
+<S><cc1>しんどい</cc1>けど<adherence>頑張って飲みます</adherence>。<t-key>便</t-key>が<t-val>水のよう</t-val>になってきました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９７>	
+<DATE>５月１７日６：００</DATE><TITLE>排尿障害</TITLE>
+<S>夜に何回も<t-key>トイレ</t-key>に行きます。だから夜<cc1>眠れない</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９８>	
+<DATE>９月２１日１０：００</DATE><TITLE>精神不安定状態</TITLE>
+<S>また<body>腕</body>を<cc1>切ってしまった</cc1>。しんどいときに切ると<cc1>痛くない</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０８９９>	
+<DATE>９月６日０６：００</DATE><TITLE>転倒リスク</TITLE>
+<S>今日は<body>体</body>が<adl>動きづらい</adl>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９００>	
+<DATE>１月２０日８：００</DATE><TITLE>出血リスク</TITLE>
+<S><cc1>鼻血</cc1>が出た。５分くらいで<change>止まりました</change>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０１>	
+<DATE>７月１４日１０：３０</DATE><TITLE>身体拘束カンファレンス</TITLE> 　
+<S><request>これ外して</request>くれへんか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０２>	
+<DATE>１０月６日１６：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>どこに<t-key>痰</t-key>が溜まってますか？</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０３>	
+<DATE>６月３日１０：３０</DATE><TITLE>呼吸不全</TITLE>
+<S><body>頭</body>が<cc1>ぼうっと</cc1>します。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０４>	
+<DATE>９月９日０４：００</DATE><TITLE>安楽障害</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０５>	
+<DATE>３月５日０１：００</DATE><TITLE>安楽障害</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０６>	
+<DATE>１０月１９日０９：００</DATE><TITLE>窒息リスク</TITLE>
+<S></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０７>	
+<DATE>３月２７日１５：００</DATE><TITLE>転落リスク</TITLE>
+<S><position>起き上がる</position>の<cc1>しんどい</cc1>ねん</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０８>	
+<DATE>４月６日１８：００</DATE><TITLE>感染リスク</TITLE>
+<S>何か<body>体</body>が<cc1>熱い</cc1>。<request>熱測って</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９０９>	
+<DATE>１０月１０日１３：３０</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S><feature>少し</feature><cc1>ふらつき</cc1>ます。手すりにつかまらないと<adl>転んじゃいそう</adl>ですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１０>	
+<DATE>１０月１１日１５：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>前までは<adl>一人で歩けていた</adl>のに、病気になっちゃってからは<adl>一人で歩くのが怖い</adl>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１１>	
+<DATE>１０月１２日１２：４０</DATE><TITLE>嚥下障害</TITLE>
+<S><body>喉</body>に<cc1>つかえるような感覚</cc1>があって、<nutrition>飲み込むのが怖い</nutrition>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１２>	
+<DATE>１０月１３日１３：００</DATE><TITLE>嚥下障害</TITLE>
+<S><cc1>ゴホッゴホッ</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１３>	
+<DATE>１０月１４日１２：５５</DATE><TITLE>嚥下障害</TITLE>
+<S>サラサラしている水は<nutrition>むせこんじゃう</nutrition>けど、トロミのついてる水って<nutrition>美味しくない</nutrition>んだよな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１４>	
+<DATE>１０月１５日１３：１０</DATE><TITLE>嚥下障害</TITLE>
+<S><nutrition>美味しい</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１５>	
+<DATE>１０月１６日１２：４５</DATE><TITLE>嚥下障害</TITLE>
+<S>昨日のテレビがさ、<cc1>ゴホッ</cc1>、すごく面白くて、<cc1>ゴホッ</cc1></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１６>	
+<DATE>１０月１７日１３：３０</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>リハビリで<adl>動けるようになってきた</adl>から、<ps_pending>トイレも自分で行けると思った</ps_pending>んだけどね・・・・・・。<adherence>呼ばなくて</adherence>ごめんね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１７>	
+<DATE>１０月１８日１５：００</DATE><TITLE>転倒転落リスク状態</TITLE>
+<S>立とうとしたら<feature>急に</feature><cc1>ふらっと</cc1>しちゃった。<incident>尻もちついた</incident>だけだから<cc1>大丈夫</cc1>だよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１８>	
+<DATE>１１月２４日１４：００</DATE><TITLE>摂食セルフケア不足</TITLE>
+<S>はい。ありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９１９>	
+<DATE>１１月２５日１４：００</DATE><TITLE>摂食セルフケア不足</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２０>	
+<DATE>１１月２６日１５：００</DATE><TITLE>摂食セルフケア不足</TITLE>
+<S><body>腕</body>が<adl>上がらなくて</adl>・・・本当にごめんなさいね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２１>	
+<DATE>１１月２７日１６：００</DATE><TITLE>更衣セルフケア不足</TITLE>
+<S>あれ、<adl>どうやって着るんだっけ</adl>。あはは。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２２>	
+<DATE>１１月２７日１６：００</DATE><TITLE>更衣セルフケア不足</TITLE>
+<S>どうにも<adl>上手く動かない</adl>。<disease>脳梗塞</disease>って<cc2>怖い</cc2>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２３>	
+<DATE>１１月２８日１１：００</DATE><TITLE>便秘</TITLE>
+<S>もう３日も<t-val>出ていない</t-val>の。<body>お腹</body>が<cc1>苦しい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２４>	
+<DATE>１１月２９日１６：００</DATE><TITLE>便秘</TITLE>
+<S>入院してからベッドで<position>寝ているばかり</position>だから、今日も<t-key>お通じ</t-key>がまだ<t-val>ない</t-val>の。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２５>	
+<DATE>１１月３０日１０：００</DATE><TITLE>便秘</TITLE>
+<S><t-key>お通じ</t-key>が<t-val>出ない</t-val>の。入院前も、いきむと<cc1>息があがっちゃう</cc1>ので、あんまり<t-val>出せていなかった</t-val>んです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２６>	
+<DATE>１月３日１４：２０</DATE><TITLE>便秘</TITLE>
+<S><body>お腹</body>が、<cc1>苦しい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２７>	
+<DATE>１月９日１６：４０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２８>	
+<DATE>１月１０日１３：１０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><body>喉</body>が<cc1>ゴロゴロ</cc1>しているんだけど、<cc1>咳が出せなくて</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９２９>	
+<DATE>１月１１日１４：００</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３０>	
+<DATE>１月１２日１０：５０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３１>	
+<DATE>１月１３日１３：５０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S>これ<request>嫌だ</request>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３２>	
+<DATE>１月１４日１３：１０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><cc1>カッカッ</cc1>。ほら、こんなちょっとしか<t-val>出ない</t-val>。<body>喉のところ</body>、<request>痰引いてもらえるかな</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３３>	
+<DATE>１月１５日１６：５０</DATE><TITLE>非効果的気道浄化</TITLE>
+<S><t-key>痰</t-key>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３４>	
+<DATE>１月１６日１６：５０</DATE><TITLE>急性混乱</TITLE>
+<S>早くうちに帰らないと。みなさんお世話になりました。帰らせていただきますね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３５>	
+<DATE>１月１７日１１：１０</DATE><TITLE>急性混乱</TITLE>
+<S>この管はなんですか。こんなものをつけて、何をするつもりですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３６>	
+<DATE>１月１８日１８：００</DATE><TITLE>急性混乱</TITLE>
+<S>ここは病院ですか。なんでこんなところに閉じ込めるんですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３７>	
+<DATE>１月１９日１４：５０</DATE><TITLE>急性混乱</TITLE>
+<S>帰らせてくれ。俺は病気じゃない。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３８>	
+<DATE>１月２０日１０：５０</DATE><TITLE>急性混乱</TITLE>
+<S>うちの子を呼んでください。警察を呼びますよ。早くして。どいてよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９３９>	
+<DATE>１月２１日１１：００</DATE><TITLE>体液量過剰</TITLE>
+<S>動くだけで<cc1>ゼーゼー</cc1>言うんだ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４０>	
+<DATE>１月２２日１５：３０</DATE><TITLE>心拍出量減少</TITLE>
+<S><feature>ちょっと</feature><cc1>疲れました</cc1>。休憩してもいいですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４１>	
+<DATE>１月２３日１５：３０</DATE><TITLE>心拍出量減少</TITLE>
+<S>昔はスポーツをやっていたんだけどね、今はもう、ちょっと歩くだけで<cc1>苦しくなる</cc1>んだ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４２>	
+<DATE>１月２４日１６：５０</DATE><TITLE>心拍出量減少</TITLE>
+<S>家にいる時も、寝返りを打つだけで<cc1>息切れ</cc1>が出て・・・。<feature>全然</feature><cc1>寝付けなかった</cc1>んです。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４３>	
+<DATE>１月２５日１７：００</DATE><TITLE>心拍出量減少</TITLE>
+<S>ご飯って、こんなに、<nutrition>食べるの、大変</nutrition>、なんです、ね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４４>	
+<DATE>１月２６日１６：５０</DATE><TITLE>ガス交換障害</TITLE>
+<S><cc1>苦しい</cc1>、死んじゃうよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４５>	
+<DATE>１月２７日１０：００</DATE><TITLE>ガス交換障害</TITLE>
+<S><cc1>はぁ、はぁ</cc1>、<position>寝ている</position>だけなのにな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４６>	
+<DATE>１月２８日１１：００</DATE><TITLE>ガス交換障害</TITLE>
+<S>学生の時から、<ps_LH>タバコを吸っていた</ps_LH>んだ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４７>	
+<DATE>１月２９日１４：００</DATE><TITLE>非効果的脳組織循環リスク状態</TITLE>
+<S>今日は７月です。ここは私の家ですか。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４８>	
+<DATE>１月３０日１６：００</DATE><TITLE>非効果的脳組織循環リスク状態</TITLE>
+<S><body>手足</body>がこんなに<adl>動かしにくく</adl>なるなんて、思ってもいなかったよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９４９>	
+<DATE>４月１日１３：００</DATE><TITLE>非効果的脳組織循環リスク状態</TITLE>
+<S><cc1>ふらふら</cc1>と<cc1>目眩</cc1>がするの。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５０>	
+<DATE>４月２日１６：１０</DATE><TITLE>非効果的脳組織循環リスク状態</TITLE>
+<S><body>ここまで</body>なら<body>腕</body>が<adl>上がる</adl>んですが、<body>そこから先</body>が<adl>力が入らなくて</adl>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５１>	
+<DATE>４月３日１２：５０</DATE><TITLE>非効果的脳組織循環リスク状態</TITLE>
+<S>あ・・・あ・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５２>	
+<DATE>４月４日１５：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><body>お尻</body>が<cc1>痛くて痛くて</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５３>	
+<DATE>４月５日１６：５０</DATE><TITLE>皮膚統合性障害</TITLE>
+<S><adl>自分じゃ体を動かせない</adl>から、<cc1>床ずれ</cc1>ができちゃうんです。<cc1>痛みはない</cc1>ですよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５４>	
+<DATE>４月５日１０：００</DATE><TITLE>皮膚統合性障害</TITLE>
+<S>・・・。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５５>	
+<DATE>４月６日１５：００</DATE><TITLE>感染リスク状態</TITLE>
+<S>こんなに<body>身体</body>にチューブが入っているんですね。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５６>	
+<DATE>４月７日１３：００</DATE><TITLE>感染リスク状態</TITLE>
+<S>この管が入っていると、<cc1>変な感じ</cc1>がするけど、トイレに行かなくていいのはとても楽ですね。<ps_other>体調</ps_other>は<cc1>悪くない</cc1>ですよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５７>	
+<DATE>４月８日１５：１０</DATE><TITLE>非効果的健康管理</TITLE>
+<S>んー、<adherence>料理って面倒臭くて</adherence>。夫は作ってくれないし、昔からどうしても<ps_LH>お弁当ばかり</ps_LH>頼んじゃうのよね。やらないといけないのは<adherence>わかっていても</adherence>、なかなか<adherence>続かなくて</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５８>	
+<DATE>４月９日１７：４０</DATE><TITLE>非効果的健康管理</TITLE>
+<S>毎日毎日<adherence>薬飲むのって大変</adherence>なんだよな。<adherence>飲んでも飲まなくても変わんない</adherence>んじゃないかなーって。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９５９>	
+<DATE>１２月７日１４：００</DATE><TITLE>入院</TITLE>
+<S><nutrition>食欲がなくて</nutrition>、<body>体</body>が<cc1>だるい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６０>	
+<DATE>１２月８日７：３０</DATE><TITLE>食欲不振</TITLE>
+<S><nutrition>ご飯が美味しくない</nutrition>な。、味が薄い。妻の手料理が食べたい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６１>	
+<DATE>１２月８日１０：００</DATE><TITLE>排泄</TITLE>
+<S><ps_pending>トイレに行こうと思って</ps_pending>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６２>	
+<DATE>１２月８日１４：００</DATE><TITLE>妻の面会、相談</TITLE>
+<S><nutrition>和食が好き</nutrition>なんだ。<nutrition>好きな食べものを食べたい</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６３>	
+<DATE>１２月８日２０：００</DATE>　<TITLE>点滴</TITLE><TITLE>センサーマット</TITLE> 　
+<S><ps_pending>トイレに行きたい</ps_pending>んだ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６４>	
+<DATE>１２月９日　８：００</DATE><TITLE>医師の指示、点滴</TITLE>
+<S><m-key>点滴</m-key>が<ps_pending>減るのか</ps_pending>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６５>	
+<DATE>１２月９日　１４：００</DATE><TITLE>妻の面会</TITLE>
+<S><nutrition>煮物が好き</nutrition>なんだ。特に<nutrition>魚の煮物が好物</nutrition>なんだ。妻より、私ができることはやりたい。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６６>	
+<DATE>１２月９日　２３：００</DATE><TITLE>排泄</TITLE>
+<S><adherence>ボタンを押すのを忘れてしまう</adherence></S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６７>	
+<DATE>１２月１０日　１０：００</DATE><TITLE>清潔ケア</TITLE>
+<S><request>お風呂に入りたい</request>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６８>	
+<DATE>１２月１１日１７：００</DATE><TITLE>病状説明</TITLE>
+<S>妻より、本人も私も<ps_other>延命治療は望んでいません</ps_other>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９６９>	
+<DATE>１２月１２日１０：００</DATE><TITLE>妻の想い</TITLE>
+<S>妻より「昨日は帰宅後、長女へ連絡をしました。長女は看護師です。私は、<m-key>点滴</m-key>や<m-key>酸素</m-key>、尿の管などは今後一切使用せず、自然な形で看取りをしたい希望があります。長女に相談をしたら、自分の意向は病院に伝えたほうが良いと言われました。いかがでしょうか？」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７０>	
+<DATE>１２月１２日１７：００</DATE><TITLE>主治医の訪室</TITLE>
+<S>妻より、<request>自然な形で看取りをしたい</request>です。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７１>	
+<DATE>１２月１３日１０：００</DATE><TITLE>説明</TITLE>
+<S><nutrition>食欲はあまりない</nutrition>けどな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７２>	
+<DATE>１２月１３日１５：００</DATE><TITLE>清潔ケア・入浴</TITLE>
+<S>久しぶりの風呂だ。<cc1>気持ち良い</cc1>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７３>	
+<DATE>１２月１３日２２：００</DATE><TITLE>排泄</TITLE>
+<S><adherence>ボタンを押すのを忘れてしまう</adherence>。年のせいかな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７４>	
+<DATE>１２月１４日１０：００</DATE><TITLE>食欲不振</TITLE>
+<S><nutrition>食べたいと思う気持ちは、ないかもしれない</nutrition>。妻の持参した食事は、<nutrition>食べる意欲が沸く</nutrition>。<body>体</body>は<feature>少し</feature><cc1>だるい</cc1>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７５>	
+<DATE>１２月１４日１４：００</DATE><TITLE>カンファレンス</TITLE>
+<S>患者様の現状について、看護師間で話し合う</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７６>	
+<DATE>１２月１５日１５：００</DATE><TITLE>次女の面会</TITLE>
+<S>次女なんだ。遠いから来なくても良いんだよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７７>	
+<DATE>１２月１６日１４：００</DATE><TITLE>全身倦怠感</TITLE>
+<S><body>体</body>が<cc1>だるい</cc1>な。<cc1>疲れやすい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７８>	
+<DATE>１２月１６日２３：００</DATE><TITLE>排泄</TITLE>
+<S><body>体</body>が<cc1>だるくて</cc1><cc1>起き上がれない</cc1>、だから<cc1>間に合わなかった</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９７９>	
+<DATE>１２月１７日１０：００</DATE><TITLE>排泄の件、妻と相談</TITLE>
+<S>妻より、リハビリパンツを用意します。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８０>	
+<DATE>１２月１７日１４：００</DATE><TITLE>倦怠感</TITLE>
+<S><cc1>だるく</cc1>て仕方がない。<cc1>起きているのがつらい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８１>	
+<DATE>１２月１８日１：００</DATE><TITLE>排泄</TITLE>
+<S><ps_pending>しょんべんだ</ps_pending>。<adl>自分では出来ない</adl>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８２>	
+<DATE>１２月１８日１０：００</DATE><TITLE>清拭</TITLE>
+<S><cc1>だるい</cc1>から<request>風呂は入りたくない</request>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８３>	
+<DATE>１２月１９日１４：００</DATE><TITLE>長女の面会</TITLE>
+<S>おまえも無理して来なくてもいいんだよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８４>	
+<DATE>１２月２０日１４：００</DATE><TITLE>食事</TITLE>
+<S><nutrition>食べる気がしない</nutrition>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８５>	
+<DATE>１２月２１日１０：００</DATE><TITLE>清拭</TITLE>
+<S><cc1>だるい</cc1>から<body>体</body>を<request>拭いてくれ</request>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８６>	
+<DATE>１２月２１日１４：００</DATE><TITLE>カンファレンス</TITLE>
+<S>患者様の現状について、看護師間で話し合う。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８７>	
+<DATE>１２月２２日３：００</DATE><TITLE>尿失禁</TITLE>
+<S><cc1>間に合わなくて</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８８>	
+<DATE>１２月２２日１０：００</DATE><TITLE>オムツの相談</TITLE>
+<S>妻より、テープ式のオムツにしたいと思います。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９８９>	
+<DATE>１２月２３日１０：００</DATE><TITLE>食事摂取</TITLE>
+<S><nutrition>さっぱりした物は食べれる</nutrition>けど、<nutrition>他は食べたくない</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９０>	
+<DATE>１２月２３日１４：００</DATE><TITLE>弟の面会</TITLE>
+<S>久しぶりだな。よく来てくれたな。うれしいよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９１>	
+<DATE>１２月２４日１０：００</DATE><TITLE>清潔ケア</TITLE>
+<S><body>頭</body>を<request>洗ってほしい</request>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９２>	
+<DATE>１２月２５日１４：００</DATE><TITLE>クリスマス会に参加</TITLE>
+<S>クリスマスなんだな。演奏が聞けて良かったよ。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９３>	
+<DATE>１２月２５日１８：００</DATE><TITLE>次女と孫の面会</TITLE>
+<S>よく来てくれたな。ありがとう。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９４>	
+<DATE>１２月２６日１０：００</DATE><TITLE>脱水傾向</TITLE>
+<S><nutrition>食べたいと思わなくなった</nutrition>。妻より「野菜ジュースを飲ませたほうが良いですか？」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９５>	
+<DATE>１２月２７日１０：００</DATE><TITLE>清潔ケア</TITLE>
+<S><cc1>だるい</cc1>から<request>嫌だ</request>よ。<cc1>寝ていたい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９６>	
+<DATE>１２月２７日１４：００</DATE><TITLE>食事量</TITLE>
+<S><nutrition>野菜ジュースはうまい</nutrition>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９７>	
+<DATE>１２月２８日１０：００</DATE><TITLE>倦怠感</TITLE>
+<S>とにかく<cc1>寝ていたい</cc1>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９８>	
+<DATE>１２月２８日１４：００</DATE><TITLE>カンファレンス</TITLE>
+<S>患者様の現状について、看護師間で話し合う。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=０９９９>	
+<DATE>１２月２９日１０：００</DATE><TITLE>長女の面会</TITLE>
+<S>長女へ「おまえは来なくてもいいんだよ」</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１０００>	
+<DATE>１２月２９日１２：３０</DATE><TITLE>食事量</TITLE>
+<S><nutrition>野菜ジュース以外は、あまり食べたくない</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００１>	
+<DATE>１２月２９日１４：００</DATE><TITLE>褥瘡のリスク</TITLE>
+<S><adherence>分かった</adherence>よ。仕方ないな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００２>	
+<DATE>１２月２９日１５：００</DATE><TITLE>褥瘡予防</TITLE>
+<S><adherence>分かりました</adherence>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００３>	
+<DATE>１２月２９日２１：００</DATE><TITLE>体位変換</TITLE>
+<S><position>横向きで寝る</position>のが<cc1>楽</cc1>だな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００４>	
+<DATE>１２月３０日７：３０</DATE><TITLE>朝食</TITLE>
+<S><nutrition>食べる気がしない</nutrition>な。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００５>	
+<DATE>１２月３０日１４：００</DATE><TITLE>妻の発言</TITLE>
+<S>聞きたいことがあって来ました。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００６>	
+<DATE>１２月３０日２３：００</DATE><TITLE>体位変換</TITLE>
+<S>どうも。いつも悪いな。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００７>	
+<DATE>１２月３１日７：３０</DATE><TITLE>食事未摂取</TITLE>
+<S><nutrition>食事より寝ていたい</nutrition>。</S>
+</DOCUMENT>
+	
+<DOCUMENT num=１００８>	
+<DATE>１２月３１日１０：００</DATE><TITLE>バイタル</TITLE>
+<S>あぁ、<cc1>だるい</cc1>。</S>
+</DOCUMENT>
+</root>
